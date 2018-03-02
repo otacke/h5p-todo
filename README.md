@@ -45,3 +45,6 @@ A content type/(library for other content types?) to answer yes, no, foo or bar 
 ### H5P GraphQuiz
 I wrote that on a sheet of paper, but I cannot remember what I wanted to create named this way ;-)
 Might have been something like Capira offered: Teachers can draw a graph as a sample, and learners have to draw a graph that's similar enough. Could as well have been something such as https://quickdraw.withgoogle.com/
+
+### Optionally store state in cookies
+There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994
