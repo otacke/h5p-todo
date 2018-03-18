@@ -27,9 +27,6 @@ H5P Question is a library that offers common functionality to question-like cont
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
-### Improve Copyright Handling
-Needs details ...
-
 ### H5P Paint
 Just a content type to create some doodles and store them -- might be interesting to wrap images in xAPI ;-)
 
