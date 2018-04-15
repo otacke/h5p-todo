@@ -54,3 +54,6 @@ In order so support blended learning scenarios that use xAPI statements, an on-s
 
 ### Twitter library
 Add support for OAuth and tracking hashtags
+
+### Timing Feature for Course Presentation
+I had a prototype for this, but it got lost ... Setting a delay (for each slide individually) after which the presentation jumps to the next slude (and starts over again when reaching the final one).
