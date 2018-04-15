@@ -53,7 +53,7 @@ I have already created a general timer library for H5P, quite versatile, but I d
 In order so support blended learning scenarios that use xAPI statements, an on-site tool might be useful. It it's simplest version it could just trigger an xAPI statement for "attended" when someone (within a particular group/range) clicks a button. A more sophisticated version could also offer some audience response system features.
 
 ### Twitter library
-Add support for OAuth and tracking hashtags
+Add support for OAuth and tracking hashtag
 
-### Timing Feature for Course Presentation
-I had a prototype for this, but it got lost ... Setting a delay (for each slide individually) after which the presentation jumps to the next slude (and starts over again when reaching the final one).
+### Support Cornell Notes
+Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
