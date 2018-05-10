@@ -57,3 +57,6 @@ Add support for OAuth and tracking hashtag
 
 ### Support Cornell Notes
 Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
+
+### Audio-Recorder-Widget
+Based on the Audio-Recorder content type, build an editor widget. Could be combined with the audio widget.
