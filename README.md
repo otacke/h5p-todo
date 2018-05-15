@@ -3,8 +3,8 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## Coming next ...
-- Finish H5P Dictation
-- Create H5P Bingo just for fun/Anja Lorenz
+- Finish H5P Dictation (in UX review)
+- Create H5P Bingo just for fun/Anja Lorenz (prototype state)
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
