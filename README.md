@@ -63,3 +63,6 @@ Based on the Audio-Recorder content type, build an editor widget. Could be combi
 
 ### Word cloud
 Simple content type (with possibly complex variations for fun): Create a word cloud from a list of words similar to https://www.wordclouds.com/
+
+### Hangman
+Self-explanatory. Maybe score + timing would be nice.
