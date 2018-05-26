@@ -59,7 +59,7 @@ Add support for OAuth and tracking hashtag
 Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
 
 ### Audio-Recorder-Widget
-Based on the Audio-Recorder content type, build an editor widget. Could be combined with the audio widget.
+Based on the Audio-Recorder content type, build an editor widget. Could be combined with the audio widget. (cmp. https://h5ptechnology.atlassian.net/browse/HFP-1145). 
 
 ### Word cloud
 Simple content type (with possibly complex variations for fun): Create a word cloud from a list of words similar to https://www.wordclouds.com/
