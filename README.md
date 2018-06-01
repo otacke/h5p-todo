@@ -66,3 +66,6 @@ Simple content type (with possibly complex variations for fun): Create a word cl
 
 ### Hangman
 Self-explanatory. Maybe score + timing would be nice.
+
+### IFTTT connection
+Having an option to trigger IFTTT recipes based on xAPI statements could be real fun!
