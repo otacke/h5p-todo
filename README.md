@@ -69,3 +69,6 @@ Self-explanatory. Maybe score + timing would be nice.
 
 ### IFTTT connection
 Having an option to trigger IFTTT recipes based on xAPI statements could be real fun!
+
+### Select for Fill in the blanks
+Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
