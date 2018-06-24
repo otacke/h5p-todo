@@ -81,3 +81,6 @@ Add Discrete option mode, cmp. https://h5p.org/node/204855
 
 ### Code feedback
 Is there a service with an open API that could be used to unit test code and return some results to H5P? ...
+
+### 3D model display
+It might be an interesting option to have a "3D image" content type that takes a standard 3D model file as input (research: what's standard?) and just displays it with some basic interaction options such as rotating or zooming. I bet there's already an open implementation for that (based on ThreeJS) that could be wrapped and used in H5P.
