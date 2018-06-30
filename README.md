@@ -84,3 +84,9 @@ Is there a service with an open API that could be used to unit test code and ret
 
 ### 3D model display
 It might be an interesting option to have a "3D image" content type that takes a standard 3D model file as input (research: what's standard?) and just displays it with some basic interaction options such as rotating or zooming. I bet there's already an open implementation for that (based on ThreeJS) that could be wrapped and used in H5P.
+
+### Variable system
+There might be cases where you want to (semi-)dynamically create content instead of creating several instances.
+- Add variables, e. g. ${foo} that should not conflict with other texts.
+- Add json file with possible values for a variable to h5p scheme.
+- Big question: How to edit the files?
