@@ -90,3 +90,9 @@ There might be cases where you want to (semi-)dynamically create content instead
 - Add variables, e. g. ${foo} that should not conflict with other texts.
 - Add json file with possible values for a variable to h5p scheme.
 - Big question: How to edit the files?
+
+### Transcript library
+A library that can be used to use (not create) transcripts with audio content or video content.
+- Show transcript of an audio file/video file (based on .vtt captions or similar)
+- Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
+- Jump to position in audio/video on clicking on the text (on click, trigger with time as data)
