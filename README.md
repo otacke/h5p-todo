@@ -5,6 +5,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ## Coming next ...
 - Brush up H5P Dictation (in code review)
 - Create H5P Bingo just for fun/Anja Lorenz (prototype state)
+- Add setAudio function to H5P Question (pull request)
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
@@ -21,8 +22,9 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - Content type for playing bingo at boring conferences -- create your bingo sheet, share, enjoy ;-)
 - Enter pool of bingo words, content type will randomly generate an x by x bingo sheet
 
-### Add setAudio function to H5P Question (already in prototype state)
-H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.
+
+### DONE <strike>Add setAudio function to H5P Question (already in prototype state)</strike>
+<strike>H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.</strike>
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
