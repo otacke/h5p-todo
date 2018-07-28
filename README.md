@@ -98,3 +98,6 @@ A library that can be used to use (not create) transcripts with audio content or
 - Show transcript of an audio file/video file (based on .vtt captions or similar)
 - Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
 - Jump to position in audio/video on clicking on the text (on click, trigger with time as data)
+
+### Make rewind in IV more flexible
+- Set time for rewinding
