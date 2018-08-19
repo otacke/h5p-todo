@@ -4,7 +4,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 
 ## Coming next ...
 - Brush up H5P Dictation (in code review)
-- Create H5P Bingo just for fun/Anja Lorenz (prototype state)
+- Create H5P Bingo just for fun/Anja Lorenz (beta version done)
 - Add setAudio function to H5P Question (pull request)
 
 ## Issues for my existing stuff
