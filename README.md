@@ -102,3 +102,7 @@ A library that can be used to use (not create) transcripts with audio content or
 
 ### Make rewind in IV more flexible
 - Set time for rewinding
+
+### Content type for JSMOL
+[JSMOL](https://sourceforge.net/projects/jmol/) seems 
+to be a library for rendering molecules in HTML5. Creating an H5P content type that displays the corresponding files is probably simple. The more challenging, but also cooler part would be to implement a decent editor.
