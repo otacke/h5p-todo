@@ -18,10 +18,11 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 
 ## Ideas and todos
 
-### H5P Bingo
+### DONE <strike>H5P Bingo</strike>
+<strike>
 - Content type for playing bingo at boring conferences -- create your bingo sheet, share, enjoy ;-)
 - Enter pool of bingo words, content type will randomly generate an x by x bingo sheet
-
+</strike>
 
 ### DONE <strike>Add setAudio function to H5P Question (already in prototype state)</strike>
 <strike>H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.</strike>
