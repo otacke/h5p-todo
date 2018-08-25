@@ -6,6 +6,8 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Brush up H5P Dictation (in code review)
 - Create H5P Bingo just for fun/Anja Lorenz (beta version done)
 - Add setAudio function to H5P Question (pull request)
+- Finish implementation of KaTeX support into upcoming H5P math display library (code cleaning needed)
+- Implement better xAPI support into (Interactive) Video (external project that's supposed to work already)
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
