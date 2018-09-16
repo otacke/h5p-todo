@@ -111,3 +111,9 @@ to be a library for rendering molecules in HTML5. Creating an H5P content type t
 
 ### Text utilities
 The text utilities library could also benefit from some syllable/word/sentence counting capabilities (+Flesch-Kincaid, ...), might be some extra library, too.
+
+### Add video option to dialog cards
+Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.
+
+### Add video option for flash cards
+Currently, flash cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.
