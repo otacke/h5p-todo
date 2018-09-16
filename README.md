@@ -124,3 +124,6 @@ There are many great sources for all kinds of input on the internet, but there's
 - semantics.json contains all the information about the structure of H5P content, needs to be taken into account for mapping input, because the structure may change. Field names are unique for each level - but may be nested and fields may contain arrays aka lists.
 - If there are no arrays/lists containing arrays/lists themselves (as in Essay for example with a list of words containing a list of alternatives), this could be represented using a table structure with each row containing the field name (and a certain data type implicitly) and columns covering list items if multiple items are possible. Groups could be represented as fieldname.groupitemname. The table structure could easily be made editable using common spreadsheet software.
 - Alternatively, create an editor that first parses the current semantics file, allows to define sources and take fields from then and where to map them to.
+
+### Create a set of learning elements for sign language
+Cmp. https://morr.cc/anki-dgs/
