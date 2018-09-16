@@ -117,3 +117,10 @@ Currently, dialog cards can contain images, but not videos. Having videos as wel
 
 ### Add video option for flash cards
 Currently, flash cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.
+
+### Create general import interface (the name is not accurate, but an insider joke ;-))
+There are many great sources for all kinds of input on the internet, but there's no way to utilize them to automatically create H5P content. It still needs to be done manually. Things to think about:
+- "all" that needs to be done is to transform input into a valid content.json file, basically mapping input fields to the right places.
+- semantics.json contains all the information about the structure of H5P content, needs to be taken into account for mapping input, because the structure may change. Field names are unique for each level - but may be nested and fields may contain arrays aka lists.
+- If there are no arrays/lists containing arrays/lists themselves (as in Essay for example with a list of words containing a list of alternatives), this could be represented using a table structure with each row containing the field name (and a certain data type implicitly) and columns covering list items if multiple items are possible. Groups could be represented as fieldname.groupitemname. The table structure could easily be made editable using common spreadsheet software.
+- Alternatively, create an editor that first parses the current semantics file, allows to define sources and take fields from then and where to map them to.
