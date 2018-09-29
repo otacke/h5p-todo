@@ -30,7 +30,7 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 <strike>H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.</strike>
 
 ### DONE <strike>Add video option to dialog cards</strike>
-Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.
+<strike>Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.</strike>
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
