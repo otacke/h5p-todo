@@ -128,3 +128,6 @@ There are many great sources for all kinds of input on the internet, but there's
 
 ### Create a set of learning elements for sign language
 Cmp. https://morr.cc/anki-dgs/
+
+##& Tic Tac Toe
+Just some finger gymnastics :-)
