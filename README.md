@@ -3,8 +3,8 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## Coming next ...
-- Brush up H5P Dictation (in code review)
-- Create H5P Bingo just for fun/Anja Lorenz (in UX review)
+- Brush up H5P Dictation (finishing touches after code review)
+- Create H5P Bingo just for fun/Anja Lorenz (finishing touches after UX review)
 - Add setAudio function to H5P Question (pull request)
 - Finish implementation of KaTeX support into upcoming H5P math display library (code cleaning needed)
 - Implement better xAPI support into (Interactive) Video (external project that's supposed to work already)
