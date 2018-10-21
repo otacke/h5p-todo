@@ -85,7 +85,8 @@ Instead of free text blanks, fill in the blanks might also be used to optionally
 Allow multi-tier-questions, cmp. https://h5p.org/node/204840
 
 ### Multiple-Choice
-Add Discrete option mode, cmp. https://h5p.org/node/204855
+- Add discrete option mode, cmp. https://h5p.org/node/204855
+- Add confidence weighting mode
 
 ### Code feedback
 Is there a service with an open API that could be used to unit test code and return some results to H5P? ...
