@@ -3,11 +3,15 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## Coming next ...
-- Brush up H5P Dictation (finishing touches after code review)
-- Create H5P Bingo just for fun/Anja Lorenz (finishing touches after UX review)
-- Add setAudio function to H5P Question (pull request)
-- Finish implementation of KaTeX support into upcoming H5P math display library (code cleaning needed)
-- Implement better xAPI support into (Interactive) Video (external project that's supposed to work already)
+- 
+- Dictation: Fix a11y (finishing touches after code review)
+- Essay: Fix a11y (in code review)
+- Bingo (in code review)
+- Question: Add setAudio function (pull request)
+- Audio: a11y improvements (pull request)
+- MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
+- DialogCards: Update InteractiveVideo integration (outdated pull request)
+- DialogCards: Add save content state (to be done)
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
