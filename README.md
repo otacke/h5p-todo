@@ -3,7 +3,6 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## Coming next ...
-- 
 - Dictation: Fix a11y (finishing touches after code review)
 - Essay: Fix a11y (in code review)
 - Bingo (in code review)
@@ -137,3 +136,6 @@ Cmp. https://morr.cc/anki-dgs/
 
 ### Tic Tac Toe
 Just some finger gymnastics :-)
+
+### setWhen
+Similar to showWhen widget. Set a field property based on rules
