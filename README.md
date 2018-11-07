@@ -11,7 +11,8 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Audio: a11y improvements (pull request)
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration (outdated pull request)
-- DialogCards: Add save content state (to be done)
+- DialogCards: Add save content state
+- Agamotto: Fix a11y
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
