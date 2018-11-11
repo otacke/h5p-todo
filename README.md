@@ -135,3 +135,8 @@ Just some finger gymnastics :-)
 
 ### setWhen
 Similar to showWhen widget. Set a field property based on rules
+
+### H5P Questionnaire
+Some new libraries that could be used
+- Media (Image, Audio, Video) as interstitial between pages
+- Some numeric input, could be a slider or something similar
