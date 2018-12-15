@@ -3,7 +3,6 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## Coming next ...
-- Dictation: Improve a11y (finishing touches after code review)
 - Bingo (in code review)
 - Question: Add setAudio function (pull request)
 - Audio: a11y improvements (pull request)
