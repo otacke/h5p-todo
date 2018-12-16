@@ -142,3 +142,6 @@ Some new libraries that could be used
 
 ### Add images as answer option to multiple choice?
 Use images instead of text for answers. Might need some UX expertise
+
+### Link-Widget
+Check if link exists while it is entered
