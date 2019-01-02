@@ -65,9 +65,6 @@ In order so support blended learning scenarios that use xAPI statements, an on-s
 ### Support Cornell Notes
 Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
 
-### Audio-Recorder-Widget
-Based on the Audio-Recorder content type, build an editor widget. Could be combined with the audio widget. (cmp. https://h5ptechnology.atlassian.net/browse/HFP-1145). 
-
 ### Word cloud
 Simple content type (with possibly complex variations for fun): Create a word cloud from a list of words similar to https://www.wordclouds.com/
 
