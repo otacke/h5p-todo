@@ -142,3 +142,6 @@ Use images instead of text for answers. Might need some UX expertise
 
 ### Link-Widget
 Check if link exists while it is entered
+
+### DialogCards
+- Save Content State
