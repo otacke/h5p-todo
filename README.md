@@ -145,3 +145,4 @@ Check if link exists while it is entered
 
 ### DialogCards
 - Save Content State
+- Reset button for repetition mode to start over again
