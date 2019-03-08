@@ -8,8 +8,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Audio: a11y improvements (pull request)
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration (outdated pull request)
-- DialogCards: Add save content state (done)
+- DialogCards: Add save content state (crowdfunding campaign at https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards)
 - Agamotto: Fix a11y, add loadimg spinner, add option to set the transparency color (in code review)
+- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines (in code review)
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
