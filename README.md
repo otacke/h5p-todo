@@ -11,7 +11,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - DialogCards: Add save content state (crowdfunding campaign at https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards)
 - Agamotto: Fix a11y, add loadimg spinner, add option to set the transparency color ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2666))
-- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines (in code review)
+- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
