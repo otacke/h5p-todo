@@ -15,6 +15,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - Course Presentation: Fix for presenter sticks that trigger F5 on using the laser pointer.([pull request](https://github.com/h5p/h5p-course-presentation/pull/81))
+- Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
