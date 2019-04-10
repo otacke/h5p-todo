@@ -149,6 +149,8 @@ Use images instead of text for answers. Might need some UX expertise
 ### Link-Widget
 Check if link exists while it is entered
 
-### DialogCards
+### DialogCards, cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
 - Save Content State
 - Reset button for repetition mode to start over again
+
+
