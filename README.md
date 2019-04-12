@@ -2,14 +2,14 @@
 
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
-## Inside the pipeline ...
+## In the pipeline ...
 - Update to Essay ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-1879))
 - Bingo ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2386))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
-- DialogCards: Add save content state (crowdfunding campaign at https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards)
+- DialogCards: Add save content state (crowdfunding campaign at https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards, successful, in review)
 - Agamotto: Fix a11y, add loading spinner, add option to set the transparency color ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2666))
 - Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
