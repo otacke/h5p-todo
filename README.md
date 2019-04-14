@@ -153,4 +153,5 @@ Check if link exists while it is entered
 - Save Content State
 - Reset button for repetition mode to start over again
 
-
+### Leader board plugin for WordPress
+- Optionally show a leaderboard below a content type.
