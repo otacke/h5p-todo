@@ -154,4 +154,6 @@ Check if link exists while it is entered
 - Reset button for repetition mode to start over again
 
 ### Leader board plugin for WordPress
-- Optionally show a leaderboard below a content type.
+- Show a leaderboard below a content type (show/hide on xAPI answered)
+- Different views: full vs. next one ahead / below
+- pages for long boards
