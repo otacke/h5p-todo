@@ -40,6 +40,13 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 ### DONE <strike>Add video option to dialog cards</strike>
 <strike>Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.</strike>
 
+### DONE <strike>DialogCards</strike>
+<strike>
+- cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
+- Save Content State
+- Reset button for repetition mode to start over again
+</strike>
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -148,10 +155,6 @@ Use images instead of text for answers. Might need some UX expertise
 
 ### Link-Widget
 Check if link exists while it is entered
-
-### DialogCards, cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
-- Save Content State
-- Reset button for repetition mode to start over again
 
 ### Leader board plugin for WordPress
 - Show a leaderboard below a content type (show/hide on xAPI answered)
