@@ -160,3 +160,6 @@ Check if link exists while it is entered
 - Show a leaderboard below a content type (show/hide on xAPI answered)
 - Different views: full vs. next one ahead / below
 - pages for long boards
+
+### xAPI for DialogCards
+No technical challenge, but modeling is tricky, especially for the repetition mode.
