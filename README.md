@@ -163,3 +163,7 @@ Check if link exists while it is entered
 
 ### xAPI for DialogCards
 No technical challenge, but modeling is tricky, especially for the repetition mode.
+
+### Spaced Repetition for FlashCards
+- same mechanics as for DialogCards
+- xAPI
