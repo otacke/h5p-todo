@@ -167,3 +167,6 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 ### Spaced Repetition for FlashCards
 - same mechanics as for DialogCards
 - xAPI
+
+### Customization functions
+- Add some helper functions for semantics customization
