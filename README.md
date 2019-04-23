@@ -172,3 +172,6 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 - Add some helper functions for semantics customization
   - e.g. find a semantics field by path/best effort
   - maybe even some WordPress admin settings
+
+### Enhance copyright view
+- Add machine readable license information, cmp. [OERHoernchen](https://oerhoernchen.de/about)
