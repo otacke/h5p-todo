@@ -47,6 +47,9 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - Reset button for repetition mode to start over again
 </strike>
 
+### DONE BY SOMEONE ELSE <strike>Hangman</strike>
+Self-explanatory. Maybe score + timing would be nice.
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -66,7 +69,7 @@ A content type/(library for other content types?) to answer yes, no, foo or bar 
 I wrote that on a sheet of paper, but I cannot remember what I wanted to create named this way ;-)
 Might have been something like Capira offered: Teachers can draw a graph as a sample, and learners have to draw a graph that's similar enough. Could as well have been something such as https://quickdraw.withgoogle.com/
 
-### Optionally store state in cookies
+### Optionally store state in cookies/localStorage
 There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994
 
 ### Timer
@@ -80,9 +83,6 @@ Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
 
 ### Word cloud
 Simple content type (with possibly complex variations for fun): Create a word cloud from a list of words similar to https://www.wordclouds.com/
-
-### Hangman
-Self-explanatory. Maybe score + timing would be nice.
 
 ### IFTTT connection
 Having an option to trigger IFTTT recipes based on xAPI statements could be real fun!
