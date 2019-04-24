@@ -156,7 +156,7 @@ Use images instead of text for answers. Might need some UX expertise
 ### Link-Widget
 Check if link exists while it is entered
 
-### Leader board plugin for WordPress
+### Leaderboard plugin for WordPress
 - Show a leaderboard below a content type (show/hide on xAPI answered)
 - Different views: full vs. next one ahead / below
 - pages for long boards
