@@ -178,3 +178,7 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 
 ### Content Slider
 Content type that is similar to the [Image Slider](https://h5p.org/image-slider), but for content types -- which would be similar to Question Set, but is not supposed to take care of scoring.
+
+### Auto-Progression for Image Slider
+- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
+- Option to jump from last to first/first to last image instead of stopping (normal and automatic)
