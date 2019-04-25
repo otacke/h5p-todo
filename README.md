@@ -175,3 +175,6 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 
 ### Enhance copyright view
 - Add machine readable license information, cmp. [OERHoernchen](https://oerhoernchen.de/about)
+
+### Content Slider
+Content type that is similar to the [Image Slider](https://h5p.org/image-slider), but for content types -- which would be similar to Question Set, but is not supposed to take care of scoring.
