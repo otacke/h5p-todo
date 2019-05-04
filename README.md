@@ -188,3 +188,9 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 
 ### Puzzle Game
 Upload an image, define the dimensions, and let people puzzle
+
+### ToBeNamed
+- Tool to design a network of nodes that process numerical inputs and return numerical outputs.
+- Processing in nodes can be controlled by widgets (e. g. "sum" to add all inputs and return the sum as output.
+- Nodes can also be inputs (number input field, slider, ...)
+- Nodes can also be outputs (numbers, colors, sounds, ...)
