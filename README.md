@@ -10,7 +10,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - DialogCards: Add save content state (crowdfunding campaign at https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards, successful, [in release](https://h5ptechnology.atlassian.net/browse/HFP-2738))
-- Agamotto: Fix a11y, add loading spinner, add option to set the transparency color ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2666))
+- Agamotto: Fix a11y, add loading spinner, add option to set the transparency color ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2666))
 - Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
