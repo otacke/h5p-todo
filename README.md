@@ -4,7 +4,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 
 ## In the pipeline ...
 - Update to Essay ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
-- Bingo ([in code release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-2386))
+- Bingo ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
