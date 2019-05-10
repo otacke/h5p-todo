@@ -194,3 +194,7 @@ Upload an image, define the dimensions, and let people puzzle
 - Processing in nodes can be controlled by widgets (e. g. "sum" to add all inputs and return the sum as output.
 - Nodes can also be inputs (number input field, slider, ...)
 - Nodes can also be outputs (numbers, colors, sounds, ...)
+
+### WordPress-PlugIn
+- Add development mode option
+- Add library development + option
