@@ -16,6 +16,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - Course Presentation: Fix for presenter sticks that trigger F5 on using the laser pointer.([pull request](https://github.com/h5p/h5p-course-presentation/pull/81))
 - Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
+- Image Slider: Add slideshow functionaloty ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
@@ -48,7 +49,14 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 </strike>
 
 ### DONE BY SOMEONE ELSE <strike>Hangman</strike>
-Self-explanatory. Maybe score + timing would be nice.
+<strike>Self-explanatory. Maybe score + timing would be nice.</strike>
+
+### DONE Auto-Progression for Image Slider
+<strike>- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
+- Option to jump from last to first/first to last image instead of stopping (normal and automatic)</strike>
+
+### DONE Support Cornell Notes
+<strike>Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes</strike>
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
@@ -77,9 +85,6 @@ I have already created a general timer library for H5P, quite versatile, but I d
 
 ### H5P OnSite
 In order so support blended learning scenarios that use xAPI statements, an on-site tool might be useful. It it's simplest version it could just trigger an xAPI statement for "attended" when someone (within a particular group/range) clicks a button. A more sophisticated version could also offer some audience response system features.
-
-### Support Cornell Notes
-Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes
 
 ### Word cloud
 Simple content type (with possibly complex variations for fun): Create a word cloud from a list of words similar to https://www.wordclouds.com/
@@ -178,10 +183,6 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 
 ### Content Slider
 Content type that is similar to the [Image Slider](https://h5p.org/image-slider), but for content types -- which would be similar to Question Set, but is not supposed to take care of scoring.
-
-### Auto-Progression for Image Slider
-- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
-- Option to jump from last to first/first to last image instead of stopping (normal and automatic)
 
 ### alter_metadata hook
 Metadata can already be altered using the alter_params hook, but only for subcontent. The meta data for the content type itself is not exposed as it doesn't reside in the params object. It was nice to be able to alter metadata, too, e.g. set a different default license, so it would not have to be set manually each time. An alter_metadata hook might help (could either only give access to the metadata object in extras or pass a reference to all metadata objects in extras and params). Alternatively, an alter_extras hook might help, too.
