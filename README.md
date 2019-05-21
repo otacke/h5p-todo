@@ -199,3 +199,6 @@ Upload an image, define the dimensions, and let people puzzle
 ### WordPress-PlugIn
 - Add development mode option
 - Add library development + option
+
+### Memory
+Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
