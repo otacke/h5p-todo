@@ -202,3 +202,6 @@ Upload an image, define the dimensions, and let people puzzle
 
 ### Memory
 Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
+
+### Arithmetic Quiz
+Set number ranges
