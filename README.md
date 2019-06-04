@@ -204,4 +204,4 @@ Upload an image, define the dimensions, and let people puzzle
 Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
 
 ### Arithmetic Quiz
-Set number ranges
+Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
