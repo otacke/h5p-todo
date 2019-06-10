@@ -205,3 +205,9 @@ Add videos -- but keep an eye on the editor, should probably be improved UX-wise
 
 ### Arithmetic Quiz
 Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
+
+### QuestionSet
+Check ImageScaling for intro inside column
+
+### Apple iBooks Author
+Widget?
