@@ -201,7 +201,10 @@ Upload an image, define the dimensions, and let people puzzle
 - Add library development + option
 
 ### Memory
-Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
+- Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
+- Add text
+- Optionally enlarge images on click on card that was turned already
+- Check stylesheet for error
 
 ### Arithmetic Quiz
 Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
