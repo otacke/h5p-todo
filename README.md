@@ -210,3 +210,6 @@ Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
 
 ### QuestionSet
 Check ImageScaling for intro inside column
+
+### Dialog Cards
+Improve retention by implementing something as described in http://pad.o-e-r.de/p/oercamp19-WS4-04
