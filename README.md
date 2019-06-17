@@ -213,3 +213,6 @@ Check ImageScaling for intro inside column
 
 ### Dialog Cards
 Improve retention by implementing something as described in http://pad.o-e-r.de/p/oercamp19-WS4-04
+
+### Core/Plugins
+Add option to skip reset, can be useful if you simply changed a typo or something minor.
