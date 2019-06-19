@@ -216,3 +216,6 @@ Improve retention by implementing something as described in http://pad.o-e-r.de/
 
 ### Core/Plugins
 Add option to skip reset, can be useful if you simply changed a typo or something minor.
+
+### ChemJax
+Look into supporting ChemJax (similar to MathJax)
