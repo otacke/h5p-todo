@@ -219,3 +219,11 @@ Add option to skip reset, can be useful if you simply changed a typo or somethin
 
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
+
+### WP-H5P-Leaderboard
+PlugIn that allows to add a leaderboard to a post based on the scores achieved for a H5P content type.
+- logged in users only based of H5P internal scores? Or use xAPI from xAPIkatchu, if available, for anonymous users, too?
+- setting for maximum number of scores displayed (paged possibly)
+- setting for anonymous users
+- for logged in users: have their position highlighted
+- modes: all scores vs. just next/previous user + score vs. gap to the top vs. ...
