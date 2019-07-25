@@ -227,3 +227,6 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
 - setting for anonymous users
 - for logged in users: have their position highlighted
 - modes: all scores vs. just next/previous user + score vs. gap to the top vs. ...
+
+### H5P.PDF
+Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js).
