@@ -160,11 +160,6 @@ Use images instead of text for answers. Might need some UX expertise
 ### Link-Widget
 Check if link exists while it is entered
 
-### Leaderboard plugin for WordPress
-- Show a leaderboard below a content type (show/hide on xAPI answered)
-- Different views: full vs. next one ahead / below
-- pages for long boards
-
 ### xAPI for DialogCards
 No technical challenge, but modeling is tricky, especially for the repetition mode.
 
@@ -227,6 +222,12 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
 - setting for anonymous users
 - for logged in users: have their position highlighted
 - modes: all scores vs. just next/previous user + score vs. gap to the top vs. ...
+- Show a leaderboard below a content type (show/hide on xAPI answered)
+- Different views: full vs. next one ahead / below
+- pages for long boards
 
-### H5P.PDF
-Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js).
+### <strike>H5P.PDF</strike>
+<strike>Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js). Rather not to prevent even more PDF overuse.</strike>
+
+### Tabs
+Like Accordion, but using Tabs
