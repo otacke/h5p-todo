@@ -231,3 +231,6 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
 
 ### Tabs
 Like Accordion, but using Tabs
+
+### Linked List Widget
+Editor widget for lists that knows the current entity's index and can link to other list entities using select field that only contains existing nodes and updates the fields on changes (e. g. update the links when a node in between has been removed).
