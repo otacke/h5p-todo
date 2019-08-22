@@ -234,3 +234,6 @@ Like Accordion, but using Tabs
 
 ### Linked List Widget
 Editor widget for lists that knows the current entity's index and can link to other list entities using select field that only contains existing nodes and updates the fields on changes (e. g. update the links when a node in between has been removed).
+
+### Label exercise
+Have a background image and drag text input fields onto the image in order to have an exercise for labeling; could also feature strokes to link to labels next to the image
