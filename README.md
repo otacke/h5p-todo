@@ -3,14 +3,16 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## In the pipeline ...
-- Update to Essay ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
-- Bingo ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
+- Agamotto: Fix slider on mobile, add option to set start image ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2770))
+- Bingo: First release ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
+- Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
+- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
+- Essay: Add xAPI support for reporting, bug fixes ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
+- Image Juxtapositon: Add loading spinner, make slider handle customizable, a11y ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2823))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
-- Agamotto: Fix slider on mobile, add option to set start image ([asked for review](https://h5ptechnology.atlassian.net/browse/HFP-2770))
-- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - Course Presentation: Fix for presenter sticks that trigger F5 on using the laser pointer.([pull request](https://github.com/h5p/h5p-course-presentation/pull/81))
