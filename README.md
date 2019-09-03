@@ -241,3 +241,10 @@ Editor widget for lists that knows the current entity's index and can link to ot
 
 ### Label exercise
 Have a background image and drag text input fields onto the image in order to have an exercise for labeling; could also feature strokes to link to labels next to the image
+
+### Dice Roller
+Just a simple dice(s) content type:
+* Fullscreen (useful for smartphones)
+* Number of facets
+* Number of dices
+* Color of diced
