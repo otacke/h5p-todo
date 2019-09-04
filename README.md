@@ -247,3 +247,6 @@ Just a simple dice(s) content type:
 * Number of facets
 * Number of dices
 * Color of diced
+
+### Datepicker widget for editor
+Says it all :-)
