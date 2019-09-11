@@ -250,3 +250,6 @@ Just a simple dice(s) content type:
 
 ### Datepicker widget for editor
 Says it all :-)
+
+### "view_h5p_contents" capability for WordPress plugin
+If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
