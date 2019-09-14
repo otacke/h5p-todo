@@ -256,3 +256,6 @@ If set, users should at least be able to view the list of H5P contents (includin
 
 ### Image-Widget
 - Add option to include link to image.
+
+### Metadata retrieval
+Look into ways to retrieve metadata from media and use them in H5P directly. 
