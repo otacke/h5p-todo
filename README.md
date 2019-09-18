@@ -267,3 +267,6 @@ Look into ways to retrieve metadata from media and use them in H5P directly.
 - Allow to set some slack. e.g +/- 10 % of characters or words
 - Allow to customize feedback messages if a paragraph subceeds/exceeds
 - Save content state for revision, cmp. Cornell Notes
+
+### Circuit Simulator content type
+Why not have a (simple) wrapper for https://github.com/kazuhikoarase/simcirjs?
