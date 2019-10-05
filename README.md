@@ -3,12 +3,12 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## In the pipeline ...
-- Agamotto: Fix slider on mobile, add option to set start image ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2770))
+- Agamotto: Fix slider on mobile, add option to set start image ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2770))
 - Bingo: First release ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
 - Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
 - Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 - Essay: Add xAPI support for reporting, bug fixes ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
-- Image Juxtapositon: Add loading spinner, make slider handle customizable, a11y ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2823))
+- Image Juxtapositon: Add loading spinner, make slider handle customizable, a11y ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2823))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
