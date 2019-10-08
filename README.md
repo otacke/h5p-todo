@@ -270,3 +270,9 @@ Look into ways to retrieve metadata from media and use them in H5P directly.
 
 ### Circuit Simulator content type
 Why not have a (simple) wrapper for https://github.com/kazuhikoarase/simcirjs?
+
+### Margin widget for images
+Widget that allows to add a margin around images (particularly useful for Drag and Drop)
+- margin top, right, bottom and left
+- background color for the margin
+- preview of the proportions
