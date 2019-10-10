@@ -261,7 +261,7 @@ If set, users should at least be able to view the list of H5P contents (includin
 Look into ways to retrieve metadata from media and use them in H5P directly. 
 
 ### Content Type: Paragraph Writing Structure Strips
-- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/
+- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/ or https://doingsocialstudies.com/2018/02/22/structure-strips-seriously-where-have-you-been-hiding/
 - Allow to set the weight of each paragraph
 - Allow to set the color of a paragraph strip
 - Allow to set some slack. e.g +/- 10 % of characters or words
