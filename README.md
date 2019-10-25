@@ -8,7 +8,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
 - Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
 - Essay: Add xAPI support for reporting, bug fixes ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
-- Image Juxtapositon: Add loading spinner, make slider handle customizable, a11y ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2823))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
