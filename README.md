@@ -25,6 +25,7 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P Dictation](https://github.com/otacke/h5p-dictation)
 - [H5P Essay](https://github.com/otacke/h5p-essay)
 - [H5P Image Juxtaposition](https://github.com/otacke/h5p-image-juxtaposition)
+- [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
 - [H5P Text Utilities](https://github.com/otacke/h5p-text-utilities)
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu)
 
