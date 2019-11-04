@@ -67,7 +67,9 @@ It was nice if one could set a period of time after which a course presentations
 Just a content type to create some doodles and store them -- might be interesting to wrap images in xAPI ;-)
 
 ### H5P Annotate
-Container like content type that will put something like a timeline-ish comment section next to other content types for (collaborative) annotation. Would need some mechanism for sharing data among users
+- Container like content type that will put a timeline-ish comment section next to other content types for (collaborative) annotation, e.g. next to video or audio.
+- Allow to jump from comment to video/audio and vice-versa.
+- Would need some mechanism for sharing data among users in collaboration mode.
 
 ### H5P Mandelbrot
 Just for fun, a generator for fractals
