@@ -158,6 +158,7 @@ Similar to showWhen widget. Set a field property based on rules
 Some new libraries that could be used
 - Media (Image, Audio, Video) as interstitial between pages
 - Some numeric input, could be a slider or something similar
+- Some numeric input, Likert scaled
 
 ### Add images as answer option to multiple choice?
 Use images instead of text for answers. Might need some UX expertise
