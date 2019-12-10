@@ -279,3 +279,6 @@ Widget that allows to add a margin around images (particularly useful for Drag a
 - margin top, right, bottom and left
 - background color for the margin
 - preview of the proportions
+
+### Magnifying option for H5P.Image
+Add an option to magnify parts of an image similar what's common in web shops.
