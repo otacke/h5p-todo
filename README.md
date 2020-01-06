@@ -282,3 +282,6 @@ Widget that allows to add a margin around images (particularly useful for Drag a
 
 ### Magnifying option for H5P.Image
 Add an option to magnify parts of an image similar what's common in web shops.
+
+### Piano Question
+New content type, basically a multiple choice question, but using a piano keyboard as input
