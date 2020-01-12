@@ -285,3 +285,8 @@ Add an option to magnify parts of an image similar what's common in web shops.
 
 ### Piano Question
 New content type, basically a multiple choice question, but using a piano keyboard as input
+
+### Taboo
+Content Type for the (reversed) Taboo game.
+- Like dialog cards, add cards with taboo words
+- Have a reversed mode where words must be included and need to be checked
