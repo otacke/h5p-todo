@@ -290,3 +290,6 @@ New content type, basically a multiple choice question, but using a piano keyboa
 Content Type for the (reversed) Taboo game.
 - Like dialog cards, add cards with taboo words
 - Have a reversed mode where words must be included and need to be checked
+
+### 3D model support
+Add 3D model support to H5P.Image and the core widget using an appropriate library.
