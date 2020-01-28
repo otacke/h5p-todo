@@ -293,3 +293,6 @@ Content Type for the (reversed) Taboo game.
 
 ### 3D model support
 Add 3D model support to H5P.Image and the core widget using an appropriate library.
+
+### DragQuestion
+Option to keep correct items in place.
