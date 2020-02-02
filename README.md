@@ -295,7 +295,8 @@ Content Type for the (reversed) Taboo game.
 Add 3D model support to H5P.Image and the core widget using an appropriate library.
 
 ### DragQuestion
-Option to keep correct items in place.
+- Add option to keep correct items in place.
+- Add white space next to image for putting draggables there
 
 ### Whats5P ;-)
 Content type that's similar to a Question Set, but that has a vertical layout resembling a chat window including texts in between exercises.
