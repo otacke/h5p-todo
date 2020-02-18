@@ -304,3 +304,20 @@ Content type that's similar to a Question Set, but that has a vertical layout re
 
 ### Timer Content Type
 Just a simple stop watch / countdown timer content type.
+
+### Categorizator
+Compound Content Type that allows to add content types (media), attach tags to them and then allow to filter them for the tags, etc.
+
+### WP-H5P-Resize-Hack
+Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
+
+### Bugfix: Text size in DialogCards inside Course Presentations
+
+### Kewar: Add "description" field
+Add "description" field to QR code that can be displayed along with the QRCode
+
+### General Feedback
+Allow links, could facilitate paths
+
+### Multiple Choice
+Option for "neither right nor wrong"
