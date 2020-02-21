@@ -301,6 +301,8 @@ Add 3D model support to H5P.Image and the core widget using an appropriate libra
 ### Whats5P ;-)
 Content type that's similar to a Question Set, but that has a vertical layout resembling a chat window including texts in between exercises.
 - Could get a separate reporting class for more sophisticated analysis across exercises.
+- Cmp. https://toolbot.glitch.me/
+- Cmp. https://learningsnacks.de
 
 ### Timer Content Type
 Just a simple stop watch / countdown timer content type.
