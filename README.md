@@ -60,6 +60,11 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 ### DONE Support Cornell Notes
 <strike>Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes</strike>
 
+### DONE by serettig in Advanced Fill in the Blanks Select for Fill in the blanks
+<strike>
+Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
+</strike>
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -95,9 +100,6 @@ Simple content type (with possibly complex variations for fun): Create a word cl
 
 ### IFTTT connection
 Having an option to trigger IFTTT recipes based on xAPI statements could be real fun!
-
-### Select for Fill in the blanks
-Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
 
 ### Question Set
 Allow multi-tier-questions, cmp. https://h5p.org/node/204840
