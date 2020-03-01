@@ -43,6 +43,9 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 ### DONE <strike>Add video option to dialog cards</strike>
 <strike>Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.</strike>
 
+### <strike>H5P.PDF</strike>
+<strike>Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js). Rather not to prevent even more PDF overuse.</strike>
+
 ### DONE <strike>DialogCards</strike>
 <strike>
 - cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
@@ -53,20 +56,23 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 ### DONE BY SOMEONE ELSE <strike>Hangman</strike>
 <strike>Self-explanatory. Maybe score + timing would be nice.</strike>
 
-### DONE Auto-Progression for Image Slider
+### DONE <strike>Auto-Progression for Image Slider</strike>
 <strike>- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
 - Option to jump from last to first/first to last image instead of stopping (normal and automatic)</strike>
 
 ### DONE Support Cornell Notes
 <strike>Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes</strike>
 
-### DONE by serettig in Advanced Fill in the Blanks Select for Fill in the blanks
+### DONE <strike>by serettig in Advanced Fill in the Blanks Select for Fill in the blanks</strike>
 <strike>
 Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
 </strike>
 
 ### DONE <strike>QuestionSet</strike>
 <strike>Check ImageScaling for intro inside column</strike>
+
+### DONE <strike>Bugfix: Text size in DialogCards inside Course Presentations</strike>
+<strike>Cannot reproduce</strike>
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
@@ -234,9 +240,6 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
 - Different views: full vs. next one ahead / below
 - pages for long boards
 
-### <strike>H5P.PDF</strike>
-<strike>Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js). Rather not to prevent even more PDF overuse.</strike>
-
 ### Tabs
 Like Accordion, but using Tabs
 
@@ -314,8 +317,6 @@ Compound Content Type that allows to add content types (media), attach tags to t
 
 ### WP-H5P-Resize-Hack
 Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
-
-### Bugfix: Text size in DialogCards inside Course Presentations
 
 ### Kewar: Add "description" field
 Add "description" field to QR code that can be displayed along with the QRCode
