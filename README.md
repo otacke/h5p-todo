@@ -65,6 +65,9 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
 </strike>
 
+### DONE <strike>QuestionSet</strike>
+<strike>Check ImageScaling for intro inside column</strike>
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -210,9 +213,6 @@ Upload an image, define the dimensions, and let people puzzle
 
 ### Arithmetic Quiz
 Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
-
-### QuestionSet
-Check ImageScaling for intro inside column
 
 ### Dialog Cards
 Improve retention by implementing something as described in http://pad.o-e-r.de/p/oercamp19-WS4-04
