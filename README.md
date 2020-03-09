@@ -332,3 +332,6 @@ Add text2speech option (text/language/params)
 
 ### Content Type: Spreadsheet Question
 Pretty straightforward: have a table with some filled/unfilled cells - and the latter to be filled
+
+### Drag the Words
+Allow alternatives
