@@ -74,6 +74,10 @@ Instead of free text blanks, fill in the blanks might also be used to optionally
 ### DONE <strike>Bugfix: Text size in DialogCards inside Course Presentations</strike>
 <strike>Cannot reproduce</strike>
 
+
+### DONE <strike>Optionally store state in cookies/localStorage</strike>
+<strike>There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994</strike>
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -94,9 +98,6 @@ A content type/(library for other content types?) to answer yes, no, foo or bar 
 ### H5P GraphQuiz
 I wrote that on a sheet of paper, but I cannot remember what I wanted to create named this way ;-)
 Might have been something like Capira offered: Teachers can draw a graph as a sample, and learners have to draw a graph that's similar enough. Could as well have been something such as https://quickdraw.withgoogle.com/
-
-### Optionally store state in cookies/localStorage
-There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994
 
 ### Timer
 I have already created a general timer library for H5P, quite versatile, but I do not even dare to look at that old piece of code ;-) Maybe I'll write something new, tiny and focussed and ready for adding a timer (maybe as an overlay) to any H5P library that needs one. Could also go into H5P-Question.
