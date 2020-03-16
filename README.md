@@ -335,4 +335,4 @@ Add text2speech option (text/language/params)
 Pretty straightforward: have a table with some filled/unfilled cells - and the latter to be filled
 
 ### Drag the Words
-Allow alternatives
+Allow alternatives, keep xAPI extension/correct responses pattern in mind
