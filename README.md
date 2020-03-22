@@ -336,3 +336,9 @@ Pretty straightforward: have a table with some filled/unfilled cells - and the l
 
 ### Drag the Words
 Allow alternatives, keep xAPI extension/correct responses pattern in mind
+
+### Scuh
+Point-and-Click-Adventure-like (probably too much effort for teachers to create those)
+* Rooms (image background with hotspots + NPCs)
+* Inventory (items)
+actions = use item + (item / hotspot / NPC)
