@@ -342,3 +342,6 @@ Point-and-Click-Adventure-like (probably too much effort for teachers to create 
 * Rooms (image background with hotspots + NPCs)
 * Inventory (items)
 actions = use item + (item / hotspot / NPC)
+
+### Spot the mistakes
+The teacher can write a text including deliberately misspelled words/wrong punctuation marks. The student needs to spot the mistakes, mark and correct them.
