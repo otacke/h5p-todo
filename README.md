@@ -3,11 +3,8 @@
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## In the pipeline ...
-- Agamotto: Fix slider on mobile, add option to set start image ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2770))
 - Bingo: First release ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
 - Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
-- Dictation: Add a couple of new features: RTL for solution view, autosplitting, alternate words, headlines ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2554))
-- Essay: Add xAPI support for reporting, bug fixes ([in release, needs update in report module](https://h5ptechnology.atlassian.net/browse/HFP-1879))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
@@ -15,7 +12,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
-- Image Slider: Add slideshow functionaloty ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
+- Image Slider: Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
