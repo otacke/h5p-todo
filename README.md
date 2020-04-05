@@ -342,3 +342,6 @@ actions = use item + (item / hotspot / NPC)
 
 ### Spot the mistakes
 The teacher can write a text including deliberately misspelled words/wrong punctuation marks. The student needs to spot the mistakes, mark and correct them.
+
+### Content Type: Visualization
+Wrapper for https://www.chartjs.org to have multiple chart options in one content type.
