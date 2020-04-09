@@ -345,3 +345,5 @@ The teacher can write a text including deliberately misspelled words/wrong punct
 
 ### Content Type: Visualization
 Wrapper for https://www.chartjs.org to have multiple chart options in one content type.
+
+### Accordion: Use Column as content wrapper
