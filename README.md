@@ -351,3 +351,6 @@ Wrapper for https://www.chartjs.org to have multiple chart options in one conten
 
 ### (Collaborative) Post-it organizer
 Could be something like GoogleKeep, but open
+
+### DialogCards
+Support other algorithms such as SM2 in Anki or SuperMemo.
