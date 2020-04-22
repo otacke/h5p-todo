@@ -354,3 +354,6 @@ Could be something like GoogleKeep, but open
 
 ### DialogCards
 Support other algorithms such as SM2 in Anki or SuperMemo.
+
+### Multiple Choice
+- Make : escapable as \:
