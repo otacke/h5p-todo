@@ -327,7 +327,8 @@ Allow links, could facilitate paths
 Option for "neither right nor wrong"
 
 ### Audio
-Add text2speech option (text/language/params)
+- Add text2speech option (text/language/params)
+- Add Audio Recorder?
 
 ### Content Type: Spreadsheet Question
 Pretty straightforward: have a table with some filled/unfilled cells - and the latter to be filled
