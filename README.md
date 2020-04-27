@@ -358,3 +358,6 @@ Support other algorithms such as SM2 in Anki or SuperMemo.
 
 ### Multiple Choice
 - Make : escapable as \:
+
+### Content type for group finding
+With the Multiplayer API: Have a tool where the teacher can define groups and rules and students can assign themselves to, be assigned to, etc. 
