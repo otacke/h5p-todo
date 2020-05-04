@@ -366,3 +366,6 @@ With the Multiplayer API: Have a tool where the teacher can define groups and ru
 - Make : escapable as \\:
 - Make / escapable as \\/
 - Make * escapable as \\*
+
+### WordPress
+- Add reporting module
