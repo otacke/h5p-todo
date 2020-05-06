@@ -369,3 +369,6 @@ With the Multiplayer API: Have a tool where the teacher can define groups and ru
 
 ### WordPress
 - Add reporting module: https://github.com/h5p/h5p-php-report
+
+### Drag and Drop
+- Add Shapes
