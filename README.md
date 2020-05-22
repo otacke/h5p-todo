@@ -373,3 +373,9 @@ With the Multiplayer API: Have a tool where the teacher can define groups and ru
 
 ### Drag and Drop
 - Add Shapes
+
+### Repetitor
+New content type that works like blending QuestionSet and DialogCards:
+- Allow to set question type content
+- Use each content's result as grounds for a repetition mode
+- Different modes possible, e.g. classic Leitner, http://pad.o-e-r.de/p/oercamp19-WS4-04, ...
