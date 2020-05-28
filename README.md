@@ -7,7 +7,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
-- MathDisplay: Finish implementation of KaTeX support (code cleaning needed)
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
@@ -379,3 +378,6 @@ New content type that works like blending QuestionSet and DialogCards:
 - Allow to set question type content
 - Use each content's result as grounds for a repetition mode
 - Different modes possible, e.g. classic Leitner, http://pad.o-e-r.de/p/oercamp19-WS4-04, ...
+
+### MathDisplay
+Add KaTeX support
