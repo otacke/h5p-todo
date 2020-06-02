@@ -351,7 +351,7 @@ Wrapper for https://www.chartjs.org to have multiple chart options in one conten
 ### Accordion: Use Column as content wrapper
 
 ### (Collaborative) Post-it organizer
-Could be something like GoogleKeep, but open
+Could be something like GoogleKeep, but open (Multiplayer API needed)
 
 ### DialogCards
 Support other algorithms such as SM2 in Anki or SuperMemo.
