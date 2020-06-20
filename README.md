@@ -381,3 +381,11 @@ New content type that works like blending QuestionSet and DialogCards:
 
 ### MathDisplay
 Add KaTeX support
+
+### "GameMap"
+Compound Content Type similar to Image Hotspots, but ...
+- allow any kind of content type
+- allow to track progress
+- allow to define prerequisites for enabling hotspots
+- display the current "position"
+- think of it as the map in Super Mario Wold
