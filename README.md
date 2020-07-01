@@ -389,3 +389,6 @@ Compound Content Type similar to Image Hotspots, but ...
 - allow to define prerequisites for enabling hotspots
 - display the current "position"
 - think of it as the map in Super Mario Wold
+
+### Image
+Add option to use link instead of uploading image
