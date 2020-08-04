@@ -70,9 +70,11 @@ Instead of free text blanks, fill in the blanks might also be used to optionally
 ### DONE <strike>Bugfix: Text size in DialogCards inside Course Presentations</strike>
 <strike>Cannot reproduce</strike>
 
-
 ### DONE <strike>Optionally store state in cookies/localStorage</strike>
 <strike>There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994</strike>
+
+### DONE <strike>WP-H5P-Resize-Hack</strike>
+Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
@@ -313,9 +315,6 @@ Just a simple stop watch / countdown timer content type.
 
 ### Categorizator
 Compound Content Type that allows to add content types (media), attach tags to them and then allow to filter them for the tags, etc.
-
-### WP-H5P-Resize-Hack
-Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
 
 ### Kewar: Add "description" field
 Add "description" field to QR code that can be displayed along with the QRCode
