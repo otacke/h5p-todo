@@ -391,3 +391,6 @@ Compound Content Type similar to Image Hotspots, but ...
 
 ### Image
 Add option to use link instead of uploading image
+
+### Interactive Video: Chapter Marks
+YouTube added a chapter feature by using the description for marks. Check if it is possible to retrieve those and use them to build chapters in H5P automatically.
