@@ -400,3 +400,8 @@ YouTube added a chapter feature by using the description for marks. Check if it 
 
 ### Content Type: Text correction
 Spot mistakes in a text and correct them.
+
+### Interactive Video: Countdown
+- As an author, I want to be able to add a countdown to interactions that will automatically check the task/close the interaction overlay when the timer reaches zero.
+  - Check vs close (disable retry if check or it doesn't make much sense)
+  - Visual timer vs. hidden timer (where to put the timer?)
