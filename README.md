@@ -4,7 +4,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 
 ## In the pipeline ...
 - Bingo: First release ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
-- Cornell Notes: First release ([in code review](https://h5ptechnology.atlassian.net/browse/HFP-2828))
+- Cornell Notes: First release ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2828))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
 - DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
