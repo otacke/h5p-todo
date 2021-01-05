@@ -16,12 +16,17 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
 - [H5P Agamotto](https://github.com/otacke/h5p-agamotto)
+- [H5P AR Scavenger](https://github.com/otacke/h5p-ar-scavenger)
 - [H5P Bingo](https://github.com/otacke/h5p-bingo)
+- [H5P Completion Confirmation](https://github.com/otacke/h5p-completion-confirmation)
 - [H5P Cornell Notes](https://github.com/otacke/h5p-cornell)
+- [H5P Crossword](https://github.com/otacke/h5p-crossword)
 - [H5P Dictation](https://github.com/otacke/h5p-dictation)
 - [H5P Essay](https://github.com/otacke/h5p-essay)
 - [H5P Image Juxtaposition](https://github.com/otacke/h5p-image-juxtaposition)
 - [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
+- [H5P Pick the Symbols](https://github.com/otacke/h5p-pick-the-symbols)
+- [H5P Sort the Paragraphs](https://github.com/otacke/h5p-sort-paragraphs)
 - [H5P Text Utilities](https://github.com/otacke/h5p-text-utilities)
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu)
 
