@@ -410,3 +410,10 @@ Spot mistakes in a text and correct them.
 - As an author, I want to be able to add a countdown to interactions that will automatically check the task/close the interaction overlay when the timer reaches zero.
   - Check vs close (disable retry if check or it doesn't make much sense)
   - Visual timer vs. hidden timer (where to put the timer?)
+
+### WordPress-Plugin: Timed questions
+- As an author, I want to set a maximum time for H5P content in order to limit the amount of time that people can spend with the content.
+  - Could call "showSolutions" via H5P question type contract
+  - Could block editing by injecting an overlay (on same server)
+  - Could show a timer (positioning?)
+  - Optionally implement functions in H5P core (approval needed)
