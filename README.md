@@ -12,6 +12,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
 - Image Slider: Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
+- Structure Strip: First release ([in review](https://h5ptechnology.atlassian.net/browse/HFP-2911))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
@@ -27,6 +28,7 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
 - [H5P Pick the Symbols](https://github.com/otacke/h5p-pick-the-symbols)
 - [H5P Sort the Paragraphs](https://github.com/otacke/h5p-sort-paragraphs)
+- [H5P Structure Strip](https://github.com/otacke/h5p-structure-strip)
 - [H5P Text Utilities](https://github.com/otacke/h5p-text-utilities)
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu)
 
@@ -80,6 +82,14 @@ Instead of free text blanks, fill in the blanks might also be used to optionally
 
 ### DONE <strike>WP-H5P-Resize-Hack</strike>
 Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
+
+### DONE <strike>Content Type: Paragraph Writing Structure Strips</strike>
+<strike>- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/ or https://doingsocialstudies.com/2018/02/22/structure-strips-seriously-where-have-you-been-hiding/</strike>
+<strike>- Allow to set the weight of each paragraph</strike>
+<strike>- Allow to set the color of a paragraph strip</strike>
+<strike>- Allow to set some slack. e.g +/- 10 % of characters or words</strike>
+<strike>- Allow to customize feedback messages if a paragraph subceeds/exceeds</strike>
+<strike>- Save content state for revision, cmp. Cornell Notes</strike>
 
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
@@ -273,14 +283,6 @@ If set, users should at least be able to view the list of H5P contents (includin
 
 ### Metadata retrieval
 Look into ways to retrieve metadata from media and use them in H5P directly. 
-
-### Content Type: Paragraph Writing Structure Strips
-- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/ or https://doingsocialstudies.com/2018/02/22/structure-strips-seriously-where-have-you-been-hiding/
-- Allow to set the weight of each paragraph
-- Allow to set the color of a paragraph strip
-- Allow to set some slack. e.g +/- 10 % of characters or words
-- Allow to customize feedback messages if a paragraph subceeds/exceeds
-- Save content state for revision, cmp. Cornell Notes
 
 ### Circuit Simulator content type
 Why not have a (simple) wrapper for https://github.com/kazuhikoarase/simcirjs?
