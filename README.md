@@ -13,6 +13,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
 - Image Slider: Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 - Structure Strip: First release ([in review](https://h5ptechnology.atlassian.net/browse/HFP-2911))
+- Pick the Symbols
+- Highlight the Words
+- Crossword
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
