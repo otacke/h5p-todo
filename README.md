@@ -422,3 +422,6 @@ Spot mistakes in a text and correct them. Could become a feature of Highlight th
   - Could block editing by injecting an overlay (on same server)
   - Could show a timer (positioning?)
   - Optionally implement functions in H5P core (approval needed)
+
+### H5P Interactive Video
+Fix size of popups that start as a button, not as a poster
