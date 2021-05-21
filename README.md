@@ -429,3 +429,6 @@ Fix size of popups that start as a button, not as a poster
 ### Scratchy
 - https://twitter.com/Seppi04748866/status/1393905629274820612
 - https://t.co/aQ8NPNFKry https://t.co/hrFXKFHtde
+
+### Drag and Drop
+Fix alignment if text draggables
