@@ -218,6 +218,7 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 ### Puzzle Game
 - Upload an image, define the dimensions, and let people puzzle
 - Design option: https://h5ptechnology.atlassian.net/browse/HFP-1730
+- :-)
 
 ### ToBeNamed
 - Tool to design a network of nodes that process numerical inputs and return numerical outputs.
