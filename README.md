@@ -427,7 +427,7 @@ Spot mistakes in a text and correct them. Could become a feature of Highlight th
 ### H5P Interactive Video
 Fix size of popups that start as a button, not as a poster
 
-### Scratchy
+### Scratchy (Somebody else already on it)
 - https://twitter.com/Seppi04748866/status/1393905629274820612
 - https://t.co/aQ8NPNFKry https://t.co/hrFXKFHtde
 
