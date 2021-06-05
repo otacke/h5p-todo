@@ -16,6 +16,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Pick the Symbols
 - Highlight the Words
 - Crossword
+- H5P core/integrations: Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
+- H5P Hub client: Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
+- H5P Hub client: Add 'by' prefix for owner in content type details in order to make clear who created the content type ([pull request](https://github.com/h5p/h5p-hub-client/pull/7))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
@@ -433,13 +436,6 @@ Fix size of popups that start as a button, not as a poster
 
 ### Drag and Drop
 Fix alignment of text draggables
-
-### H5P core/integration
-Fix deletion of view-editor-entangled libraries, see 
-https://h5ptechnology.atlassian.net/browse/HFP-3065
-
-### Course Presentation
-Fix poster losing size when displaying it as a button
 
 ### Copyright View
 Make it look nice :-) See https://h5ptechnology.atlassian.net/browse/HFP-1902
