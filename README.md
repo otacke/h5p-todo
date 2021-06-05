@@ -432,4 +432,14 @@ Fix size of popups that start as a button, not as a poster
 - https://t.co/aQ8NPNFKry https://t.co/hrFXKFHtde
 
 ### Drag and Drop
-Fix alignment if text draggables
+Fix alignment of text draggables
+
+### H5P core/integration
+Fix deletion of view-editor-entangled libraries, see 
+https://h5ptechnology.atlassian.net/browse/HFP-3065
+
+### Course Presentation
+Fix poster losing size when displaying it as a button
+
+### Copyright View
+Make it look nice :-) See https://h5ptechnology.atlassian.net/browse/HFP-1902
