@@ -1,5 +1,8 @@
 # h5p-todo
 
+## MAIN TODO!
+Clean up TODOs :-)
+
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## In the pipeline ...
