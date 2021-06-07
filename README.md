@@ -416,7 +416,7 @@ YouTube added a chapter feature by using the description for marks. Check if it 
 ### Image Hotspots: individual color
 - https://h5p.org/node/1018665
 
-### Content Type: Text correction
+### Content Type: Text correction/Work with Text
 Spot mistakes in a text and correct them. Could become a feature of Highlight the Words or a spin-off.
 
 ### Interactive Video: Countdown
