@@ -30,6 +30,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - H5P (editor) core: Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - H5P editor core: Allow SVG filed to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
 - Course Presentation: Add scoring with pass grade and overall feedback ([pull request](https://github.com/h5p/h5p-course-presentation/pull/171))
+- Drag the Words: Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
