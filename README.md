@@ -6,31 +6,52 @@ Clean up TODOs :-)
 I thought it might be a good idea to better keep track of my ideas and todos related to H5P -- why not make that publicly?
 
 ## In the pipeline ...
-- Bingo: First release ([in code release](https://h5ptechnology.atlassian.net/browse/HFP-2386))
-- Cornell Notes: First release ([in release](https://h5ptechnology.atlassian.net/browse/HFP-2828))
-- Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
-- Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
-- DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
-- FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
-- Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
-- Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
-- Image Slider: Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
-- Structure Strip: First release ([in review](https://h5ptechnology.atlassian.net/browse/HFP-2911))
-- Pick the Symbols
-- Highlight the Words
-- Crossword
+
+### New content types
+- Bingo: [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
+- Cornell Notes: [in release](https://h5ptechnology.atlassian.net/browse/HFP-2828)
+- Crossword: in review
+- Sort the Paragraphs: in review
+- AR Scavenger: in review
+- Structure Strip: [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
+- Pick the Symbols: scheduled for review
+- Completion Confirmation scheduled for review
+- Highlight the Words: In progress
+
+### Bugfixes and new features for core components and plugins
 - H5P core/integrations: Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
 - H5P Hub client: Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
 - H5P Hub client: Add 'by' prefix for owner in content type details in order to make clear who created the content type ([pull request](https://github.com/h5p/h5p-hub-client/pull/7))
-- Interactive Book: Add support to save the current state and retrieve it when returning ([HFP-3225](https://h5ptechnology.atlassian.net/browse/HFP-3225)) ([pull request](https://github.com/h5p/h5p-interactive-book/pull/59))
 - H5P editor core: Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))
 - H5P editor core: Fix CKEditor base path ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/125))
 - H5P editor core: Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
 - H5P editor core: Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - H5P (editor) core: Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - H5P editor core: Allow SVG filed to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
+- H5P editor core: Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
+- Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
+
+### Bugfixes and new features for existing content types
+- Audio: a11y improvements ([pull request](https://github.com/h5p/h5p-audio/pull/17))
+- Column: Remove Twitter user feed from content type options ([pull request](https://github.com/h5p/h5p-column/pull/43))
 - Course Presentation: Add scoring with pass grade and overall feedback ([pull request](https://github.com/h5p/h5p-course-presentation/pull/171))
+- Course Presentation Editor: Fix elements on cloned slides not getting a fresh subcontent id ([pull request](https://github.com/h5p/h5p-editor-course-presentation/pull/65))
+- DialogCards: Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
+- Dialogcards: Fix unused buttons messing with the user interface ([pull request](https://github.com/h5p/h5p-dialogcards/pull/99))
+- Dialogcards: Allow to set text alignment ([HFP-292](https://h5ptechnology.atlassian.net/browse/HFP-292)) ([pull request](https://github.com/h5p/h5p-dialogcards/pull/96))
 - Drag the Words: Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
+- FlashCards: Add randomization ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
+- Iframe Embedder: Fix usage of URLs with characters that may get HTML encoded ([pull request](https://github.com/h5p/h5p-iframe-embed/pull/33))
+- Image: Fix displaying HTML encoded tooltip text ([pull request](https://github.com/h5p/h5p-image/pull/38))
+- Image Hotspots: Fix HTML encoding of hotspot headers ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/79))
+- Image Slider: Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
+- Interactive Book: Add support to save the current state and retrieve it when returning ([HFP-3225](https://h5ptechnology.atlassian.net/browse/HFP-3225)) ([pull request](https://github.com/h5p/h5p-interactive-book/pull/59))
+- Interactive Book: Remove image reference inside Hub icon ([pull request](https://github.com/h5p/h5p-interactive-book/pull/56))
+- Matching: Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
+- Speak the Words: Add optional introductory media ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/37))
+- Question Set: Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
+- Question Set: Fix showing progress in solution mode ([pull request](https://github.com/h5p/h5p-question-set/pull/72))
+- Video: Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
