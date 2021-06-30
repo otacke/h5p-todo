@@ -47,6 +47,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - Dialogcards: Allow to set text alignment ([HFP-292](https://h5ptechnology.atlassian.net/browse/HFP-292)) ([pull request](https://github.com/h5p/h5p-dialogcards/pull/96))
 - Dialogcards: Allows the author to set every page of a card individually: text and/or image and/or audio ([pull request](https://github.com/h5p/h5p-dialogcards/pull/86))
 - Drag and Drop: Add audio on drag and drop ([pull request](https://github.com/h5p/h5p-drag-question/pull/92))
+- Drag and Drop: Fix maximum score being higher than points achievable ([pull request](https://github.com/h5p/h5p-drag-question/pull/116))
 - Drag the Words: Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
 - Drag the Words: Add optional media above task description ([pull request](https://github.com/h5p/h5p-drag-text/pull/65))
 - Fill in the Blanks: Fix getMaxScore() ([pull request](https://github.com/h5p/h5p-blanks/pull/69))
