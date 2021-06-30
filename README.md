@@ -6,13 +6,13 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Content types not yet on the H5P Hub
 - Bingo: [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - Cornell Notes: [in release](https://h5ptechnology.atlassian.net/browse/HFP-2828)
-- Crossword: in review
-- Sort the Paragraphs: in review
-- AR Scavenger: in review
+- Crossword: [in review](https://h5ptechnology.atlassian.net/jira/software/c/projects/HFP/issues/HFP-3159)
+- Sort the Paragraphs: [in review](https://h5ptechnology.atlassian.net/browse/HFP-3149)
+- AR Scavenger: [in review](https://h5ptechnology.atlassian.net/browse/HFP-3077)
 - Structure Strip: [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
-- Pick the Symbols: scheduled for review
-- Completion Confirmation scheduled for review
-- Highlight the Words: In progress
+- Pick the Symbols: [scheduled for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
+- Completion Confirmation [scheduled for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
+- Highlight the Words: still in progress
 
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
