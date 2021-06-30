@@ -27,7 +27,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - H5P editor core: Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
 - H5P editor core: Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - H5P (editor) core: Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
-- H5P editor core: Allow SVG filed to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
+- H5P editor core: Allow SVG files to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
 - H5P editor core: Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
 - Question: Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - Report: Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
