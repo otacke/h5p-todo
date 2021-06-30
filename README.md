@@ -67,7 +67,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Fill in the Blanks:** Fix getMaxScore() ([pull request](https://github.com/h5p/h5p-blanks/pull/69))
 - **Fill in the Blanks:** Fix overflow when growing fields cause line breaks ([pull request](https://github.com/h5p/h5p-blanks/pull/59))
 - **Fill in the Blanks:** Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
-- **Find the Hotspot: Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49))
+- **Find the Hotspot:** Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49))
 - **Find the Hotspot:** Add default "correct" message ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/37))
 - **Find the Hotspot:** Make incorrect hotspot reset task on click ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/24))
 - **Flashcards:** Fix HTML encoding on result screen ([HFP-2065](https://h5ptechnology.atlassian.net/browse/HFP-2065)) ([pull request](https://github.com/h5p/h5p-flashcards/pull/50))
