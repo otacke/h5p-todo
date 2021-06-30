@@ -66,7 +66,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Drag the Words:** _[Feature]_ Add optional media above task description ([pull request](https://github.com/h5p/h5p-drag-text/pull/65))
 - **Fill in the Blanks:** _[Fix]_ Fix getMaxScore() ([pull request](https://github.com/h5p/h5p-blanks/pull/69))
 - **Fill in the Blanks:** _[Fix]_ Fix overflow when growing fields cause line breaks ([pull request](https://github.com/h5p/h5p-blanks/pull/59))
-- **Fill in the Blanks:** _[Feature]_Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
+- **Fill in the Blanks:** _[Feature]_ Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
 - **Find the Hotspot:** _[Feature]_ Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49))
 - **Find the Hotspot:** _[Feature]_ Add default "correct" message ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/37))
 - **Find the Hotspot:** _[Feature]_ Make incorrect hotspot reset task on click ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/24))
