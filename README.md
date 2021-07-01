@@ -56,7 +56,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Dialogcards:** _[Fix]_ Allow to set text alignment ([HFP-292](https://h5ptechnology.atlassian.net/browse/HFP-292)) ([pull request](https://github.com/h5p/h5p-dialogcards/pull/96))
 - **Dialogcards:** _[Feature]_ Allow the author to set every page of a card individually: text and/or image and/or audio ([pull request](https://github.com/h5p/h5p-dialogcards/pull/86))
 - **Dialogcards:** _[Fix]_ Fix setting focus on iOS13 ([pull request](https://github.com/h5p/h5p-dialogcards/pull/64))
-- **Dialogcards:** Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
+- **Dialogcards:** _[Feature]_ Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - **Drag and Drop:** _[Fix]_ Fix dropzones not forgetting draggables ([HFP-1972](https://h5ptechnology.atlassian.net/browse/HFP-1972)) ([pull request](https://github.com/h5p/h5p-editor-drag-question/pull/25))
 - **Drag and Drop:** _[Feature]_ Add audio on drag and drop ([pull request](https://github.com/h5p/h5p-drag-question/pull/92))
 - **Drag and Drop:** _[Fix]_ Fix maximum score being higher than points achievable ([pull request](https://github.com/h5p/h5p-drag-question/pull/116))
