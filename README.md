@@ -99,7 +99,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
 - **Text Input Field:** _[Fix]_ Fix HTML encoding ([HFP-1928](https://h5ptechnology.atlassian.net/browse/HFP-1928)) ([pull request](https://github.com/h5p/h5p-text-input-field/pull/26))
 - **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
-- **Question Set:** _[Feature]_ Add option to show/hide retry button on summary screen ([pull request](https://github.com/h5p/h5p-question-set/pull/39))
 - **Question Set:** _[Fix]_ Fix showing progress in solution mode ([pull request](https://github.com/h5p/h5p-question-set/pull/72))
 - **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
