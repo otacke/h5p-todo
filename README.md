@@ -351,7 +351,7 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
 - Different views: full vs. next one ahead / below
 - pages for long boards
 
-### Tabs
+### Tabs (probably done by someone else)
 Like Accordion, but using Tabs
 
 ### Linked List Widget
