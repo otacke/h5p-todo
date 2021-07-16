@@ -51,7 +51,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Column:** _[Feature]_ Remove Twitter user feed from content type options ([pull request](https://github.com/h5p/h5p-column/pull/43))
 - **Course Presentation:** _[Feature]_ Add scoring with pass grade and overall feedback ([pull request](https://github.com/h5p/h5p-course-presentation/pull/171))
 - **Course Presentation:** _[Feature]_ Remove Twitter depencency ([pull request 1](https://github.com/h5p/h5p-course-presentation/pull/144)) ([pull request 2](https://github.com/h5p/h5p-editor-course-presentation/pull/50))
-- **Course Presentation Editor:** _[Fix]_ Fix elements on cloned slides not getting a fresh subcontent id ([pull request](https://github.com/h5p/h5p-editor-course-presentation/pull/65))
 - **DialogCards:** _[Feature]_ Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - **Dialogcards:** _[Fix]_ Fix unused buttons messing with the user interface ([pull request](https://github.com/h5p/h5p-dialogcards/pull/99))
 - **Dialogcards:** _[Fix]_ Allow to set text alignment ([HFP-292](https://h5ptechnology.atlassian.net/browse/HFP-292)) ([pull request](https://github.com/h5p/h5p-dialogcards/pull/96))
