@@ -6,8 +6,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Content types not yet on the H5P Hub
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - **Cornell Notes:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2828)
-- **Crossword:** [in review](https://h5ptechnology.atlassian.net/jira/software/c/projects/HFP/issues/HFP-3159)
-- **Sort the Paragraphs:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-3149)
 - **AR Scavenger:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-3077)
 - **Structure Strip:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
