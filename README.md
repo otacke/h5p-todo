@@ -527,3 +527,6 @@ Make it look nice :-) See https://h5ptechnology.atlassian.net/browse/HFP-1902
 ### Typing Trainer
 Content type to train typing, obviously.
 - Research research on best methods ...
+
+### Yet Another Image Gallery :-D
+No comment
