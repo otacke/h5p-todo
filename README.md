@@ -530,3 +530,6 @@ Content type to train typing, obviously.
 
 ### Yet Another Image Gallery :-D
 No comment
+
+### Map Chart Generator
+Something similar to https://mapchart.net/
