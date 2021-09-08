@@ -535,3 +535,10 @@ No comment
 
 ### Map Chart Generator
 Something similar to https://mapchart.net/
+
+### H5P.Credits
+Content type for generating credits similar to movie credits.
+- sections with HTML fields
+- optional background music
+- speed setting
+- visual theming options
