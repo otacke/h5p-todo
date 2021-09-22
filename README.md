@@ -365,6 +365,7 @@ Just a simple die/dice content type:
 * Number of facets
 * Number of dice
 * Color of dice
+* Color of dice facet
 * Custom images (but still numbers internally)
 
 ### Datepicker widget for editor
