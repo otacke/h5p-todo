@@ -367,6 +367,7 @@ Just a simple die/dice content type:
 * Color of dice
 * Color of dice facet
 * Custom images (but still numbers internally)
+* Trigger result via external dispatcher, so other content types can work with the result
 
 ### Datepicker widget for editor
 Says it all :-)
