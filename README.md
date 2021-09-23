@@ -12,7 +12,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
-- **Secret (requested before):** still in progress
+- **Secret (requested before):** waiting for confirmation
 - **Secret 2 (not requested so far):** still in progress - will hopefully be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
