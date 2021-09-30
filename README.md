@@ -82,6 +82,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Image:** _[Fix]_ Fix displaying HTML encoded tooltip text ([pull request](https://github.com/h5p/h5p-image/pull/38))
 - **Image Hotspots:** _[Fix]_ Fix HTML encoding of hotspot headers ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/79))
 - **Image Hotspots:** _[Feature]_ Add customizing options for popups ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/42))
+- **Image Hotspots:** _[Feature]_ Add audio as option for content ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/84/files))
 - **Image Slider:** _[Feature]_ Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 - **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
 - **Interactive Book:** _[Feature]_ Add support to save the current state and retrieve it when returning ([HFP-3225](https://h5ptechnology.atlassian.net/browse/HFP-3225)) ([pull request](https://github.com/h5p/h5p-interactive-book/pull/59))
