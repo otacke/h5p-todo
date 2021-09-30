@@ -545,3 +545,6 @@ Content type for generating credits similar to movie credits.
 - optional background music
 - speed setting
 - visual theming options
+
+### ImageHotspots
+Add Audio
