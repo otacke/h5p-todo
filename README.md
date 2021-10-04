@@ -185,6 +185,9 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 <strike>- Allow to customize feedback messages if a paragraph subceeds/exceeds</strike>
 <strike>- Save content state for revision, cmp. Cornell Notes</strike>
 
+### DONE <strike>ImageHotspots</strike>
+<strike>Add Audio</strike>
+
 ### Set slide duration for Course Presentation
 It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
@@ -546,6 +549,3 @@ Content type for generating credits similar to movie credits.
 - optional background music
 - speed setting
 - visual theming options
-
-### ImageHotspots
-Add Audio
