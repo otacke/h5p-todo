@@ -18,6 +18,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
+- **H5P core:** _[Fix]_ Fix linebreaks breaking metadata field validation ([pull request](https://github.com/h5p/h5p-php-library/pull/109))
 - **H5P core (custom jQueryUI):** _[Fix]_ Fix touch detection for Chrome on Windows ([HFP-3063](https://h5ptechnology.atlassian.net/browse/HFP-3063)) ([pull request](https://github.com/h5p/jquery-ui/pull/1))
 - **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2] (https://github.com/h5p/h5p-wordpress-plugin/pull/112))
 - **H5P core/integrations:** _[Fix]_ Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
