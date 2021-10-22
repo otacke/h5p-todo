@@ -31,7 +31,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - **H5P editor core:** _[Feature]_ Allow SVG files to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
 - **H5P editor core:** _[Fix]_ Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
-- **Question:** _[Feature]_ Add setAudio function ([pull request](https://github.com/h5p/h5p-question/pull/4))
 - **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5))
 - **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3))
