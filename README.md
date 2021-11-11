@@ -53,7 +53,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Course Presentation:** _[Feature]_ Remove Twitter depencency ([pull request 1](https://github.com/h5p/h5p-course-presentation/pull/144)) ([pull request 2](https://github.com/h5p/h5p-editor-course-presentation/pull/50))
 - **DialogCards:** _[Feature]_ Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
 - **Dialogcards:** _[Fix]_ Fix unused buttons messing with the user interface ([pull request](https://github.com/h5p/h5p-dialogcards/pull/99))
-- **Dialogcards:** _[Fix]_ Allow to set text alignment ([HFP-292](https://h5ptechnology.atlassian.net/browse/HFP-292)) ([pull request](https://github.com/h5p/h5p-dialogcards/pull/96))
 - **Dialogcards:** _[Feature]_ Allow the author to set every page of a card individually: text and/or image and/or audio ([pull request](https://github.com/h5p/h5p-dialogcards/pull/86))
 - **Dialogcards:** _[Fix]_ Fix setting focus on iOS13 ([pull request](https://github.com/h5p/h5p-dialogcards/pull/64))
 - **Dialogcards:** _[Feature]_ Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
