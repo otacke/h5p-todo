@@ -324,6 +324,7 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 ### WordPress-PlugIn
 - Add development mode option
 - Add library development + option
+- Add id obfuscation
 
 ### Memory
 - Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
