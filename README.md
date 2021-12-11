@@ -12,9 +12,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
-- **Secret (requested before):** waiting for confirmation
-- **Secret 2 (not requested so far):** still in progress - will hopefully be openly sourced
-- **Secret 3 (not requested so far): todo**
+- **Jigsaw Puzzle:** [waiting for release approval](https://www.youtube.com/watch?v=vKxqW__9ge8)
+- **Secret (not requested so far):** still in progress - will hopefully be openly sourced
+- **Secret (not requested so far):** in preparation, something with images, will be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
@@ -103,6 +103,10 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Question Set:** _[Fix]_ Fix showing progress in solution mode ([pull request](https://github.com/h5p/h5p-question-set/pull/72))
 - **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
+
+### Misc
+- Implement AudioRecorder in CoursePresentation - should be released soon-ish
+- Allow to switch between multiple YouTubeVideos and use alternate audio tracks - needs confirmation
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
