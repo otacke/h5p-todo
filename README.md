@@ -555,9 +555,3 @@ Content type for generating credits similar to movie credits.
 - optional background music
 - speed setting
 - visual theming options
-
-### node.js port of H5P core backend
-- Add "save content state option"
-  - JWT based cookie + refresh token cookie for user authentication, customizable secret required, localStorage would require modification of H5P js core
-  - implement routes to ContentUserData (post[=patch]/get - probably also delete with extra authorization required)
-  - store/retrieve data from H5P core to/from storage (probably via an extendable module)
