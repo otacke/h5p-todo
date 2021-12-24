@@ -14,7 +14,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Highlight the Words:** still in progress
 - **Jigsaw Puzzle:** [waiting for release approval](https://www.youtube.com/watch?v=vKxqW__9ge8)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
-- **Secret (not requested so far):** in preparation, something with images, will be openly sourced
+- **Secret (not requested so far):** work in progress, something with images, will be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
