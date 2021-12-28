@@ -85,7 +85,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Image Hotspots:** _[Feature]_ Add audio as option for content ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/84/files))
 - **Image Slider:** _[Feature]_ Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 - **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
-- **Interactive Book:** _[Feature]_ Add support to save the current state and retrieve it when returning ([HFP-3225](https://h5ptechnology.atlassian.net/browse/HFP-3225)) ([pull request](https://github.com/h5p/h5p-interactive-book/pull/59))
 - **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
 - **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/))
 - **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
