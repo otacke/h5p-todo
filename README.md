@@ -87,6 +87,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
 - **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
 - **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/))
+- **Interactive Video Editor:** _[Fix]_ Remove obsolete `popupTitle` translation string ([pull request](https://github.com/h5p/h5p-editor-interactive-video/pull/70))
 - **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
 - **Mark the Words:** _[Fix]_ Fix cursor suggesting clickable item after checking ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/84))
 - **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
