@@ -91,7 +91,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
 - **Mark the Words:** _[Fix]_ Fix cursor suggesting clickable item after checking ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/84))
 - **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
-- **Multimedia Choice:** _[Fix]_ Fix media type detection ([pull request](https://github.com/h5p/h5p-multi-media-choice/pull/5))
 - **Single Choice Set:** _[Fix]_ Stop giving away correct answers in page source ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/53))
 - **Speak the Words:** _[Feature]_ Add optional introductory media ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/37))
 - **Speak the Words Set:** _[Fix]_ Fix HTML encoding in introduction title ([HFP-1830](https://h5ptechnology.atlassian.net/browse/HFP-1830)) ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/18))
