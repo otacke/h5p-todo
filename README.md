@@ -10,7 +10,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Structure Strip:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
-- **Information Wall:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3418)
+- **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
 - **Jigsaw Puzzle:** [waiting for release approval](https://www.youtube.com/watch?v=vKxqW__9ge8)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
