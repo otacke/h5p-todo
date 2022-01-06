@@ -6,15 +6,15 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Content types not yet on the H5P Hub
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - **Cornell Notes:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2828)
-- **AR Scavenger:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-3077)
+- **AR Scavenger:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3077)
 - **Structure Strip:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
 - **Jigsaw Puzzle:** [waiting for release approval](https://www.youtube.com/watch?v=vKxqW__9ge8)
+- **Something with images:** [Will be presented on January 23, 2022 at 10:00 CEST on Twitch](https://www.twitch.tv/otacke)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
-- **Secret (not requested so far):** in customer review, something with images, will be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
