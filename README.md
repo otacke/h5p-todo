@@ -12,7 +12,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
-- **Jigsaw Puzzle:** [waiting for release approval](https://www.youtube.com/watch?v=vKxqW__9ge8)
+- **Jigsaw Puzzle:** [preparing pre-release](https://www.youtube.com/watch?v=vKxqW__9ge8)
 - **Something with images:** [Will be presented on January 23, 2022 at 10:00 CEST on Twitch](https://www.twitch.tv/otacke)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
 
