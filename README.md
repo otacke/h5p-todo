@@ -109,7 +109,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 
 ### Misc
 - Implement AudioRecorder in CoursePresentation - should be released soon-ish
-- Allow to switch between multiple YouTubeVideos and use alternate audio tracks - needs confirmation
+- Allow to switch between multiple YouTubeVideos and use alternate audio tracks - done, needs review now
 
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
