@@ -99,7 +99,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Speak the Words Set:** _[Fix]_ Fix HTML encoding in introduction title ([HFP-1830](https://h5ptechnology.atlassian.net/browse/HFP-1830)) ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/18))
 - **Speak the Words Set:** _[Feature]_ Implement question type contract ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/22))
 - **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
-- **Speak the Words Set:** _[Fix]_ HFP-3475 Fix autoplay behavior for introductory media ([H5P-3475](https://h5ptechnology.atlassian.net/browse/HFP-3475)) ([pull-request](https://github.com/h5p/h5p-speak-the-words-set/pull/41))
 - **Standard Page:** _[Feature]_ Implement save-content-state feature ([pull request](https://github.com/h5p/h5p-standard-page/pull/36))
 - **Text Input Field:** _[Fix]_ Fix HTML encoding ([HFP-1928](https://h5ptechnology.atlassian.net/browse/HFP-1928)) ([pull request](https://github.com/h5p/h5p-text-input-field/pull/26))
 - **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
