@@ -558,3 +558,6 @@ Content type for generating credits similar to movie credits.
 - optional background music
 - speed setting
 - visual theming options
+
+### Shuffled tile puzzle
+- Just for fun: one of the puzzles where one tile is missing, so you can move one tile at a time to an adjacent position in order to complete the puzzle.
