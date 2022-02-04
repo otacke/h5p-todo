@@ -12,8 +12,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Highlight the Words:** still in progress
-- **Jigsaw Puzzle:** [preparing pre-release](https://www.youtube.com/watch?v=vKxqW__9ge8)
+- **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
+- **X-Ray:** [in development](https://github.com:otacke/h5p-x-ray)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
@@ -121,11 +122,14 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P Dictation](https://github.com/otacke/h5p-dictation)
 - [H5P Essay](https://github.com/otacke/h5p-essay)
 - [H5P Image Juxtaposition](https://github.com/otacke/h5p-image-juxtaposition)
+- [H5P Image Zoom](https://github.com/otacke/h5p-image-zoom)
+- [H5P Information Wall](https://github.com/otacke/h5p-info-wall)
+- [H5P Jigsaw Puzzle](https://github.com/otacke/h5p-jigsaw-puzzle)
 - [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
 - [H5P Pick the Symbols](https://github.com/otacke/h5p-pick-the-symbols)
 - [H5P Sort the Paragraphs](https://github.com/otacke/h5p-sort-paragraphs)
 - [H5P Structure Strip](https://github.com/otacke/h5p-structure-strip)
-- [H5P Text Utilities](https://github.com/otacke/h5p-text-utilities)
+- [H5P X-Ray](https://github.com/otacke/h5p-x-ray)
 
 ### Other things
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu) Plugin for WordPress to catch xAPI statements
