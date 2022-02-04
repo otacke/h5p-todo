@@ -113,6 +113,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
 
 ### Content types
+- [H5P Advent Calendar](https://github.com/otacke/h5p-advent-calendar)
 - [H5P Agamotto](https://github.com/otacke/h5p-agamotto)
 - [H5P AR Scavenger](https://github.com/otacke/h5p-ar-scavenger)
 - [H5P Bingo](https://github.com/otacke/h5p-bingo)
