@@ -14,7 +14,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Highlight the Words:** still in progress
 - **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
-- **X-ray:** [in development](https://github.com/otacke/h5p-x-ray)
+- **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
 - **Secret (not requested so far):** still in progress - will hopefully be openly sourced
 
 ### Open pull requests for bugfixes and new features for core components and plugins
