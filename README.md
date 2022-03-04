@@ -5,9 +5,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 
 ### Content types not yet on the H5P Hub
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
-- **Cornell Notes:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2828)
-- **AR Scavenger:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3077)
-- **Structure Strip:** [in review](https://h5ptechnology.atlassian.net/browse/HFP-2911)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
@@ -336,6 +333,7 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Add development mode option
 - Add library development + option
 - Add id obfuscation
+- Add option to override the list of allowed content types
 
 ### Memory
 - Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
