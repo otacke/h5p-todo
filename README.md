@@ -75,6 +75,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Flashcards:** _[Feature]_ Add speech recognition ([pull request](https://github.com/h5p/h5p-flashcards/pull/65))
 - **Flashcards:** _[Feature]_ Add optional audio button ([pull request](https://github.com/h5p/h5p-flashcards/pull/64))
 - **Flashcards:** _[Feature]_ Change xAPI verb from 'completed' to 'answered' ([pull request](https://github.com/h5p/h5p-flashcards/pull/20))
+- **Goals Page:** _[Fix]_ Fix HTML encoding ([HFP-1928](https://h5ptechnology.atlassian.net/browse/HFP-1928)) ([pull request](https://github.com/h5p/h5p-goals-page/pull/22))
 - **Iframe Embedder:** _[Fix]_ Fix usage of URLs with characters that may get HTML encoded ([pull request](https://github.com/h5p/h5p-iframe-embed/pull/33))
 - **Image:** _[Fix]_ Fix displaying HTML encoded tooltip text ([pull request](https://github.com/h5p/h5p-image/pull/38))
 - **Image Hotspots:** _[Fix]_ Fix HTML encoding of hotspot headers ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/79))
