@@ -561,3 +561,9 @@ Content type for generating credits similar to movie credits.
 
 ### Shuffled tile puzzle
 - Just for fun: one of the puzzles where one tile is missing, so you can move one tile at a time to an adjacent position in order to complete the puzzle.
+
+### Number Lock
+Just a simple content type that presents the user with a number lock.
+- variable number of digits
+- variable number of numbers (maybe a freely definable list, chars?, ...)
+- xAPI when opened
