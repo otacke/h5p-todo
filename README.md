@@ -100,6 +100,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Question Set:** _[Fix]_ Fix showing progress in solution mode ([pull request](https://github.com/h5p/h5p-question-set/pull/72))
 - **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
+- **Video:** _[Fix]_ Stop calling pause() before play promise resolved ([pull request](https://github.com/h5p/h5p-video/pull/68))
 
 ### Misc
 - Implement AudioRecorder in CoursePresentation - should be released soon-ish
