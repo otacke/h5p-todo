@@ -17,6 +17,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
+- **H5P core:** _[Feature]_ Simplify code ([pull request](https://github.com/h5p/h5p-php-library/pull/120))
 - **H5P core (custom jQueryUI):** _[Fix]_ Fix touch detection for Chrome on Windows ([HFP-3063](https://h5ptechnology.atlassian.net/browse/HFP-3063)) ([pull request](https://github.com/h5p/jquery-ui/pull/1))
 - **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2] (https://github.com/h5p/h5p-wordpress-plugin/pull/112))
 - **H5P core/integrations:** _[Fix]_ Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
@@ -25,6 +26,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **H5P editor core:** _[Fix]_ Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))
 - **H5P editor core:** _[Fix]_ Fix CKEditor base path ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/125))
 - **H5P editor core:** _[Fix]_ Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
+- **H5P editor core:** _[Feature]_ Add accessibility improvements (Allow to flag video as sign language [pull request](https://github.com/h5p/h5p-editor-php-library/pull/146))
 - **H5P editor core:** _[Feature]_ Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - **H5P editor core:** _[Feature]_ Allow SVG files to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
@@ -85,6 +87,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
 - **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
 - **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/))
+- **Interactive Video:** _[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))
 - **Interactive Video Editor:** _[Fix]_ Remove obsolete `popupTitle` translation string ([pull request](https://github.com/h5p/h5p-editor-interactive-video/pull/70))
 - **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
 - **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
@@ -100,6 +103,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Question Set:** _[Fix]_ Fix showing progress in solution mode ([pull request](https://github.com/h5p/h5p-question-set/pull/72))
 - **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
 - **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
+- **Video:** _[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))
 - **Video:** _[Fix]_ Stop calling pause() before play promise resolved ([pull request](https://github.com/h5p/h5p-video/pull/68))
 
 ### Misc
