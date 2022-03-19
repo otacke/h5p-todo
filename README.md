@@ -199,8 +199,11 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 ### DONE <strike>ImageHotspots</strike>
 <strike>Add Audio</strike>
 
-### Set slide duration for Course Presentation
-It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
+### Course Presentation
+- Transitions
+  - Duration
+  - Style (e. g. slide (as now), over black, nothing, ...)
+  - Auto-progress: It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
 
 ### H5P Paint
 Just a content type to create some doodles and store them -- might be interesting to wrap images in xAPI ;-)
