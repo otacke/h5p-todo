@@ -86,6 +86,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
 - **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/))
 - **Interactive Video:** _[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))
+- **Interactive Video:** _[Feature]_ Allow author to hide playback rate chooser ([pull request](https://github.com/h5p/h5p-interactive-video/pull/236))
 - **Interactive Video Editor:** _[Fix]_ Remove obsolete `popupTitle` translation string ([pull request](https://github.com/h5p/h5p-editor-interactive-video/pull/70))
 - **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
 - **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
