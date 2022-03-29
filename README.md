@@ -335,10 +335,40 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Nodes can also be outputs (numbers, colors, sounds, ...)
 
 ### WordPress-PlugIn
-- Add development mode option
-- Add library development + option
-- Add id obfuscation
-- Add option to override the list of allowed content types
+- Add development mode option (as in Drupal)
+- Add library development + option (as in Drupal)
+- Add option to override the list of allowed content types in the settings (as in Drupal)
+- Add "view_h5p_contents" capability: If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
+- Add contentId obfuscation: Use UUID instead of auto-incremented index
+- Improve tracking of results incl. support for https://github.com/h5p/h5p-php-report
+- Include support for the H5P OER Hub.
+
+#### WP-H5P-Leaderboard
+PlugIn that allows to add a leaderboard to a post based on the scores achieved for a H5P content type.
+- logged in users only based of H5P internal scores? Or use xAPI from xAPIkatchu, if available, for anonymous users, too?
+- setting for maximum number of scores displayed (paged possibly)
+- setting for anonymous users
+- for logged in users: have their position highlighted
+- modes: all scores vs. just next/previous user + score vs. gap to the top vs. ...
+- Show a leaderboard below a content type (show/hide on xAPI answered)
+- Different views: full vs. next one ahead / below
+- pages for long boards
+
+#### WordPress-Plugin: Timed questions
+- As an author, I want to set a maximum time for H5P content in order to limit the amount of time that people can spend with the content.
+  - Could call "showSolutions" via H5P question type contract
+  - Could block editing by injecting an overlay (on same server)
+  - Could show a timer (positioning?)
+  - Optionally implement functions in H5P core (approval needed)
+
+#### WP-H5P-Themer
+- Add options to style H5P content globally
+  - GUI for common styles like JoubelUI
+  - (file) template based fields for content types
+
+#### WP-H5P-Resume
+- Plugin that optionally stores/restores the previous State in/from localStorage
+- Would work for users that are not logged in, too
 
 ### Memory
 - Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
@@ -357,17 +387,6 @@ Add option to skip reset, can be useful if you simply changed a typo or somethin
 
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
-
-### WP-H5P-Leaderboard
-PlugIn that allows to add a leaderboard to a post based on the scores achieved for a H5P content type.
-- logged in users only based of H5P internal scores? Or use xAPI from xAPIkatchu, if available, for anonymous users, too?
-- setting for maximum number of scores displayed (paged possibly)
-- setting for anonymous users
-- for logged in users: have their position highlighted
-- modes: all scores vs. just next/previous user + score vs. gap to the top vs. ...
-- Show a leaderboard below a content type (show/hide on xAPI answered)
-- Different views: full vs. next one ahead / below
-- pages for long boards
 
 ### Tabs (probably done by someone else)
 Like Accordion, but using Tabs
@@ -390,9 +409,6 @@ Just a simple die/dice content type:
 
 ### Datepicker widget for editor
 Says it all :-)
-
-### "view_h5p_contents" capability for WordPress plugin
-If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
 
 ### Image-Widget
 - Add option to include link to image.
@@ -489,9 +505,6 @@ With the Multiplayer API: Have a tool where the teacher can define groups and ru
 - Make / escapable as \\/
 - Make * escapable as \\*
 
-### WordPress
-- Add reporting module: https://github.com/h5p/h5p-php-report
-
 ### Drag and Drop
 - Add Shapes
 
@@ -528,13 +541,6 @@ Spot mistakes in a text and correct them. Could become a feature of Highlight th
 - As an author, I want to be able to add a countdown to interactions that will automatically check the task/close the interaction overlay when the timer reaches zero.
   - Check vs close (disable retry if check or it doesn't make much sense)
   - Visual timer vs. hidden timer (where to put the timer?)
-
-### WordPress-Plugin: Timed questions
-- As an author, I want to set a maximum time for H5P content in order to limit the amount of time that people can spend with the content.
-  - Could call "showSolutions" via H5P question type contract
-  - Could block editing by injecting an overlay (on same server)
-  - Could show a timer (positioning?)
-  - Optionally implement functions in H5P core (approval needed)
 
 ### H5P Interactive Video
 Fix size of popups that start as a button, not as a poster
