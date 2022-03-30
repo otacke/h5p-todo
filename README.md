@@ -77,6 +77,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Goals Page:** _[Fix]_ Fix HTML encoding ([HFP-1928](https://h5ptechnology.atlassian.net/browse/HFP-1928)) ([pull request](https://github.com/h5p/h5p-goals-page/pull/22))
 - **Iframe Embedder:** _[Fix]_ Fix usage of URLs with characters that may get HTML encoded ([pull request](https://github.com/h5p/h5p-iframe-embed/pull/33))
 - **Image:** _[Fix]_ Fix displaying HTML encoded tooltip text ([pull request](https://github.com/h5p/h5p-image/pull/38))
+- **Image Choice:** _[Feature]_ Allow to restore previous state ([pull request](https://github.com/h5p/h5p-multi-media-choice/pull/27))
 - **Image Hotspots:** _[Fix]_ Fix HTML encoding of hotspot headers ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/79))
 - **Image Hotspots:** _[Feature]_ Add customizing options for popups ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/42))
 - **Image Hotspots:** _[Feature]_ Add audio as option for content ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/84/files))
