@@ -344,7 +344,7 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Add "view_h5p_contents" capability: If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
 - Add contentId obfuscation: Use UUID instead of auto-incremented index
 - Improve tracking of results incl. support for https://github.com/h5p/h5p-php-report
-- Include support for the H5P OER Hub
+- Include support for the H5P OER Hub (probably done by the H5P core team soon)
 
 #### WP-H5P-Leaderboard
 PlugIn that allows to add a leaderboard to a post based on the scores achieved for a H5P content type.
