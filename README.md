@@ -34,7 +34,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5))
 - **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3))
 - **ShowWhen:** _[Feature]_ Make more robust for multi-value rules ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/2))
-- **ShowWhen:** _[Feature]_ Fix removing field value when field hidden ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/11))
+- **ShowWhen:** _[Fix]_ Fix removing field value when field hidden ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/11))
 - **WordPress plugin:** _[Feature]_ Set generous HTTP feature policy ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/114))
 - **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
 - **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
