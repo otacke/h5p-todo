@@ -13,6 +13,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
 - **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
 - **Seesaw:** [Proof of concept for using a physics engine in H5P](https://www.olivertacke.de/labs/2022/04/16/see-i-saw-a-seesaw-for-h5p/)
+- **Image Choice Rounds:** [Work done](https://youtu.be/S3l_SGmbe-k)
 
 ### Open pull requests for bugfixes and new features for core components and plugins
 - **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
