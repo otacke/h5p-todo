@@ -110,10 +110,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Video:** _[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))
 - **Video:** _[Fix]_ Stop calling pause() before play promise resolved ([pull request](https://github.com/h5p/h5p-video/pull/68))
 
-### Misc
-- Implement AudioRecorder in CoursePresentation - should be released soon-ish
-- Allow to switch between multiple YouTubeVideos and use alternate audio tracks - done, needs review now
-
 ## Issues for my existing stuff
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
 
