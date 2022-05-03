@@ -320,7 +320,7 @@ No technical challenge, but modeling is tricky, especially for the repetition mo
 - Add machine readable license information, cmp. [OERHoernchen](https://oerhoernchen.de/about)
 
 ### Content Slider
-Content type that is similar to the [Image Slider](https://h5p.org/image-slider), but for content types -- which would be similar to Question Set, but is not supposed to take care of scoring.
+Content type that is similar to the [Image Slider](https://h5p.org/image-slider), but for content types -- which would be similar to Question Set, but is not supposed to take care of scoring. Could use the engine of ImageChoiceRounds.
 
 ### alter_metadata hook
 Metadata can already be altered using the alter_params hook, but only for subcontent. The meta data for the content type itself is not exposed as it doesn't reside in the params object. It was nice to be able to alter metadata, too, e.g. set a different default license, so it would not have to be set manually each time. An alter_metadata hook might help (could either only give access to the metadata object in extras or pass a reference to all metadata objects in extras and params). Alternatively, an alter_extras hook might help, too.
