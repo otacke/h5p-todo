@@ -587,3 +587,14 @@ Just a simple content type that presents the user with a number lock.
 - variable number of digits
 - variable number of numbers (maybe a freely definable list, chars?, ...)
 - xAPI when opened
+
+### H5P.Checklist
+Simple checklist app that stores the state.
+- As an author, I can set predefined items on a checklist in order to allow users to check/uncheck them.
+- As an author, I can decide whether a user can edit or remove predefined items.
+- As an author, I can decide whether a user can add/remove own items to the list.
+- As a user, I can check/uncheck items on the list.
+  - xAPI "interacted" (http://adlnet.gov/expapi/verbs/interacted) when item state changes
+  - xAPI "completed" when all items are checked.
+- As a user, I can sort items on the list.
+- As a user, I can actively save the list state (in addition to common H5P state management).
