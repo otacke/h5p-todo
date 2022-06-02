@@ -89,8 +89,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
 - **Questionnaire:** _[Fix]_ Fix crash if subcontent and no library selected ([pull request](https://github.com/h5p/h5p-questionnaire/pull/49))
 - **Single Choice Set:** _[Fix]_ Stop giving away correct answers in page source ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/53))
-- **Speak the Words:** _[Feature]_ Add optional introductory media ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/37))
-- **Speak the Words Set:** _[Fix]_ Fix HTML encoding in introduction title ([HFP-1830](https://h5ptechnology.atlassian.net/browse/HFP-1830)) ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/18))
 - **Speak the Words Set:** _[Feature]_ Implement question type contract ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/22))
 - **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
 - **Summary:** _[Fix]_ Fix re-creating state for user responses ([pull request](https://github.com/h5p/h5p-summary/pull/69))
