@@ -39,6 +39,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **WordPress plugin:** _[Feature]_ Set generous HTTP feature policy ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/114))
 - **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
 - **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
+- **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Open pull requests for bugfixes and new features for existing content types
 - **Accordion:** _[Feature]_ Use H5P.Column for content ([pull request](https://github.com/h5p/h5p-accordion/pull/41))
