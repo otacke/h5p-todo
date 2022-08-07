@@ -381,7 +381,8 @@ Set number ranges, cmp. https://sommenprinter.nl/basisrekenenplusmin10.php
 Improve retention by implementing something as described in http://pad.o-e-r.de/p/oercamp19-WS4-04
 
 ### Core/Plugins
-Add option to skip reset, can be useful if you simply changed a typo or something minor.
+- Per content type, allow to select users whose state should be reset.
+- In editor (plugin integration), add option to skip resetting after changing - can be useful if you simply changed a typo or something minor.
 
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
