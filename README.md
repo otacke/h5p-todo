@@ -20,6 +20,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request])(https://github.com/h5p/h5p-editor-php-library/pull/148)
 - **H5P core:** _[Feature]_ Trigger set user data more often to ensure state transmission ([pull request](https://github.com/h5p/h5p-php-library/pull/107))
+- **H5P core:** _[Feature]_ Add contentId to initialized event ([pull request](https://github.com/h5p/h5p-php-library/pull/134))
 - **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2] (https://github.com/h5p/h5p-wordpress-plugin/pull/112))
 - **H5P core/integrations:** _[Fix]_ Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
 - **H5P Hub client:** _[Feature]_ Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
