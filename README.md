@@ -55,7 +55,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Column:** _[Fix]_ Set activity started only if Column is main content ([pull request](https://github.com/h5p/h5p-column/pull/50))
 - **Course Presentation:** _[Feature]_ Add scoring with pass grade and overall feedback ([pull request](https://github.com/h5p/h5p-course-presentation/pull/171))
 - **DialogCards:** _[Feature]_ Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
-- **Dialogcards:** _[Fix]_ Fix unused buttons messing with the user interface ([pull request](https://github.com/h5p/h5p-dialogcards/pull/99))
 - **Dialogcards:** _[Feature]_ Allow the author to set every page of a card individually: text and/or image and/or audio ([pull request](https://github.com/h5p/h5p-dialogcards/pull/86))
 - **Dialogcards:** _[Fix]_ Fix setting focus on iOS13 ([pull request](https://github.com/h5p/h5p-dialogcards/pull/64))
 - **Dialogcards:** _[Feature]_ Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43))
