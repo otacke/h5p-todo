@@ -129,6 +129,9 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 
 ## Ideas and todos
 
+### Replace 'title' attribute
+In all content types, replace use of 'title' attribute where used with H5P.Tooltip or remove alltogether if not necessary.
+
 ### DONE <strike>H5P Bingo</strike>
 <strike>
 - Content type for playing bingo at boring conferences -- create your bingo sheet, share, enjoy ;-)
