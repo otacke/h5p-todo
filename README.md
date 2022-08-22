@@ -32,7 +32,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **H5P editor core:** _[Feature]_ Add accessibility improvements (Allow to flag video as sign language [pull request](https://github.com/h5p/h5p-editor-php-library/pull/146))
 - **H5P editor core:** _[Feature]_ Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
-- **H5P editor core:** _[Feature]_ Allow SVG files to be edited and loaded ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/121))
 - **H5P editor core:** _[Fix]_ Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
 - **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5))
