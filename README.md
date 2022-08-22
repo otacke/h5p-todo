@@ -61,7 +61,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Drag and Drop:** _[Fix]_ Use user defined hover text for images in tasks ([pull request 1](https://github.com/h5p/h5p-editor-drag-question/pull/13)) ([pull request 2](https://github.com/h5p/h5p-drag-question/pull/45))
 - [ ] **Drag the Words:** _[Feature]_ Add option to add distractors ([pull request](https://github.com/h5p/h5p-drag-text/pull/51)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **Drag the Words:** _[Feature]_ Add option to always display solution texts below content ([pull request](https://github.com/h5p/h5p-drag-text/pull/50)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
-- [ ] **Drag the Words:** _[Fix]_ Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
+- [ ] **Drag the Words:** _[Fix]_ Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
 - [ ] **Drag the Words:** _[Fix]_ Add margin if dropzone container has tip ([pull request](https://github.com/h5p/h5p-drag-text/pull/102))
 - [ ] **Fill in the Blanks:** _[Fix]_ Fix overflow when growing fields cause line breaks ([pull request](https://github.com/h5p/h5p-blanks/pull/59))
 - [ ] **Fill in the Blanks:** _[Feature]_ Add option to keep correct answers on retry ([pull request](https://github.com/h5p/h5p-blanks/pull/103)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
