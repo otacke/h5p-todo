@@ -591,3 +591,6 @@ Simple checklist app that stores the state.
   - xAPI "completed" when all items are checked.
 - As a user, I can sort items on the list.
 - As a user, I can actively save the list state (in addition to common H5P state management).
+
+### Reading Trainer
+Cmp. https://t.co/1rBAGXgRU1 but without the prephase that would require machine learning support or a free and open service to be used.
