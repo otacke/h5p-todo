@@ -594,3 +594,4 @@ Simple checklist app that stores the state.
 
 ### Reading Trainer
 Cmp. https://t.co/1rBAGXgRU1 but without the prephase that would require machine learning support or a free and open service to be used.
+Could actually be done by optionally amending Speak the Words. 
