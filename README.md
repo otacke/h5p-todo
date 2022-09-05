@@ -91,6 +91,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Single Choice Set:** _[Fix]_ Stop giving away correct answers in page source ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/53))
 - [ ] **Speak the Words Set:** _[Feature]_ Implement question type contract ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/22))
 - [ ] **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
+- [ ] **Speak the Words Set:** _[Fix]_ Fix missing l10n string for finish button ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/50))
 - [ ] **Summary:** _[Fix]_ Fix re-creating state for user responses ([pull request](https://github.com/h5p/h5p-summary/pull/69))
 - [ ] **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
 - [ ] **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
