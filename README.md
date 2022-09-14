@@ -65,7 +65,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Drag the Words:** _[Fix]_ Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
 - [ ] **Drag the Words:** _[Fix]_ Add margin if dropzone container has tip ([pull request](https://github.com/h5p/h5p-drag-text/pull/102))
 - [x] **Drag the Words:** _[Fix]_ JI-3673 Fix npm script for 'watch' ([pull request](https://github.com/h5p/h5p-drag-text/pull/127))
-- [ ] **Fill in the Blanks:** _[Fix]_ Fix overflow when growing fields cause line breaks ([pull request](https://github.com/h5p/h5p-blanks/pull/59))
 - [ ] **Fill in the Blanks:** _[Feature]_ Add option to keep correct answers on retry ([pull request](https://github.com/h5p/h5p-blanks/pull/103))
 - [ ] **Fill in the Blanks:** _[Feature]_ Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
 - [ ] **Find the Hotspot:** _[Feature]_ Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
