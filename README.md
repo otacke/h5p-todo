@@ -390,7 +390,7 @@ Improve retention by implementing something as described in http://pad.o-e-r.de/
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
 
-### Tabs (probably done by someone else)
+### Tabs (probably tackled soon)
 Like Accordion, but using Tabs
 
 ### Linked List Widget
@@ -451,7 +451,7 @@ Content type that's similar to a Question Set, but that has a vertical layout re
 - Cmp. https://toolbot.glitch.me/
 - Cmp. https://learningsnacks.de
 
-### Timer Content Type
+### Timer Content Type (probably tackled soon)
 Just a simple stop watch / countdown timer content type.
 
 ### Categorizator
@@ -488,8 +488,6 @@ The teacher can write a text including deliberately misspelled words/wrong punct
 ### Content Type: Visualization
 Wrapper for https://www.chartjs.org to have multiple chart options in one content type.
 
-### Accordion: Use Column as content wrapper
-
 ### (Collaborative) Post-it organizer
 Could be something like GoogleKeep, but open (Multiplayer API needed)
 
@@ -519,7 +517,7 @@ New content type that works like blending QuestionSet and DialogCards:
 ### MathDisplay
 Add KaTeX support
 
-### "GameMap"
+### "GameMap" (probably tackled soon)
 Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
 - allow to track progress
@@ -577,7 +575,7 @@ Content type for generating credits similar to movie credits.
 ### Shuffled tile puzzle
 - Just for fun: one of the puzzles where one tile is missing, so you can move one tile at a time to an adjacent position in order to complete the puzzle.
 
-### Number Lock
+### Number Lock (probably tackled soon)
 Just a simple content type that presents the user with a number lock.
 - variable number of digits
 - variable number of numbers (maybe a freely definable list, chars?, ...)
