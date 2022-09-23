@@ -68,7 +68,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **Drag the Words:** _[Fix]_ JI-3673 Fix npm script for 'watch' ([pull request](https://github.com/h5p/h5p-drag-text/pull/127))
 - [ ] **Fill in the Blanks:** _[Feature]_ Add option to keep correct answers on retry ([pull request](https://github.com/h5p/h5p-blanks/pull/103))
 - [ ] **Fill in the Blanks:** _[Feature]_ Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
-- [ ] **Find the Hotspot:** _[Feature]_ Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
+- [ ] **Find the Hotspot:** _[Feature]_ Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49))
 - [ ] **Find the Hotspot:** _[Feature]_ Add default "correct" message ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/37))
 - [ ] **Find the Hotspot:** _[Feature]_ Make incorrect hotspot reset task on click ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/24))
 - [ ] **Flashcards:** _[Feature]_ Add option to randomize cards ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
