@@ -128,6 +128,10 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P User Score](https://github.com/otacke/h5p-user-score) Plugin for WordPress to display H5P scores in pages and posts
 - [H5P Resize Pulse](https://github.com/otacke/wp-h5p-resize-pulse) Plugin for WordPress to hackish-ly fix issues with H5P in lightboxes, tabs, or accordions
 
+## Currently:
+- Waiting for release confirmation for two new content types
+- Working on something on my own type that a couple of people may be missing
+
 ## Ideas and todos
 
 ### Replace 'title' attribute
