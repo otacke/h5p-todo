@@ -253,7 +253,7 @@ There might be cases where you want to (semi-)dynamically create content instead
 - Add json file with possible values for a variable to h5p scheme.
 - Big question: How to edit the files?
 
-### Transcript library (probably tackled soon)
+### Transcript library
 A library that can be used to use (not create) transcripts with audio content or video content.
 - Show transcript of an audio file/video file (based on .vtt captions or similar)
 - Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
@@ -394,7 +394,7 @@ Improve retention by implementing something as described in http://pad.o-e-r.de/
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
 
-### Tabs (probably tackled soon)
+### Tabs
 Like Accordion, but using Tabs
 
 ### Linked List Widget
@@ -455,7 +455,7 @@ Content type that's similar to a Question Set, but that has a vertical layout re
 - Cmp. https://toolbot.glitch.me/
 - Cmp. https://learningsnacks.de
 
-### Timer Content Type (probably tackled soon)
+### Timer Content Type
 Just a simple stop watch / countdown timer content type.
 
 ### Categorizator
@@ -521,7 +521,7 @@ New content type that works like blending QuestionSet and DialogCards:
 ### MathDisplay
 Add KaTeX support
 
-### "GameMap" (probably tackled soon)
+### "GameMap"
 Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
 - allow to track progress
@@ -579,7 +579,7 @@ Content type for generating credits similar to movie credits.
 ### Shuffled tile puzzle
 - Just for fun: one of the puzzles where one tile is missing, so you can move one tile at a time to an adjacent position in order to complete the puzzle.
 
-### Number Lock (probably tackled soon)
+### Number Lock
 Just a simple content type that presents the user with a number lock.
 - variable number of digits
 - variable number of numbers (maybe a freely definable list, chars?, ...)
