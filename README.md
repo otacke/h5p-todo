@@ -29,6 +29,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **H5P editor core:** _[Fix]_ Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))
 - [ ] **H5P editor core:** _[Fix]_ Fix CKEditor base path ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/125))
 - [ ] **H5P editor core:** _[Fix]_ Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
+- [ ] **H5P editor core:** _[Fix]_ Fix accessing patch_version_in_folder_name ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/158))
 - [ ] **H5P editor core:** _[Feature]_ Add accessibility improvements (Allow to flag video as sign language [pull request](https://github.com/h5p/h5p-editor-php-library/pull/146))
 - [ ] **H5P editor core:** _[Feature]_ Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - [ ] **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
@@ -41,6 +42,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
 - [ ] **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
 - [ ] **WordPress plugin:** _[Fix]_ Fix export file not being deleted with content ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/146))
+- [ ] **WordPress plugin:** _[Fix]_ Fix SQL for extra fields in results ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/148))
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
