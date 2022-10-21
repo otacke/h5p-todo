@@ -63,6 +63,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Drag and Drop:** _[Feature]_ Add audio on drag and drop ([pull request](https://github.com/h5p/h5p-drag-question/pull/92))
 - [ ] **Drag and Drop:** _[Fix]_ Fix maximum score being higher than points achievable ([pull request](https://github.com/h5p/h5p-drag-question/pull/116))
 - [ ] **Drag and Drop:** _[Fix]_ Use user defined hover text for images in tasks ([pull request 1](https://github.com/h5p/h5p-editor-drag-question/pull/13)) ([pull request 2](https://github.com/h5p/h5p-drag-question/pull/45))
+- [ ] **Drag and Drop:** _[Fix]_ HFP-3610 Do not change element position if already in dropzone (([H5P-3610](https://h5ptechnology.atlassian.net/browse/HFP-3610))[pull request](https://github.com/h5p/h5p-drag-question/pull/140))
 - [ ] **Drag the Words:** _[Feature]_ Add option to add distractors ([pull request](https://github.com/h5p/h5p-drag-text/pull/51))
 - [ ] **Drag the Words:** _[Feature]_ Add option to always display solution texts below content ([pull request](https://github.com/h5p/h5p-drag-text/pull/50))
 - [ ] **Drag the Words:** _[Fix]_ Fix LaTeX support ([pull request](https://github.com/h5p/h5p-drag-text/pull/89))
