@@ -7,13 +7,16 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
+- **Image Choice Rounds:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3517)
 - **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
-- **Highlight the Words:** still in progress
 - **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
+- **Portfolio:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3612)
+- **Seesaw:** [proof of concept](https://www.olivertacke.de/labs/2022/04/16/see-i-saw-a-seesaw-for-h5p/)
+- **Tabs:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3613)
+- **Timekeeper:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3614)
+- **Transcript:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3611)
 - **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
-- **Seesaw:** [Proof of concept for using a physics engine in H5P](https://www.olivertacke.de/labs/2022/04/16/see-i-saw-a-seesaw-for-h5p/)
-- **Image Choice Rounds:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3517)
 
 ### Pull requests for bugfixes and new features for core components and plugins
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
@@ -43,6 +46,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
 - [ ] **WordPress plugin:** _[Fix]_ Fix export file not being deleted with content ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/146))
 - [ ] **WordPress plugin:** _[Fix]_ Fix SQL for extra fields in results ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/148))
+- [ ] **WordPress plugin:** _[Feature]_ Add support for the H5P OER Hub ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/150))
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
@@ -123,18 +127,18 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P Jigsaw Puzzle](https://github.com/otacke/h5p-jigsaw-puzzle)
 - [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
 - [H5P Pick the Symbols](https://github.com/otacke/h5p-pick-the-symbols)
+- [H5P Portfolio](https://github.com/otacke/h5p-portfolio)
 - [H5P Sort the Paragraphs](https://github.com/otacke/h5p-sort-paragraphs)
 - [H5P Structure Strip](https://github.com/otacke/h5p-structure-strip)
+- [H5P Tabs](https://github.com/otacke/h5p-tabs)
+- [H5P Timekeeper](https://github.com/otacke/h5p-timekeeper)
+- [H5P Transcript](https://github.com/otacke/h5p-transcript)
 - [H5P X-Ray](https://github.com/otacke/h5p-x-ray)
 
 ### Other things
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu) Plugin for WordPress to catch xAPI statements
 - [H5P User Score](https://github.com/otacke/h5p-user-score) Plugin for WordPress to display H5P scores in pages and posts
 - [H5P Resize Pulse](https://github.com/otacke/wp-h5p-resize-pulse) Plugin for WordPress to hackish-ly fix issues with H5P in lightboxes, tabs, or accordions
-
-## Currently:
-- Waiting for release confirmation for two new content types
-- Working on something on my own type that a couple of people may be missing
 
 ## Ideas and todos
 
@@ -201,6 +205,18 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 ### DONE <strike>ImageHotspots</strike>
 <strike>Add Audio</strike>
 
+### DONE <strike>Transcript library</strike>
+A library that can be used to use (not create) transcripts with audio content or video content.
+- Show transcript of an audio file/video file (based on .vtt captions or similar)
+- Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
+- Jump to position in audio/video on clicking on the text (on click, trigger with time as data)
+
+### DONE <strike>Tabs</strike>
+Like Accordion, but using Tabs
+
+### DOME <strike>Timer Content Type</strike>
+Just a simple stop watch / countdown timer content type.
+
 ### Course Presentation
 - Transitions
   - Duration
@@ -256,12 +272,6 @@ There might be cases where you want to (semi-)dynamically create content instead
 - Add variables, e. g. ${foo} that should not conflict with other texts.
 - Add json file with possible values for a variable to h5p scheme.
 - Big question: How to edit the files?
-
-### Transcript library
-A library that can be used to use (not create) transcripts with audio content or video content.
-- Show transcript of an audio file/video file (based on .vtt captions or similar)
-- Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
-- Jump to position in audio/video on clicking on the text (on click, trigger with time as data)
 
 ### Make rewind in IV more flexible
 - Set time for rewinding
@@ -344,7 +354,6 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Add "view_h5p_contents" capability: If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
 - Add contentId obfuscation: Use UUID instead of auto-incremented index
 - Improve tracking of results incl. support for https://github.com/h5p/h5p-php-report
-- Include support for the H5P OER Hub (probably done by the H5P core team soon)
 - Add option reset task for specific users
 - Add option to not reset the state when editing content
 - Improve content management capabilities (by replacing the list of contents with a different solution in the official plugin or by replacing it with a custom plugin - possible, done before :-))
@@ -397,9 +406,6 @@ Improve retention by implementing something as described in http://pad.o-e-r.de/
 
 ### ChemJax
 Look into supporting ChemJax (similar to MathJax)
-
-### Tabs
-Like Accordion, but using Tabs
 
 ### Linked List Widget
 Editor widget for lists that knows the current entity's index and can link to other list entities using select field that only contains existing nodes and updates the fields on changes (e. g. update the links when a node in between has been removed).
@@ -458,9 +464,6 @@ Content type that's similar to a Question Set, but that has a vertical layout re
 - Could get a separate reporting class for more sophisticated analysis across exercises.
 - Cmp. https://toolbot.glitch.me/
 - Cmp. https://learningsnacks.de
-
-### Timer Content Type
-Just a simple stop watch / countdown timer content type.
 
 ### Categorizator
 Compound Content Type that allows to add content types (media), attach tags to them and then allow to filter them for the tags, etc.
