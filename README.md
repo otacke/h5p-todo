@@ -119,6 +119,7 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 - [H5P Agamotto](https://github.com/otacke/h5p-agamotto)
 - [H5P AR Scavenger](https://github.com/otacke/h5p-ar-scavenger)
 - [H5P Bingo](https://github.com/otacke/h5p-bingo)
+- [H5P Combination Lock](https://github.com/otacke/h5p-combination-lock)
 - [H5P Completion Confirmation](https://github.com/otacke/h5p-completion-confirmation)
 - [H5P Cornell Notes](https://github.com/otacke/h5p-cornell)
 - [H5P Crossword](https://github.com/otacke/h5p-crossword)
