@@ -92,7 +92,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
 - [ ] **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
 - [ ] **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
-- [ ] **Interactive Video:** _[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))
+- [x] **Interactive Video:** <strike>_[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))</strike> _rejected despite pre-qualification_
 - [ ] **Interactive Video:** _[Feature]_ Allow author to hide playback rate chooser ([pull request](https://github.com/h5p/h5p-interactive-video/pull/236))
 - [ ] **Interactive Video:** _[Fix]_ Fix muted videos on mobile ([pull request](https://github.com/h5p/h5p-interactive-video/pull/255))
 - [x] **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
