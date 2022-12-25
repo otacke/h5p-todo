@@ -612,3 +612,10 @@ Could actually be done by optionally amending Speak the Words.
 
 ### MiniCourse
 Help to make ready for release
+
+### Tamagochi Teacher
+- Allow authors to define a pool of exercises.
+- Users can earn points for completing exercises.
+- Points can be used to take care of a tamagochi like avatar, e. g. feeding, playing, etc.
+- Will store the state and users will need to check the tamagochi regularly
+- Have a max points per day limit, so users are required to come back regularly
