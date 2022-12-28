@@ -80,7 +80,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Find the Hotspot:** _[Feature]_ Make wrappable in other content types ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/49))
 - [ ] **Find the Hotspot:** _[Feature]_ Add default "correct" message ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/37))
 - [ ] **Find the Hotspot:** _[Feature]_ Make incorrect hotspot reset task on click ([pull request](https://github.com/h5p/h5p-image-hotspot-question/pull/24))
-- [ ] **Flashcards:** _[Feature]_ Add option to randomize cards ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
+- [x] **Flashcards:** _[Feature]_ Add option to randomize cards ([pull request](https://github.com/h5p/h5p-flashcards/pull/17))
 - [x] **Flashcards:** _[Feature]_ Add option to use alternative solutions separated by | ([pull request](https://github.com/h5p/h5p-flashcards/pull/43))
 - [ ] **Flashcards:** _[Fix]_ Fix optional solution ([HFP-2067](https://h5ptechnology.atlassian.net/browse/HFP-2067)) ([pull request](https://github.com/h5p/h5p-flashcards/pull/63))
 - [ ] **Flashcards:** _[Feature]_ Add optional audio button ([pull request](https://github.com/h5p/h5p-flashcards/pull/64))
