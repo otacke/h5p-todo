@@ -619,3 +619,6 @@ Help to make ready for release
 - Points can be used to take care of a tamagochi like avatar, e. g. feeding, playing, etc.
 - Will store the state and users will need to check the tamagochi regularly
 - Have a max points per day limit, so users are required to come back regularly
+
+### Piano
+Simple content type that allows to play a piano :-)
