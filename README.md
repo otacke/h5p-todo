@@ -8,7 +8,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Image Choice Rounds:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3517)
-- **Information Wall:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-3418)
 - **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
 - **Portfolio:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3612)
