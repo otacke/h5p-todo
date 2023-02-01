@@ -95,6 +95,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **Interactive Video:** <strike>_[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))</strike> _rejected despite pre-qualification_
 - [ ] **Interactive Video:** _[Feature]_ Allow author to hide playback rate chooser ([pull request](https://github.com/h5p/h5p-interactive-video/pull/236))
 - [ ] **Interactive Video:** _[Fix]_ Fix muted videos on mobile ([pull request](https://github.com/h5p/h5p-interactive-video/pull/255))
+- [ ] **Interactive Video:** _[Fix]_ HFP-3646 Fix skipping message overflow ([pull request](https://github.com/h5p/h5p-interactive-video/pull/271))
 - [x] **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
 - [ ] **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
