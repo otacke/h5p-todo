@@ -624,3 +624,6 @@ Help to make ready for release
 
 ### Piano
 Simple content type that allows to play a piano :-)
+
+### Content checker
+Tool to check H5P contents for missing mandatory fields, metadata, etc.
