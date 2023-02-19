@@ -152,80 +152,8 @@ I already use github issues to keep track of bugs, ideas, etc. for stuff that I 
 ### Replace 'title' attribute
 In all content types, replace use of 'title' attribute where used with H5P.Tooltip or remove alltogether if not necessary.
 
-### DONE <strike>H5P Bingo</strike>
-<strike>
-- Content type for playing bingo at boring conferences -- create your bingo sheet, share, enjoy ;-)
-- Enter pool of bingo words, content type will randomly generate an x by x bingo sheet
-</strike>
-
-### DONE <strike>Add setAudio function to H5P Question (already in prototype state)</strike>
-<strike>H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.</strike>
-
-### DONE <strike>Add video option to dialog cards</strike>
-<strike>Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.</strike>
-
-### <strike>H5P.PDF</strike>
-<strike>Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js). Rather not to prevent even more PDF overuse.</strike>
-
-### DONE <strike>DialogCards</strike>
-<strike>
-- cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
-- Save Content State
-- Reset button for repetition mode to start over again
-</strike>
-
-### DONE BY SOMEONE ELSE <strike>Hangman</strike>
-<strike>Self-explanatory. Maybe score + timing would be nice.</strike>
-
-### DONE <strike>Auto-Progression for Image Slider</strike>
-<strike>- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
-- Option to jump from last to first/first to last image instead of stopping (normal and automatic)</strike>
-
-### DONE Support Cornell Notes
-<strike>Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes</strike>
-
-### DONE <strike>by serettig in Advanced Fill in the Blanks Select for Fill in the blanks</strike>
-<strike>
-Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
-</strike>
-
-### DONE <strike>QuestionSet</strike>
-<strike>Check ImageScaling for intro inside column</strike>
-
-### DONE <strike>Bugfix: Text size in DialogCards inside Course Presentations</strike>
-<strike>Cannot reproduce</strike>
-
-### DONE <strike>Optionally store state in cookies/localStorage</strike>
-<strike>There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994</strike>
-
-### DONE <strike>WP-H5P-Resize-Hack</strike>
-Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
-
-### DONE <strike>Content Type: Paragraph Writing Structure Strips</strike>
-<strike>- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/ or https://doingsocialstudies.com/2018/02/22/structure-strips-seriously-where-have-you-been-hiding/</strike>
-<strike>- Allow to set the weight of each paragraph</strike>
-<strike>- Allow to set the color of a paragraph strip</strike>
-<strike>- Allow to set some slack. e.g +/- 10 % of characters or words</strike>
-<strike>- Allow to customize feedback messages if a paragraph subceeds/exceeds</strike>
-<strike>- Save content state for revision, cmp. Cornell Notes</strike>
-
-### DONE <strike>ImageHotspots</strike>
-<strike>Add Audio</strike>
-
-### DONE <strike>Transcript library</strike>
-A library that can be used to use (not create) transcripts with audio content or video content.
-- Show transcript of an audio file/video file (based on .vtt captions or similar)
-- Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
-- Jump to position in audio/video on clicking on the text (on click, trigger with time as data)
-
-### DONE <strike>Tabs</strike>
-Like Accordion, but using Tabs
-
-### DOME <strike>Timer Content Type</strike>
-Just a simple stop watch / countdown timer content type.
-
 ### Course Presentation
-- Transitions
+  - Transitions
   - Duration
   - Style (e. g. slide (as now), over black, nothing, ...)
   - Auto-progress: It was nice if one could set a period of time after which a course presentations jumps to the next slide automatically. Might be fun for petcha kutcha or similar things. I already had some code to do this, but it got lost :-/
@@ -247,9 +175,6 @@ A content type/(library for other content types?) to answer yes, no, foo or bar 
 ### H5P GraphQuiz
 I wrote that on a sheet of paper, but I cannot remember what I wanted to create named this way ;-)
 Might have been something like Capira offered: Teachers can draw a graph as a sample, and learners have to draw a graph that's similar enough. Could as well have been something such as https://quickdraw.withgoogle.com/
-
-### Timer
-I have already created a general timer library for H5P, quite versatile, but I do not even dare to look at that old piece of code ;-) Maybe I'll write something new, tiny and focussed and ready for adding a timer (maybe as an overlay) to any H5P library that needs one. Could also go into H5P-Question.
 
 ### H5P OnSite
 In order so support blended learning scenarios that use xAPI statements, an on-site tool might be useful. It it's simplest version it could just trigger an xAPI statement for "attended" when someone (within a particular group/range) clicks a button. A more sophisticated version could also offer some audience response system features.
@@ -315,9 +240,6 @@ Some new libraries that could be used
 - Some numeric input, could be a slider or something similar
 - Some numeric input, Likert scaled
 
-### Add images as answer option to multiple choice?
-Use images instead of text for answers. Might need some UX expertise
-
 ### Link-Widget
 Check if link exists while it is entered
 
@@ -341,11 +263,6 @@ Content type that is similar to the [Image Slider](https://h5p.org/image-slider)
 
 ### alter_metadata hook
 Metadata can already be altered using the alter_params hook, but only for subcontent. The meta data for the content type itself is not exposed as it doesn't reside in the params object. It was nice to be able to alter metadata, too, e.g. set a different default license, so it would not have to be set manually each time. An alter_metadata hook might help (could either only give access to the metadata object in extras or pass a reference to all metadata objects in extras and params). Alternatively, an alter_extras hook might help, too.
-
-### Puzzle Game
-- Upload an image, define the dimensions, and let people puzzle
-- Design option: https://h5ptechnology.atlassian.net/browse/HFP-1730
-- :-)
 
 ### ToBeNamed
 - Tool to design a network of nodes that process numerical inputs and return numerical outputs.
@@ -430,9 +347,6 @@ Just a simple die/dice content type:
 * Custom images (but still numbers internally)
 * Trigger result via external dispatcher, so other content types can work with the result
 
-### Datepicker widget for editor
-Says it all :-)
-
 ### Image-Widget
 - Add option to include link to image.
 
@@ -474,9 +388,6 @@ Content type that's similar to a Question Set, but that has a vertical layout re
 
 ### Categorizator
 Compound Content Type that allows to add content types (media), attach tags to them and then allow to filter them for the tags, etc.
-
-### Kewar: Add "description" field
-Add "description" field to QR code that can be displayed along with the QRCode
 
 ### General Feedback
 Allow links, could facilitate paths
@@ -567,9 +478,6 @@ Fix size of popups that start as a button, not as a poster
 - https://twitter.com/Seppi04748866/status/1393905629274820612
 - https://t.co/aQ8NPNFKry https://t.co/hrFXKFHtde
 
-### Drag and Drop
-Fix alignment of text draggables
-
 ### Copyright View
 Make it look nice :-) See https://h5ptechnology.atlassian.net/browse/HFP-1902
 
@@ -623,3 +531,92 @@ Simple content type that allows to play a piano :-)
 
 ### Content checker
 Tool to check H5P contents for missing mandatory fields, metadata, etc.
+
+### DONE <strike>Kewar: Add "description" field</strike>
+<strike>Add "description" field to QR code that can be displayed along with the QRCode</strike>
+
+### DONE <strike>Datepicker widget for editor</strike>
+<strike>Says it all :-)</strike>
+
+### DONE as Jigsaw Puzzle <strike>Puzzle Game</strike>
+<strike>- Upload an image, define the dimensions, and let people puzzle
+- Design option: https://h5ptechnology.atlassian.net/browse/HFP-1730
+- :-)</strike>
+
+### DONE as separate content type <strike>Add images as answer option to multiple choice?</strike>
+<strike>Use images instead of text for answers. Might need some UX expertise</strike>
+
+### DONE <strike>H5P Bingo</strike>
+<strike>
+- Content type for playing bingo at boring conferences -- create your bingo sheet, share, enjoy ;-)
+- Enter pool of bingo words, content type will randomly generate an x by x bingo sheet
+</strike>
+
+### DONE <strike>Add setAudio function to H5P Question (already in prototype state)</strike>
+<strike>H5P Question is a library that offers common functionality to question-like content types. It already features setImage and setVideo for easily including an image or a video for the content types introduction, but setAudio is missing.</strike>
+
+### DONE <strike>Add video option to dialog cards</strike>
+<strike>Currently, dialog cards can contain images, but not videos. Having videos as well, could e.g. enable support for sign language.</strike>
+
+### <strike>H5P.PDF</strike>
+<strike>Simple PDF-Viewer content type, could be based on [PDF.js](https://github.com/mozilla/pdf.js). Rather not to prevent even more PDF overuse.</strike>
+
+### DONE <strike>DialogCards</strike>
+<strike>
+- cmp. https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards/x/824080
+- Save Content State
+- Reset button for repetition mode to start over again
+</strike>
+
+### DONE BY SOMEONE ELSE <strike>Hangman</strike>
+<strike>Self-explanatory. Maybe score + timing would be nice.</strike>
+
+### DONE <strike>Auto-Progression for Image Slider</strike>
+<strike>- Option to progress to the next image automatically after a given time period (should be reset after interaction?)
+- Option to jump from last to first/first to last image instead of stopping (normal and automatic)</strike>
+
+### DONE Support Cornell Notes
+<strike>Implement support for Cornell Notes, https://m.wikihow.com/Take-Cornell-Notes</strike>
+
+### DONE <strike>by serettig in Advanced Fill in the Blanks Select for Fill in the blanks</strike>
+<strike>
+Instead of free text blanks, fill in the blanks might also be used to optionally present a select input field with different options
+</strike>
+
+### DONE <strike>QuestionSet</strike>
+<strike>Check ImageScaling for intro inside column</strike>
+
+### DONE <strike>Bugfix: Text size in DialogCards inside Course Presentations</strike>
+<strike>Cannot reproduce</strike>
+
+### DONE <strike>Optionally store state in cookies/localStorage</strike>
+<strike>There's a save content state option that stores the state of a content type if the user is logged in. Might be useful to optionally use cookies (web storage API), so this feature could work for anonymous users, too. https://h5p.org/comment/14994#comment-14994</strike>
+
+### DONE <strike>WP-H5P-Resize-Hack</strike>
+Simple H5P-Plugin for WordPress that continuously triggers a resize event on the window.
+
+### DONE <strike>Content Type: Paragraph Writing Structure Strips</strike>
+<strike>- Have multiple text input fields and a "strip" next to it indicating the suggested length of a paragraph in relation to other paragraphs, cmp. https://www.tes.com/teaching-resource/paragraph-writing-structure-strips-for-gcse-english-literature-aqa-11821384 or https://www.pinterest.de/pin/463307880411263982/ or https://jivespin.wordpress.com/2017/07/20/structure-strips-stripping-literacy-to-the-basics/ or https://doingsocialstudies.com/2018/02/22/structure-strips-seriously-where-have-you-been-hiding/</strike>
+<strike>- Allow to set the weight of each paragraph</strike>
+<strike>- Allow to set the color of a paragraph strip</strike>
+<strike>- Allow to set some slack. e.g +/- 10 % of characters or words</strike>
+<strike>- Allow to customize feedback messages if a paragraph subceeds/exceeds</strike>
+<strike>- Save content state for revision, cmp. Cornell Notes</strike>
+
+### DONE <strike>ImageHotspots</strike>
+<strike>Add Audio</strike>
+
+### DONE <strike>Transcript library</strike>
+<strike>A library that can be used to use (not create) transcripts with audio content or video content.
+- Show transcript of an audio file/video file (based on .vtt captions or similar)
+- Show currently used text phrase as audio/video progresses (on "caption" update, trigger with time as data)
+- Jump to position in audio/video on clicking on the text (on click, trigger with time as data)</strike>
+
+### DONE <strike>Tabs</strike>
+<strike>Like Accordion, but using Tabs</strike>
+
+### DONE <strike>Timer Content Type</strike>
+<strike>Just a simple stop watch / countdown timer content type.</strike>
+
+### DONE <strike>Timer</strike> ###
+<strike>I have already created a general timer library for H5P, quite versatile, but I do not even dare to look at that old piece of code ;-) Maybe I'll write something new, tiny and focussed and ready for adding a timer (maybe as an overlay) to any H5P library that needs one. Could also go into H5P-Question.</strike>
