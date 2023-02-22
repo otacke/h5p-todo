@@ -532,6 +532,9 @@ Simple content type that allows to play a piano :-)
 ### Content checker
 Tool to check H5P contents for missing mandatory fields, metadata, etc.
 
+### Automated user flow test environment
+Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
+
 ### DONE <strike>Kewar: Add "description" field</strike>
 <strike>Add "description" field to QR code that can be displayed along with the QRCode</strike>
 
