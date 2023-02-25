@@ -272,8 +272,8 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Nodes can also be outputs (numbers, colors, sounds, ...)
 
 ### WordPress-PlugIn
-- Add development mode option (as in Drupal)
-- Add library development + option (as in Drupal)
+
+
 - Add option to override the list of allowed content types in the settings (as in Drupal)
 - Add support for the Gutenberg editor
 - Add "view_h5p_contents" capability: If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
