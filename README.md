@@ -103,6 +103,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **Interactive Video:** _[Fix]_ HFP-3646 Fix skipping message overflow ([pull request](https://github.com/h5p/h5p-interactive-video/pull/271))
 - [x] **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
 - [ ] **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
+- [ ] **Mark the Words:** _[Fix]_ HFP-3661 Improve a11y focus on "Check" and "Show Solutions" ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/105))
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
 - [ ] **Multiple Choice:** _[Fix]_ HFP-3645 Fix calls to showSolutions or resetTask ([pull request](https://github.com/h5p/h5p-multi-choice/pull/157))
 - [ ] **Question:** _[Fix]_ HFP-3654 Fix trailing "dot" for screen readers ([pull request](https://github.com/h5p/h5p-question/pull/16))
