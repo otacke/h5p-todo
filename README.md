@@ -452,14 +452,6 @@ New content type that works like blending QuestionSet and DialogCards:
 ### MathDisplay
 Add KaTeX support
 
-### "GameMap"
-Compound Content Type similar to Image Hotspots, but ...
-- allow any kind of content type
-- allow to track progress
-- allow to define prerequisites for enabling hotspots
-- display the current "position"
-- think of it as the map in Super Mario Wold
-
 ### Image
 Add option to use link instead of uploading image
 
@@ -540,6 +532,14 @@ Tool to check H5P contents for missing mandatory fields, metadata, etc.
 
 ### Automated user flow test environment
 Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
+
+### DONE <strike>"GameMap"</strike>
+<strike>Compound Content Type similar to Image Hotspots, but ...
+- allow any kind of content type
+- allow to track progress
+- allow to define prerequisites for enabling hotspots
+- display the current "position"
+- think of it as the map in Super Mario World</strike>
 
 ### DONE <strike>Kewar: Add "description" field</strike>
 <strike>Add "description" field to QR code that can be displayed along with the QRCode</strike>
