@@ -464,7 +464,7 @@ YouTube added a chapter feature by using the description for marks. Check if it 
 - https://h5p.org/node/1018665
 
 ### Content Type: Text correction/Work with Text
-Spot mistakes in a text and correct them. Could become a feature of Highlight the Words or a spin-off.
+Spot mistakes in a text and correct them. Could become a feature of Highlight the Words (the code is ugly) or a spin-off.
 
 ### Interactive Video: Countdown
 - As an author, I want to be able to add a countdown to interactions that will automatically check the task/close the interaction overlay when the timer reaches zero.
