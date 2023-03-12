@@ -535,6 +535,9 @@ Tool to check H5P contents for missing mandatory fields, metadata, etc.
 ### Automated user flow test environment
 Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
 
+### Simple timeline
+Cmp. bottom of https://h5p.org/roadmap (quite nice, but not a content type)
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
