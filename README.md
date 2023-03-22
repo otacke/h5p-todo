@@ -67,6 +67,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **DialogCards:** _[Feature]_ Update InteractiveVideo integration ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **Dialogcards:** _[Feature]_ Allow the author to set every page of a card individually: text and/or image and/or audio ([pull request](https://github.com/h5p/h5p-dialogcards/pull/86))
 - [ ] **Dialogcards:** _[Feature]_ Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
+- [ ] **Documentation Tool:** _[Fix]_ Fix focus on resume ([pull request](https://github.com/h5p/h5p-documentation-tool/pull/64))
 - [ ] **Drag and Drop:** _[Feature]_ Add audio on drag and drop ([pull request](https://github.com/h5p/h5p-drag-question/pull/92))
 - [ ] **Drag and Drop:** _[Fix]_ Fix maximum score being higher than points achievable ([pull request](https://github.com/h5p/h5p-drag-question/pull/116))
 - [ ] **Drag and Drop:** _[Fix]_ Use user defined hover text for images in tasks ([pull request 1](https://github.com/h5p/h5p-editor-drag-question/pull/13)) ([pull request 2](https://github.com/h5p/h5p-drag-question/pull/45))
