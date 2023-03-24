@@ -539,6 +539,10 @@ Should be done by H5P Group, but it's quite simple to set up a basic environment
 ### Simple timeline
 Cmp. bottom of https://h5p.org/roadmap (quite nice, but not a content type)
 
+### Long Reads
+A content type that allows to easily create "Long Reads" such as https://www.bbc.co.uk/news/resources/idt-sh/war_in_the_desert
+
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
