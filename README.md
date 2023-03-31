@@ -39,6 +39,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **H5P editor core:** _[Feature]_ Allow to retrieve configuration of list widget ([H5P-3599](https://h5ptechnology.atlassian.net/browse/HFP-3599)[pull request](https://github.com/h5p/h5p-editor-php-library/pull/164))
 - [ ] **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - [ ] **H5P editor core:** _[Fix]_ Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
+- [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
