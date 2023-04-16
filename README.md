@@ -547,6 +547,11 @@ A content type that allows to easily create "Long Reads" such as https://www.bbc
 ### Duolingo clone
 There are already content types that can replace Duolingo exercises, e.g. Dictation and Drag the Words. Close the gaps ...
 
+### Documentation Tool: Checklist module
+- As an author, I can add a predefined list of items that users can check off
+- As an author, I can decide whether the checklist should be accompanied by a progress bar
+- As a user, I can check off items from a list
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
