@@ -95,6 +95,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **Goals Assessment Page:** _[Fix]_ Improve accessibility: Add labels to goals list ([pull request](https://github.com/h5p/h5p-goals-assessment-page/pull/41#event-8708714127))
 - [x] **Image:** _[Fix]_ Fix alt and title attribute ([pull request](https://github.com/h5p/h5p-image/pull/55))
 - [ ] **Image:** _[Feature]_ Allow alt tags with up to 1024 characters ([pull request](https://github.com/h5p/h5p-image/pull/58))
+- [ ] **Image Choice:** _[Fix]_ HFP-3682 Improve getAnswerGiven ([pull request](https://github.com/h5p/h5p-multi-media-choice/pull/51))
 - [ ] **Image Hotspots:** _[Fix]_ Fix non-HTML5-videos resizing ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/91))
 - [ ] **Image Hotspots:** _[Feature]_ Add customizing options for popups ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/42))
 - [ ] **Image Slider:** _[Feature]_ Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
