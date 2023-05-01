@@ -16,6 +16,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Timekeeper:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3614)
 - **Transcript:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3611)
 - **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
+- **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681) 
 
 ### Pull requests for bugfixes and new features for core components and plugins
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
