@@ -553,7 +553,11 @@ There are already content types that can replace Duolingo exercises, e.g. Dictat
 ### Documentation Tool: Checklist module
 - As an author, I can add a predefined list of items that users can check off
 - As an author, I can decide whether the checklist should be accompanied by a progress bar
+- As an author, I can decide whether the user is allowed to handle extra items
 - As a user, I can check off items from a list
+- As a user, I can add extra items (if allowed to handle extra items)
+- As a user, I can remove extra items (if allowed to handle extra items)
+- Needs to support resume (store all items (incl. label for extra items) and checked state)
 
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
