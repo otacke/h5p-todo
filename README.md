@@ -19,8 +19,8 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681) 
 
 ### Pull requests for bugfixes and new features for core components and plugins
-- [ ] **H5P CLI:** _[Fix]_ Fix not loading h5p-core-button.css ([pull request](https://github.com/h5p/h5p-cli/pull/51))
-- [ ] **H5p CLI:** _[Fix]_ Add application specific style for editor iframe ([pull request](https://github.com/h5p/h5p-cli/pull/52))
+- [x] **H5P CLI:** _[Fix]_ Fix not loading h5p-core-button.css ([pull request](https://github.com/h5p/h5p-cli/pull/51))
+- [x] **H5p CLI:** _[Fix]_ Add application specific style for editor iframe ([pull request](https://github.com/h5p/h5p-cli/pull/52))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - [ ] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
