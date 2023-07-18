@@ -7,18 +7,18 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
+- **Content Compiler** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3665)
+- **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681)
+- **Game Map** [in review: view](https://h5ptechnology.atlassian.net/browse/HFP-3717) [in review: editor](https://h5ptechnology.atlassian.net/browse/HFP-3741)
 - **Image Choice Rounds:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3517)
-- **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
+- **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
 - **Portfolio:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3612)
 - **Seesaw:** [proof of concept](https://www.olivertacke.de/labs/2022/04/16/see-i-saw-a-seesaw-for-h5p/)
 - **Tabs:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3613)
 - **Timekeeper:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3614)
 - **Transcript:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3611)
 - **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
-- **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681)
-- **Game Map**
-- **Content Compiler**
 
 ### Pull requests for bugfixes and new features for core components and plugins
 - [x] **H5P CLI:** _[Fix]_ Fix not loading h5p-core-button.css ([pull request](https://github.com/h5p/h5p-cli/pull/51))
