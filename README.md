@@ -6,6 +6,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 ### Content types not yet on the H5P Hub
 - **Bingo:** [in release](https://h5ptechnology.atlassian.net/browse/HFP-2386)
 - **Pick the Symbols:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-2944)
+- **Combination Lock:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3624)
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Content Compiler** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3665)
 - **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681)
