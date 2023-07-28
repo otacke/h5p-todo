@@ -107,7 +107,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Image Slider:** _[Feature]_ Add slideshow functionality ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/3))
 - [ ] **Image Slider:** _[Feature]_ Add audio to slides ([pull request](https://github.com/falcon-git/h5p-image-slider/pull/21))
 - [ ] **Interactive Book:** _[Fix]_ Fix decrementing tasks left for non-task exercises ([pull request](https://github.com/h5p/h5p-interactive-book/pull/70))
-- [x] **Interactibe Book:** _[Feature]_ HFP-3768 Add option to enable/disable "Restart" button ([pull request](https://github.com/h5p/h5p-interactive-book/pull/131))
+- [x] **Interactive Book:** _[Feature]_ HFP-3768 Add option to enable/disable "Restart" button ([pull request](https://github.com/h5p/h5p-interactive-book/pull/131))
 - [ ] **Interactive Video:** _[Feature]_ Add option to disable submit button until video ended ([pull request](https://github.com/h5p/h5p-interactive-video/pull/152/)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [x] **Interactive Video:** <strike>_[Feature]_ Allow to add custom audio tracks and sign language videos ([pull request](https://github.com/h5p/h5p-interactive-video/pull/233))</strike> _rejected despite pre-qualification_
 - [ ] **Interactive Video:** _[Feature]_ Allow author to hide playback rate chooser ([pull request](https://github.com/h5p/h5p-interactive-video/pull/236))
