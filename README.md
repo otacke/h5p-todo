@@ -57,6 +57,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **WordPress plugin:** _[Fix]_ Fix export file not being deleted with content ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/146))
 - [x] **WordPress plugin:** _[Fix]_ Fix SQL for extra fields in results ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/148))
 - [ ] **WordPress plugin:** _[Feature]_ Add support for the H5P OER Hub ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/150))
+- [ ] **WordPress plugin:** _[Fix]_ H5P-3773 Fix potential memory issue ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/162))
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
