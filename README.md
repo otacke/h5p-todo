@@ -64,6 +64,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Accordion:** _[Feature]_ Use H5P.Column for content ([pull request](https://github.com/h5p/h5p-accordion/pull/41))
 - [x] **Accordion:** _[Fix]_ Fix word-wrap in button ([pull request](https://github.com/h5p/h5p-accordion/pull/74))
 - [ ] **Arithmetic Quiz:** _[Fix]_ Fix behavior of selected answers ([pull request](https://github.com/h5p/h5p-arithmetic-quiz/pull/55))
+- [ ] **Audio:** _[Fix]_ HFP-3776 Catch play promise error ([pull request](https://github.com/h5p/h5p-audio/pull/86))
 - [ ] **Audio:** _[Fix]_ Fix full player height for Chromium based browsers if fitToWrapper is set ([pull request](https://github.com/h5p/h5p-audio/pull/48))
 - [ ] **Audio:** _[Feature]_ Add Audio Recorder Extension ([pull request](https://github.com/h5p/h5p-audio/pull/38))
 - [ ] **Audio Recorder:** _[Fix]_ Add non-optional default parameters in constructor ([pull request](https://github.com/h5p/h5p-audio-recorder/pull/42))
