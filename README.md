@@ -536,7 +536,7 @@ Cmp. https://t.co/1rBAGXgRU1 but without the prephase that would require machine
 Could actually be done by optionally amending Speak the Words. 
 
 ### MiniCourse
-Help to make ready for release
+Help to make ready for release. 
 
 ### Tamagochi Teacher
 - Allow authors to define a pool of exercises.
