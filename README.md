@@ -122,7 +122,7 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
 - [x] **Memory Game** _[Fix]_ HFP-3758 Fix row break application on resize ([pull request](https://github.com/h5p/h5p-memory-game/pull/86))
 - [x] **Memory Game** _[Feature]_ HFP-3770 Add resetTask function ([pull request](https://github.com/h5p/h5p-memory-game/pull/88))
-- [ ] **Multiple Choice:** <strike>_[Fix]_ HFP-3645 Fix calls to showSolutions or resetTask ([pull request](https://github.com/h5p/h5p-multi-choice/pull/157))</strike> _implemented differently_
+- [x] **Multiple Choice:** <strike>_[Fix]_ HFP-3645 Fix calls to showSolutions or resetTask ([pull request](https://github.com/h5p/h5p-multi-choice/pull/157))</strike> _pull request ignored, implemented differently_
 - [ ] **Question:** _[Fix]_ HFP-3654 Fix trailing "dot" for screen readers ([pull request](https://github.com/h5p/h5p-question/pull/16))
 - [ ] **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
 - [x] **Questionnaire:** _[Fix]_ Exclude package-lock.json from h5p library ([pull](https://github.com/h5p/h5p-questionnaire/pull/65))
@@ -133,9 +133,9 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - [x] **Speak the Words Set:** _[Fix]_ Fix missing l10n string for finish button ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/50))
 - [ ] **Summary:** _[Fix]_ Fix re-creating state for user responses ([pull request](https://github.com/h5p/h5p-summary/pull/69))
 - [ ] **Timeline:** _[Fix]_ H5P-3663 Add observer for attaching TimelineJS ([pull request](https://github.com/h5p/h5p-timeline/pull/68))
-- [ ] **Video:** _[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))
+- [x] **Video:** <strike>_[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))</strike> _pull request ignored, implemented differently_
 - [ ] **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
-- [x] <strike>**Video:** _[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))</strike> rejected despite pre-qualification
+- [x] **Video:** <strike>_[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))</strike> _rejected despite pre-qualification_
 - [ ] **Video:** _[Fix]_ Stop calling pause() before play promise resolved ([pull request](https://github.com/h5p/h5p-video/pull/68))
 - [ ] **Video:** _[Feature]_ HFP-3684 Prevent playback rate spoofing ([pull request](https://github.com/h5p/h5p-video/pull/87))
 
