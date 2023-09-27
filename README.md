@@ -92,6 +92,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Drag the Words:** _[Fix]_ JI-3673 Fix npm script for 'watch' ([pull request](https://github.com/h5p/h5p-drag-text/pull/127))
 - [x] **Drag the Words:** _[Fix]_ HFP-3656 Exclude package-lock.json from h5p library ([pull request](https://github.com/h5p/h5p-drag-text/pull/134))
 - [ ] **Drag the Words:** _[Fix]_ HFP-3658 Improve a11y focus on "Check" and "Show Solutions" ([pull request](https://github.com/h5p/h5p-drag-text/pull/135))
+- [ ] **Drag the Words:** _[Fix]_ HFP-3797 Fix draggable styling incl. color contrast ([pull request](https://github.com/h5p/h5p-drag-text/pull/143))
 - [ ] **Fill in the Blanks:** _[Feature]_ Add option to keep correct answers on retry ([pull request](https://github.com/h5p/h5p-blanks/pull/103))
 - [ ] **Fill in the Blanks:** _[Feature]_ Improve performance ([pull request](https://github.com/h5p/h5p-blanks/pull/45))
 - [ ] **Fill in the Blanks:** _[Fix]_ HFP-3655 Improve a11y focus on "Check" and "Show Solutions" ([pull request](https://github.com/h5p/h5p-blanks/pull/129))
