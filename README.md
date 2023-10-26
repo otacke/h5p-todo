@@ -69,6 +69,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Audio:** _[Fix]_ HFP-3776 Catch play promise error ([pull request](https://github.com/h5p/h5p-audio/pull/86))
 - [ ] **Audio:** _[Fix]_ Fix full player height for Chromium based browsers if fitToWrapper is set ([pull request](https://github.com/h5p/h5p-audio/pull/48))
 - [ ] **Audio:** _[Feature]_ Add Audio Recorder Extension ([pull request](https://github.com/h5p/h5p-audio/pull/38))
+- [x] **Audio:** _[Fix]_ Remove flowplayer remnants ([pull request](https://github.com/h5p/h5p-audio/pull/85))
 - [ ] **Audio Recorder:** _[Fix]_ Add non-optional default parameters in constructor ([pull request](https://github.com/h5p/h5p-audio-recorder/pull/42))
 - [ ] **Audio Recorder:** _[Fix]_ Fix closing of AudioContext that is already closed ([pull request](https://github.com/h5p/h5p-audio-recorder/pull/41))
 - [ ] **Blanks:** _[Fix]_ HFP-3792 Fix trimming ([pull request](https://github.com/h5p/h5p-blanks/pull/135))
