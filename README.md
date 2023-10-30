@@ -32,6 +32,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P core:** _[Feature]_ Add contentId to initialized event ([pull request](https://github.com/h5p/h5p-php-library/pull/134))
 - [ ] **H5P core:** _[Fix]_ HFP-3649 Fix confirmation dialog button positioning ([pull request](https://github.com/h5p/h5p-php-library/pull/144))
 - [ ] **H5P core:** _[Fix]_ HFP-3650 Fix semi-fullscreen impact by integration CSS ([pull request](https://github.com/h5p/h5p-php-library/pull/145))
+- [ ] **H5P core:** _[Feature]_ Add reduced motion mode to conf dialog ([pull request](HFP-3815 https://github.com/h5p/h5p-php-library/pull/160))
 - [ ] **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/112))
 - [ ] **H5P core/integrations:** _[Fix]_ Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
 - [ ] **H5P Hub client:** _[Feature]_ Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
