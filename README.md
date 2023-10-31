@@ -66,6 +66,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 I know of some pull requests that now raise merge conflicts as the original code was changes in the same spot. I have marked those that I know of with ![merge-conflict](https://img.icons8.com/color/18/conflict.png). Common practice dictates that I as the pull request owner should update this - but I will most likely will not do this anymore. I have done so very often, but given that my pull requests are completely ignored, I am going to wait until I get some feedback knowing that the pull request is actually appreciated.
 - [ ] **Accordion:** _[Feature]_ Use H5P.Column for content ([pull request](https://github.com/h5p/h5p-accordion/pull/41))
 - [x] **Accordion:** _[Fix]_ Fix word-wrap in button ([pull request](https://github.com/h5p/h5p-accordion/pull/74))
+- [ ] **Accordion:** _[Feature]_ (HFP-3819 Allow sorting of panels by title [pull request](https://github.com/h5p/h5p-accordion/pull/80))
 - [ ] **Arithmetic Quiz:** _[Fix]_ Fix behavior of selected answers ([pull request](https://github.com/h5p/h5p-arithmetic-quiz/pull/55))
 - [x] **Audio:** _[Fix]_ HFP-3776 Catch play promise error ([pull request](https://github.com/h5p/h5p-audio/pull/86))
 - [ ] **Audio:** _[Fix]_ Fix full player height for Chromium based browsers if fitToWrapper is set ([pull request](https://github.com/h5p/h5p-audio/pull/48))
