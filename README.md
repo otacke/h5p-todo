@@ -142,6 +142,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Speak the Words Set:** _[Fix]_ Fix missing l10n string for finish button ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/50))
 - [ ] **Summary:** _[Fix]_ Fix re-creating state for user responses ([pull request](https://github.com/h5p/h5p-summary/pull/69))
 - [ ] **Timeline:** _[Fix]_ H5P-3663 Add observer for attaching TimelineJS ([pull request](https://github.com/h5p/h5p-timeline/pull/68))
+- [ ] **TrueFalse:** _[Fix]_ HFP-3821 Interpret checking answer as answer was given ([pull request](https://github.com/h5p/h5p-true-false/pull/124))
 - [x] **Video:** <strike>_[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))</strike> _pull request ignored, implemented differently_
 - [ ] **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
 - [x] **Video:** <strike>_[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))</strike> _rejected despite pre-qualification_
