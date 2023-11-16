@@ -109,6 +109,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Flashcards:** _[Feature]_ Add optional audio button ([pull request](https://github.com/h5p/h5p-flashcards/pull/64))
 - [ ] **Flashcards:** _[Feature]_ Change xAPI verb from 'completed' to 'answered' ([pull request](https://github.com/h5p/h5p-flashcards/pull/20))
 - [ ] **Flashcards:** _[Fix]_ HFP-3818 remove enforced capitalization ([pull request](https://github.com/h5p/h5p-flashcards/pull/114))
+- [ ] **Flashcards:** _[Fix]_ HFP-3644 Update usage description in translation files ([pull request](https://github.com/h5p/h5p-flashcards/pull/115))
 - [x] **Goals Assessment Page:** _[Fix]_ Improve accessibility: Add labels to goals list ([pull request](https://github.com/h5p/h5p-goals-assessment-page/pull/41#event-8708714127))
 - [x] **Image:** _[Fix]_ Fix alt and title attribute ([pull request](https://github.com/h5p/h5p-image/pull/55))
 - [ ] **Image:** _[Feature]_ Allow alt tags with up to 1024 characters ([pull request](https://github.com/h5p/h5p-image/pull/58))
