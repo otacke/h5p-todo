@@ -583,6 +583,14 @@ There are already content types that can replace Duolingo exercises, e.g. Dictat
 - As a user, I can remove extra items (if allowed to handle extra items)
 - Needs to support resume (store all items (incl. label for extra items) and checked state)
 
+### Content type for placement testing
+Could be an amendmend of QuestionSet, but there may be too many restrictions. So ...
+- Allow to use different subcontents.
+- Collect different scores based on the outcome of subcontents, so for each subcontent:
+  - "As an author, I can assign different categories to a subcontent."
+  - "As an author, I can define what score range for the subcontent leads to what score for the category."
+- Have result similar to personality quiz based on the total category (=personality) scores
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
