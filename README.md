@@ -126,7 +126,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Interactive Video:** _[Fix]_ Fix muted videos on mobile ([pull request](https://github.com/h5p/h5p-interactive-video/pull/255))
 - [x] **Interactive Video:** _[Fix]_ HFP-3646 Fix skipping message overflow ([pull request](https://github.com/h5p/h5p-interactive-video/pull/271))
 - [x] **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
-- [ ] **IV Hotspot:** _[Fix]_ Fix label HTML encoding ([pull request] https://github.com/h5p/h5p-iv-hotspot/pull/42)
+- [x] **IV Hotspot:** _[Fix]_ Fix label HTML encoding ([pull request] https://github.com/h5p/h5p-iv-hotspot/pull/42)
 - [ ] **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
 - [ ] **Mark the Words:** _[Fix]_ HFP-3661 Improve a11y focus on "Check" and "Show Solutions" ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/105))
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
