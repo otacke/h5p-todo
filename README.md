@@ -591,6 +591,9 @@ Could be an amendmend of QuestionSet, but there may be too many restrictions. So
   - "As an author, I can define what score range for the subcontent leads to what score for the category."
 - Have result similar to personality quiz based on the total category (=personality) scores
 
+### Click the Words
+Content type similar to Drag the Words, but instead of dragging words to dropzones, clicking on a word would move it to the next available slot or back to its original position if it already is inside a slot.
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
