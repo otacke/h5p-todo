@@ -10,7 +10,6 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **Completion Confirmation:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3263)
 - **Content Compiler** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3665)
 - **Discrete Option Multiple Choice:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3681)
-- **Game Map** [in review: view](https://h5ptechnology.atlassian.net/browse/HFP-3717) | [in review: editor](https://h5ptechnology.atlassian.net/browse/HFP-3741)
 - **Image Choice Rounds:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3517)
 - **Image Zoom:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3480)
 - **Jigsaw Puzzle:** [filed for review](https://h5ptechnology.atlassian.net/jira/core/projects/HFP/issues/HFP-3478)
