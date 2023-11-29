@@ -59,6 +59,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **WordPress plugin:** _[Fix]_ Fix SQL for extra fields in results ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/148))
 - [ ] **WordPress plugin:** _[Feature]_ Add support for the H5P OER Hub ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/150))
 - [ ] **WordPress plugin:** _[Fix]_ H5P-3773 Fix potential memory issue ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/162))
+- [ ] **WordPress plugin:** _[Fix]_ Fix sorting contents by author ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/167))
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
