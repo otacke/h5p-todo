@@ -53,13 +53,13 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **ShowWhen:** _[Feature]_ Make more robust for multi-value rules ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/2))
 - [ ] **VerticalTabs:** _[Feature]_ Hide buttons based on min/max setting ([H5P-3599](https://h5ptechnology.atlassian.net/browse/HFP-3599)[pull request](https://github.com/h5p/h5p-editor-vertical-tabs/pull/3))
 - [ ] **WordPress plugin:** _[Feature]_ Set generous HTTP feature policy ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/114))
-- [ ] **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
-- [ ] **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
+- [x] **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
+- [x] **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
 - [x] **WordPress plugin:** _[Fix]_ Fix export file not being deleted with content ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/146))
 - [x] **WordPress plugin:** _[Fix]_ Fix SQL for extra fields in results ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/148))
 - [ ] **WordPress plugin:** _[Feature]_ Add support for the H5P OER Hub ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/150))
-- [ ] **WordPress plugin:** _[Fix]_ H5P-3773 Fix potential memory issue ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/162))
-- [ ] **WordPress plugin:** _[Fix]_ Fix sorting contents by author ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/167))
+- [x] **WordPress plugin:** _[Fix]_ H5P-3773 Fix potential memory issue ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/162))
+- [x] **WordPress plugin:** _[Fix]_ Fix sorting contents by author ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/167))
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
