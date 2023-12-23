@@ -602,6 +602,16 @@ Could be an amendmend of QuestionSet, but there may be too many restrictions. So
 ### Click the Words
 Content type similar to Drag the Words, but instead of dragging words to dropzones, clicking on a word would move it to the next available slot or back to its original position if it already is inside a slot.
 
+### Persona
+Content type that allows to add an image next to a speech bubble where the speech bubble can contain text and audio. 
+
+### Storyteller
+Content type set that allows to add "Persona", "Image", "Video", "Text".
+- Can have background music for the whole set and for each subcontent.
+- Allows automated progression
+- Allows fullscreen
+- Allows audio toggling
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
