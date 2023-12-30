@@ -612,6 +612,9 @@ Content type set that allows to add "Persona", "Image", "Video", "Text".
 - Allows fullscreen
 - Allows audio toggling
 
+### Content Reveal
+Allow to add a trigger warning or similar before actually viewing content.
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
