@@ -49,6 +49,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P (editor) core:** _[Fix]_ Fix step validation of number field ([pull request 1](https://github.com/h5p/h5p-editor-php-library/pull/115), [pull request 2](https://github.com/h5p/h5p-editor-php-library/pull/115))
 - [ ] **H5P editor core:** _[Fix]_ Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
 - [ ] **H5P editor core:** _[Fix]_ HFP-3851 Fix select field validation ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/193))
+- [ ] **H5P editor core:** _[Fix]_ HFP-3852 Fix number field validation ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/196))
 - [ ] **H5P editor core:** _[Feature]_ Add field name to library select field classname ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/194))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
