@@ -81,6 +81,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Audio Recorder:** _[Fix]_ Add non-optional default parameters in constructor ([pull request](https://github.com/h5p/h5p-audio-recorder/pull/42))
 - [ ] **Audio Recorder:** _[Fix]_ Fix closing of AudioContext that is already closed ([pull request](https://github.com/h5p/h5p-audio-recorder/pull/41))
 - [ ] **Blanks:** _[Fix]_ HFP-3792 Fix trimming ([pull request](https://github.com/h5p/h5p-blanks/pull/135))
+- [ ] **Blanks:** _[Feature]_ HFP-3862 Add completion/sucess flag to xAPI result ([pull request](https://github.com/h5p/h5p-blanks/pull/138))
 - [ ] **Branching Question** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-branching-question/pull/52))
 - [ ] **Branching Question (Editor)** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-editor-branching-question/pull/20))
 - [x] **Chart:** _[Fix]_ Fix HTML encoding in charts labels ([HFP-2041](https://h5ptechnology.atlassian.net/browse/HFP-2042)) ([pull request](https://github.com/h5p/h5p-chart/pull/34))
