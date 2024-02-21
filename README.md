@@ -621,6 +621,11 @@ Content type set that allows to add "Persona", "Image", "Video", "Text".
 ### Content Reveal
 Allow to add a trigger warning or similar before actually viewing content.
 
+### Point-to-point drawing
+Classic point-to-point drawing puzzle
+- Optionally assign words (instead of numbers) to points, so students need to construct sentences
+- When a "sequence" is done, do something nice visually 
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
