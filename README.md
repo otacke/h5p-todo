@@ -662,7 +662,7 @@ Potentially to the rescue: H5Pacman, a package manager for H5P content types. Co
 - Allow proper deletion of libraries (if possible only vs. enforced with warning, take care of circular dependencies)
 - Extra functionality
   - Auto-update
-  - ...
+  - Revert to older conent type versions (can break existing content though!)
 
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
