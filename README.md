@@ -664,6 +664,10 @@ Potentially to the rescue: H5Pacman, a package manager for H5P content types. Co
   - Auto-update
   - Revert to older conent type versions (can break existing content though!)
 
+### Spyhole content type
+Content type that allows the author to upload an image. For the user, the image is hidden and parts of it will sequentially be uncovered - either on click or timer based. Optionally a correct solution can be defined and scores can be awarded when the correct solution is given, based on how fast the answer was given. Also optionally, the author can define the sequence of image parts that will be revealed, but that would probably require a visual editor and thus more time to develop. Could be a two-step process.
+Could be used for the "spyhole method" where students only see a part of the image and should interpret it, and re-evaluate after they see more of the image. Could also be used as a game.
+
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
 - allow any kind of content type
