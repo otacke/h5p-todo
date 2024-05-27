@@ -53,6 +53,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core:** _[Fix]_ HFP-3852 Fix number field validation ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/196))
 - [ ] **H5P editor core:** _[Feature]_ Add field name to library select field classname ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/194))
 - [ ] **H5P editor core:** _[Fix]_ HFP-3870 Prevent crash if H5P Integration does not provide file icon ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/209))
+- [ ] **H5P editor core:** _[Fix]_ HFP-3957 JI-6152 Stop focussing edit image button on content load ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/250))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
