@@ -155,6 +155,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
 - [x] **Memory Game** _[Fix]_ HFP-3758 Fix row break application on resize ([pull request](https://github.com/h5p/h5p-memory-game/pull/86))
 - [x] **Memory Game** _[Feature]_ HFP-3770 Add resetTask function ([pull request](https://github.com/h5p/h5p-memory-game/pull/88))
+- [ ] **Memory Game** _[Fix]_ HFP-3990 HFP-3990 Fix label instructions ([pull request](https://github.com/h5p/h5p-memory-game/pull/101))
 - [x] **Multiple Choice:** <strike>_[Fix]_ HFP-3645 Fix calls to showSolutions or resetTask ([pull request](https://github.com/h5p/h5p-multi-choice/pull/157))</strike> _pull request ignored, implemented differently_
 - [ ] **Question:** _[Fix]_ HFP-3654 Fix trailing "dot" for screen readers ([pull request](https://github.com/h5p/h5p-question/pull/16))
 - [x] **Question:** _[Fix]_ HFP-3824 Add fix for dialog on embedded fullscreen ([pull request](https://github.com/h5p/h5p-question/pull/23))
