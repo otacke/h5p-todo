@@ -81,7 +81,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Accordion:** _[Feature]_ (HFP-3819 Allow sorting of panels by title [pull request](https://github.com/h5p/h5p-accordion/pull/80))
 - [ ] **Arithmetic Quiz:** _[Fix]_ Fix behavior of selected answers ([pull request](https://github.com/h5p/h5p-arithmetic-quiz/pull/55))
 - [x] **Audio:** _[Fix]_ HFP-3776 Catch play promise error ([pull request](https://github.com/h5p/h5p-audio/pull/86))
-- [ ] **Audio:** _[Fix]_ HFP-3826 Add icon ([pull request](https://github.com/h5p/h5p-audio/pull/93))
+- [ ] <strike>**Audio:** _[Fix]_ HFP-3826 Add icon ([pull request](https://github.com/h5p/h5p-audio/pull/93))</strike> _was ignored and re-implemented_
 - [ ] **Audio:** _[Fix]_ Fix full player height for Chromium based browsers if fitToWrapper is set ([pull request](https://github.com/h5p/h5p-audio/pull/48))
 - [ ] **Audio:** _[Feature]_ Add Audio Recorder Extension ([pull request](https://github.com/h5p/h5p-audio/pull/38))
 - [x] **Audio:** _[Fix]_ Remove flowplayer remnants ([pull request](https://github.com/h5p/h5p-audio/pull/85))
