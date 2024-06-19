@@ -175,6 +175,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Video:** _[Feature]_ Use undocumented no-cookie option for YouTube videos ([pull request](https://github.com/h5p/h5p-video/pull/35))
 - [x] **Video:** <strike>_[Feature]_ Allow to flag videos as sign language and support alternative videos for YT ([pull request](https://github.com/h5p/h5p-video/pull/69))</strike> _rejected despite pre-qualification_
 - [ ] **Video:** _[Fix]_ Stop calling pause() before play promise resolved ([pull request](https://github.com/h5p/h5p-video/pull/68))
+- [ ] **Video:** _[Fix]_ HFP-4037 Fix sanitization of visual parameters ([pul request](https://github.com/h5p/h5p-video/pull/129))
 - [ ] **Video:** _[Feature]_ HFP-3684 Prevent playback rate spoofing ([pull request](https://github.com/h5p/h5p-video/pull/87))
 - [x] **Video** _[Fix]_ HFP-3868 Fix treating extras as mandatory ([pull request](https://github.com/h5p/h5p-video/pull/119))
 - [ ] **Virtual Tour** _[Fix]_ HFP-3218 Stop setting focus on startup ([pull request](https://github.com/h5p/h5p-three-image/pull/92))
