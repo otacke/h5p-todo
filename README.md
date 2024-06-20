@@ -491,9 +491,6 @@ Add KaTeX support
 ### Image
 Add option to use link instead of uploading image
 
-### Interactive Video: Chapter Marks
-YouTube added a chapter feature by using the description for marks. Check if it is possible to retrieve those and use them to build chapters in H5P automatically.
-
 ### Image Hotspots: individual color
 - https://h5p.org/node/1018665
 
@@ -757,3 +754,6 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 - Add discrete option mode, cmp. https://h5p.org/node/204855
 - Add confidence weighting mode
 </strike>
+
+### DONE as new content type <strike>Interactive Video: Chapter Marks</strike>
+<strike>YouTube added a chapter feature by using the description for marks. Check if it is possible to retrieve those and use them to build chapters in H5P automatically.</strike>
