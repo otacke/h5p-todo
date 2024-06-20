@@ -236,9 +236,6 @@ Allow multi-tier-questions, cmp. https://h5p.org/node/204840
 Is there a service with an open API that could be used to unit test code and return some results to H5P? ...
 - Possibly, something feasible is mentioned in https://h5p.org/node/310680
 
-### 3D model display
-It might be an interesting option to have a "3D image" content type that takes a standard 3D model file as input (research: what's standard?) and just displays it with some basic interaction options such as rotating or zooming. I bet there's already an open implementation for that (based on ThreeJS) that could be wrapped and used in H5P.
-
 ### Variable system
 There might be cases where you want to (semi-)dynamically create content instead of creating several instances.
 - Add variables, e. g. ${foo} that should not conflict with other texts.
@@ -757,3 +754,6 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 
 ### DONE as new content type <strike>Interactive Video: Chapter Marks</strike>
 <strike>YouTube added a chapter feature by using the description for marks. Check if it is possible to retrieve those and use them to build chapters in H5P automatically.</strike>
+
+### DONE <strike>3D model display</strike>
+<strike>It might be an interesting option to have a "3D image" content type that takes a standard 3D model file as input (research: what's standard?) and just displays it with some basic interaction options such as rotating or zooming. I bet there's already an open implementation for that (based on ThreeJS) that could be wrapped and used in H5P.</strike>
