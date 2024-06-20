@@ -232,10 +232,6 @@ Having an option to trigger IFTTT recipes based on xAPI statements could be real
 ### Question Set
 Allow multi-tier-questions, cmp. https://h5p.org/node/204840
 
-### Multiple-Choice
-- Add discrete option mode, cmp. https://h5p.org/node/204855
-- Add confidence weighting mode
-
 ### Code feedback
 Is there a service with an open API that could be used to unit test code and return some results to H5P? ...
 - Possibly, something feasible is mentioned in https://h5p.org/node/310680
@@ -753,5 +749,11 @@ Simple H5P-Plugin for WordPress that continuously triggers a resize event on the
 ### DONE <strike>Timer Content Type</strike>
 <strike>Just a simple stop watch / countdown timer content type.</strike>
 
-### DONE <strike>Timer</strike> ###
+### DONE <strike>Timer</strike>
 <strike>I have already created a general timer library for H5P, quite versatile, but I do not even dare to look at that old piece of code ;-) Maybe I'll write something new, tiny and focussed and ready for adding a timer (maybe as an overlay) to any H5P library that needs one. Could also go into H5P-Question.</strike>
+
+### DONE as new content type<strike>Multiple-Choice</strike>
+<strike>
+- Add discrete option mode, cmp. https://h5p.org/node/204855
+- Add confidence weighting mode
+</strike>
