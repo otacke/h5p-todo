@@ -184,29 +184,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 I already use github issues to keep track of bugs, ideas, etc. for stuff that I have created. Please have a look there.
 
 ### Content types
-- [H5P Advent Calendar](https://github.com/otacke/h5p-advent-calendar)
-- [H5P Agamotto](https://github.com/otacke/h5p-agamotto)
-- [H5P AR Scavenger](https://github.com/otacke/h5p-ar-scavenger)
-- [H5P Bingo](https://github.com/otacke/h5p-bingo)
-- [H5P Combination Lock](https://github.com/otacke/h5p-combination-lock)
-- [H5P Completion Confirmation](https://github.com/otacke/h5p-completion-confirmation)
-- [H5P Cornell Notes](https://github.com/otacke/h5p-cornell)
-- [H5P Crossword](https://github.com/otacke/h5p-crossword)
-- [H5P Dictation](https://github.com/otacke/h5p-dictation)
-- [H5P Essay](https://github.com/otacke/h5p-essay)
-- [H5P Image Juxtaposition](https://github.com/otacke/h5p-image-juxtaposition)
-- [H5P Image Zoom](https://github.com/otacke/h5p-image-zoom)
-- [H5P Information Wall](https://github.com/otacke/h5p-info-wall)
-- [H5P Jigsaw Puzzle](https://github.com/otacke/h5p-jigsaw-puzzle)
-- [H5P KewArCode](https://github.com/otacke/h5p-kewar-code)
-- [H5P Pick the Symbols](https://github.com/otacke/h5p-pick-the-symbols)
-- [H5P Portfolio](https://github.com/otacke/h5p-portfolio)
-- [H5P Sort the Paragraphs](https://github.com/otacke/h5p-sort-paragraphs)
-- [H5P Structure Strip](https://github.com/otacke/h5p-structure-strip)
-- [H5P Tabs](https://github.com/otacke/h5p-tabs)
-- [H5P Timekeeper](https://github.com/otacke/h5p-timekeeper)
-- [H5P Transcript](https://github.com/otacke/h5p-transcript)
-- [H5P X-Ray](https://github.com/otacke/h5p-x-ray)
+See https://www.olivertacke.de/labs/h5p-content-types/
 
 ### Other things
 - [H5PxAPIkatchu](https://github.com/otacke/h5pxapikatchu) Plugin for WordPress to catch xAPI statements
