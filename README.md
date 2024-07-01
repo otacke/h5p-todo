@@ -26,7 +26,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Fix]_ Add application specific style for editor iframe ([pull request](https://github.com/h5p/h5p-cli/pull/52))
 - [x] **H5P CLI:** _[Fix]_ HFP-3901 Add mission fileIcon definition ([pull request](https://github.com/h5p/h5p-cli/pull/76))
 - [x] **H5P CLI:** _[Fix]_ Exclude node_modules from livereload ([pull request](https://github.com/h5p/h5p-cli/pull/86))
-- [ ] **H5P CLI:** _[Fix]_ HFP-4040 Fix file extension detection ([pull request](https://github.com/h5p/h5p-cli/pull/91))
+- [x] **H5P CLI:** _[Fix]_ HFP-4040 Fix file extension detection ([pull request](https://github.com/h5p/h5p-cli/pull/91))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - [ ] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
