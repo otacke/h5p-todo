@@ -97,6 +97,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Blanks:** _[Feature]_ HFP-3862 Add completion/sucess flag to xAPI result ([pull request](https://github.com/h5p/h5p-blanks/pull/138))
 - [ ] **Branching Question** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-branching-question/pull/52))
 - [ ] **Branching Question (Editor)** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-editor-branching-question/pull/20))
+- [ ] **Branching Scenario** _[Fix]_ Fix label of proceed button ([pull request](https://github.com/h5p/h5p-branching-scenario/pull/150))
 - [x] **Chart:** _[Fix]_ Fix HTML encoding in charts labels ([HFP-2041](https://h5ptechnology.atlassian.net/browse/HFP-2042)) ([pull request](https://github.com/h5p/h5p-chart/pull/34))
 - [ ] **Column:** _[Feature]_ Remove Twitter user feed from content type options ([pull request](https://github.com/h5p/h5p-column/pull/43))
 - [ ] **Column:** _[Fix]_ Set activity started only if Column is main content ([pull request](https://github.com/h5p/h5p-column/pull/50))
