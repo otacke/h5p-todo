@@ -29,7 +29,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Fix]_ HFP-4040 Fix file extension detection ([pull request](https://github.com/h5p/h5p-cli/pull/91))
 - [ ] **H5P CLI:** _[Fix]_ HFP-4059 Add missing file type checking ([pull request](https://github.com/h5p/h5p-cli/pull/92))
 - [ ] **H5P CLI:** _[Fix]_ HFP-4060 Fix resetting state after content changed ([pull request](https://github.com/h5p/h5p-cli/pull/96))
-- [ ] **H5P CLI:** _[Feature]_ HFP-4061 Add reset button for sessions ([pull request](https://github.com/h5p/h5p-cli/pull/97))
+- [x] **H5P CLI:** _[Feature]_ HFP-4061 Add reset button for sessions ([pull request](https://github.com/h5p/h5p-cli/pull/97))
 - [ ] **H5P CLI:** _[Feature]_ HFP-4063 Add support for user configuration file ([pull request](https://github.com/h5p/h5p-cli/pull/98))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
