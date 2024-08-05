@@ -110,6 +110,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Dialogcards:** _[Feature]_ Allow to add videos to cards ([pull request](https://github.com/h5p/h5p-dialogcards/pull/43)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [x] **Documentation Tool:** _[Fix]_ Fix focus on resume ([pull request](https://github.com/h5p/h5p-documentation-tool/pull/64))
 - [ ] **Document Export Page:** _[Fix]_ HFP-3888 Fix buttons (a11y) ([pull request](https://github.com/h5p/h5p-document-export-page/pull/56))
+- [ ] **Document Export Page:** _[Fix]_ HFP-4089 Fix category labels on preview ([pull request](https://github.com/h5p/h5p-document-export-page/pull/59))
 - [ ] **Drag and Drop:** _[Feature]_ Add audio on drag and drop ([pull request](https://github.com/h5p/h5p-drag-question/pull/92))
 - [ ] **Drag and Drop:** _[Fix]_ Fix maximum score being higher than points achievable ([pull request](https://github.com/h5p/h5p-drag-question/pull/116))
 - [ ] **Drag and Drop:** _[Fix]_ Use user defined hover text for images in tasks ([pull request 1](https://github.com/h5p/h5p-editor-drag-question/pull/13)) ([pull request 2](https://github.com/h5p/h5p-drag-question/pull/45))
