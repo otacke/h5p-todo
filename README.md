@@ -21,6 +21,8 @@ I thought it might be a good idea to better keep track of my ideas and todos rel
 - **X-ray:** [filed for review](https://h5ptechnology.atlassian.net/browse/HFP-3489)
 
 ### Pull requests for bugfixes and new features for core components and plugins
+Here's a list of my pull reququest to the H5P project since June 2021. Didn't keep track of those that were opened before since 2016.
+
 I know of some pull requests that now raise merge conflicts as the original code was changes in the same spot. I have marked those that I know of with ![merge-conflict](https://img.icons8.com/color/18/conflict.png). Common practice dictates that I as the pull request owner should update this - but I will most likely will not do this anymore. I have done so very often, but given that my pull requests are completely ignored, I am going to wait until I get some feedback knowing that the pull request is actually appreciated.
 - [x] **H5P CLI:** _[Fix]_ Fix not loading h5p-core-button.css ([pull request](https://github.com/h5p/h5p-cli/pull/51))
 - [x] **H5P CLI:** _[Fix]_ Add application specific style for editor iframe ([pull request](https://github.com/h5p/h5p-cli/pull/52))
