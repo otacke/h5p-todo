@@ -161,6 +161,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **IV Hotspot:** _[Fix]_ Fix label HTML encoding ([pull request] https://github.com/h5p/h5p-iv-hotspot/pull/42)
 - [ ] **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
 - [ ] **Mark the Words:** _[Fix]_ HFP-3661 Improve a11y focus on "Check" and "Show Solutions" ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/105))
+- [x] **Mark the Words:** _[Fix]: HFP-3907 Fix answer given state always being true ([pull request](https://github.com/h5p/h5p-mark-the-words/pull/111#event-13788688210))
 - [ ] **Matching:** _[Fix]_ Fix HTML encoding for l10n and pair texts ([pull request](https://github.com/h5p/h5p-matching/pull/24))
 - [x] **Memory Game** _[Fix]_ HFP-3758 Fix row break application on resize ([pull request](https://github.com/h5p/h5p-memory-game/pull/86))
 - [x] **Memory Game** _[Feature]_ HFP-3770 Add resetTask function ([pull request](https://github.com/h5p/h5p-memory-game/pull/88))
