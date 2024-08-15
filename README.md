@@ -40,7 +40,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P core:** _[Feature]_ Add contentId to initialized event ([pull request](https://github.com/h5p/h5p-php-library/pull/134))
 - [ ] **H5P core:** _[Fix]_ HFP-3649 Fix confirmation dialog button positioning ([pull request](https://github.com/h5p/h5p-php-library/pull/144))
 - [ ] **H5P core:** _[Fix]_ HFP-3650 Fix semi-fullscreen impact by integration CSS ([pull request](https://github.com/h5p/h5p-php-library/pull/145))
-- [ ] **H5P core:** _[Feature]_ Add reduced motion mode to confirmation dialog ([pull request](HFP-3815 https://github.com/h5p/h5p-php-library/pull/160))
+- [x] **H5P core:** _[Feature]_ Add reduced motion mode to confirmation dialog ([pull request](HFP-3815 https://github.com/h5p/h5p-php-library/pull/160))
 - [ ] **H5P core:** _[Chore]_ HFP-3843 Remove obsolete full screen handling ([pull request](https://github.com/h5p/h5p-php-library/pull/162))
 - [ ] **H5P core:** _[Chore]_ Increase intelligibility of ifEmpty function ([pull request](https://github.com/h5p/h5p-php-library/pull/164))
 - [ ] **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/112))
