@@ -567,6 +567,28 @@ Help to make ready for release.
 
 ### Piano
 Simple content type that allows to play a piano :-)
+- Externally:
+  - Would be nice: 25 keys (~2 octaves), 15 white, 10 black (playable with mouse, yuks)
+  - Realistic: 12 white, 8 black - that can be played with keyboard keys.
+- Internally: Could be all piano keys
+- Support for MIDI devices
+- Allow to define samples and switch between them.
+- Metronome feature
+
+### Rythm composer
+Something like a stripped down digital version of a [Roland TR-909](https://en.wikipedia.org/wiki/Roland_TR-909]) ;-)
+- Allow to have a 16 slot sequence
+- Assign samples to slots
+- Flexible BPM
+- Low pan
+- High pan
+- "Infinite" rows of sequences or maybe just 4?
+- Allow to use "Piano" content type, too
+
+### Looper
+Something like a stripped down digital version of a [Boss RC-505](https://www.boss.info/de/products/rc-505/) ;-)
+- Allow to use "Rythm composer", too
+- Allow to use "Piano" content type, too
 
 ### Content checker
 Tool to check H5P contents for missing mandatory fields, metadata, etc.
@@ -658,7 +680,13 @@ Content type that allows the author to upload an image. For the user, the image 
 Could be used for the "spyhole method" where students only see a part of the image and should interpret it, and re-evaluate after they see more of the image. Could also be used as a game.
 
 ### Forker ###
-Server-side tool (with client-side frontend) to modify content type parameters to match a forked version.
+Server-side tool (with client-side frontend) to modify content type parameters to match a forked version. Would need to:
+0) Do a sanitization check, e.g. check if versions to upgrade from is right, etc.
+1) read h5p.json and content.json
+2) Update/replace entries in h5p.json
+3) Run an upgrade-script on content.json if required
+4) write h5p.json and content.json
+5) Return the new file.
 
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
