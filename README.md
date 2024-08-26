@@ -569,6 +569,7 @@ Simple content type that allows to play a piano :-)
   - Realistic: 12 white, 8 black - that can be played with keyboard keys.
 - Internally: Could be all piano keys
 - Support for MIDI devices
+- Allow to set octave
 - Allow to define samples and switch between them.
 - Metronome feature
 
