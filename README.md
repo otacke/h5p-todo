@@ -421,9 +421,6 @@ Content Type for the (reversed) Taboo game.
 - Like dialog cards, add cards with taboo words
 - Have a reversed mode where words must be included and need to be checked
 
-### 3D model support
-Add 3D model support to H5P.Image and the core widget using an appropriate library.
-
 ### DragQuestion
 - Add option to keep correct items in place.
 - Add white space next to image for putting draggables there
@@ -687,6 +684,9 @@ Server-side tool (with client-side frontend) to modify content type parameters t
 3) Run an upgrade-script on content.json if required
 4) write h5p.json and content.json
 5) Return the new file.
+
+### DONE via separate content type<strike>3D model support</strike>
+<strike>Add 3D model support to H5P.Image and the core widget using an appropriate library.</strike>
 
 ### DONE <strike>"GameMap"</strike>
 <strike>Compound Content Type similar to Image Hotspots, but ...
