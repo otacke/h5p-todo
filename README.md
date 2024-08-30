@@ -572,6 +572,7 @@ Simple content type that allows to play a piano :-)
 - Allow to set octave
 - Allow to define samples and switch between them.
 - Metronome feature
+- Cmp. https://recursivearts.com/virtual-piano/ or https://virtualpiano.eu/
 
 ### Rythm composer
 Something like a stripped down digital version of a [Roland TR-909](https://en.wikipedia.org/wiki/Roland_TR-909]) ;-)
@@ -582,6 +583,7 @@ Something like a stripped down digital version of a [Roland TR-909](https://en.w
 - High pan
 - "Infinite" rows of sequences or maybe just 4?
 - Allow to use "Piano" content type, too
+- Cmp. https://hitgroove.com/
 
 ### Looper
 Something like a stripped down digital version of a [Boss RC-505](https://www.boss.info/de/products/rc-505/) ;-)
