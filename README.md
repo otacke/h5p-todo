@@ -572,6 +572,7 @@ Simple content type that allows to play a piano :-)
 - Allow to set octave
 - Allow to define samples and switch between them.
 - Metronome feature
+- Volume control
 - Cmp. https://recursivearts.com/virtual-piano/ or https://virtualpiano.eu/
 
 ### Rythm composer
@@ -582,13 +583,26 @@ Something like a stripped down digital version of a [Roland TR-909](https://en.w
 - Low pan
 - High pan
 - "Infinite" rows of sequences or maybe just 4?
-- Allow to use "Piano" content type, too
+- Volume control per sequence
+- Global volume control
 - Cmp. https://hitgroove.com/
 
 ### Looper
 Something like a stripped down digital version of a [Boss RC-505](https://www.boss.info/de/products/rc-505/) ;-)
-- Allow to use "Rythm composer", too
-- Allow to use "Piano" content type, too
+- Volume control
+- Cmp. https://github.com/alex-milanov/js-loop-station
+
+### Drum Pad
+- Some simple Drum Pad
+- 8 pads
+- volume control
+- Support for MIDI devices
+- Cmp. https://github.com/nikhil-web/Drumpad-Vanilla-JS-DEMO
+
+### Music Foo
+- Allow to combine "Piano", "Rythm Composer", "Looper" and "Drum Pad"
+- Potentially arrange layout
+- Potentially even have more elements to assign to and to control others (volume control, ...)
 
 ### Content checker
 Tool to check H5P contents for missing mandatory fields, metadata, etc.
