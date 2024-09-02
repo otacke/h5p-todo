@@ -413,9 +413,6 @@ Widget that allows to add a margin around images (particularly useful for Drag a
 ### Magnifying option for H5P.Image
 Add an option to magnify parts of an image similar what's common in web shops.
 
-### Piano Question
-New content type, basically a multiple choice question, but using a piano keyboard as input
-
 ### Taboo
 Content Type for the (reversed) Taboo game.
 - Like dialog cards, add cards with taboo words
@@ -603,6 +600,9 @@ Something like a stripped down digital version of a [Boss RC-505](https://www.bo
 - Allow to combine "Piano", "Rythm Composer", "Looper" and "Drum Pad"
 - Potentially arrange layout
 - Potentially even have more elements to assign to and to control others (volume control, ...)
+
+### Piano Question
+New content type, basically a multiple choice question or sequence of questions, but using a piano keyboard as input. In extreme: "Piano Hero" :-D
 
 ### Content checker
 Tool to check H5P contents for missing mandatory fields, metadata, etc.
