@@ -35,7 +35,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Feature]_ HFP-4063 Add support for user configuration file ([pull request](https://github.com/h5p/h5p-cli/pull/98))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
-- [ ] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
+- [x] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
 - [ ] **H5P core:** _[Feature]_ Trigger set user data more often to ensure state transmission ([pull request](https://github.com/h5p/h5p-php-library/pull/107))
 - [ ] **H5P core:** _[Feature]_ Add contentId to initialized event ([pull request](https://github.com/h5p/h5p-php-library/pull/134))
 - [ ] **H5P core:** _[Fix]_ HFP-3649 Fix confirmation dialog button positioning ([pull request](https://github.com/h5p/h5p-php-library/pull/144))
