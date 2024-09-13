@@ -170,6 +170,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Memory Game** _[Fix]_ HFP-3990 HFP-3990 Fix label instructions ([pull request](https://github.com/h5p/h5p-memory-game/pull/101))
 - [x] **Multiple Choice:** <strike>_[Fix]_ HFP-3645 Fix calls to showSolutions or resetTask ([pull request](https://github.com/h5p/h5p-multi-choice/pull/157))</strike> _pull request ignored, implemented differently_
 - [ ] **Question:** _[Fix]_ HFP-3654 Fix trailing "dot" for screen readers ([pull request](https://github.com/h5p/h5p-question/pull/16))
+- [ ] **Question** _[Fix]_ Fix aria label of image expand/collapse button ([pull request](https://github.com/h5p/h5p-question/pull/27))
 - [x] **Question:** _[Fix]_ HFP-3824 Add fix for dialog on embedded fullscreen ([pull request](https://github.com/h5p/h5p-question/pull/23))
 - [ ] **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
 - [x] **Questionnaire:** _[Fix]_ Exclude package-lock.json from h5p library ([pull](https://github.com/h5p/h5p-questionnaire/pull/65))
