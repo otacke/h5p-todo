@@ -33,6 +33,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Fix]_ HFP-4060 Fix resetting state after content changed ([pull request](https://github.com/h5p/h5p-cli/pull/96))
 - [x] **H5P CLI:** _[Feature]_ HFP-4061 Add reset button for sessions ([pull request](https://github.com/h5p/h5p-cli/pull/97))
 - [x] **H5P CLI:** _[Feature]_ HFP-4063 Add support for user configuration file ([pull request](https://github.com/h5p/h5p-cli/pull/98))
+- [ ] **H5P CLI:** _[Fix] HFP-4093 Improve color code detection ([pull request](https://github.com/h5p/h5p-cli/pull/111))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - [x] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
