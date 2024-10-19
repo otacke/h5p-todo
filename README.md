@@ -177,11 +177,13 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Questionnaire:** _[Fix]_ Exclude package-lock.json from h5p library ([pull](https://github.com/h5p/h5p-questionnaire/pull/65))
 - [ ] **Shape:** _[Fix]_ Add missing dependency to H5PEditor.RadioGroup ([pull request](https://github.com/h5p/h5p-shape/pull/18))
 - [ ] **Single Choice Set:** _[Fix]_ Stop giving away correct answers in page source ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/53))
+- [ ] **Single Choice Set:** _[Fix]_ HFP-4137 Add completion/success flags ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/120))
 - [ ] **Speak the Words Set:** _[Feature]_ Implement question type contract ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/22))
 - [ ] **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
 - [x] **Speak the Words Set:** _[Fix]_ Fix missing l10n string for finish button ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/50))
 - [ ] **Standard Page:** _[Feature]_ HFP-3861 Add H5P.CheckboxList and H5P.DropdownField ([pull request](https://github.com/h5p/h5p-standard-page/pull/48))
 - [ ] **Summary:** _[Fix]_ Fix re-creating state for user responses ([pull request](https://github.com/h5p/h5p-summary/pull/69))
+- [ ] **Summary:** _[Fix]_ HFP-4137 Add completion/success flags ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/120))
 - [ ] **Timeline:** _[Fix]_ H5P-3663 Add observer for attaching TimelineJS ([pull request](https://github.com/h5p/h5p-timeline/pull/68))
 - [ ] **TrueFalse:** _[Fix]_ HFP-3821 Interpret checking answer as answer was given ([pull request](https://github.com/h5p/h5p-true-false/pull/124))
 - [x] **Video:** <strike>_[Feature]_ Add "save content state" for time ([pull request](https://github.com/h5p/h5p-video/pull/25))</strike> _pull request ignored, implemented differently_
