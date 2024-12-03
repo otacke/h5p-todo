@@ -492,6 +492,7 @@ New content type that works like blending QuestionSet and DialogCards:
 - Allow to set question type content
 - Use each content's result as grounds for a repetition mode
 - Different modes possible, e.g. classic Leitner, http://pad.o-e-r.de/p/oercamp19-WS4-04, ...
+- Time limits
 
 ### MathDisplay
 Add KaTeX support
