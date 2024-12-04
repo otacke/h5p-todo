@@ -35,7 +35,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Feature]_ HFP-4063 Add support for user configuration file ([pull request](https://github.com/h5p/h5p-cli/pull/98))
 - [x] **H5P CLI:** _[Fix] HFP-4093 Improve color code detection ([pull request](https://github.com/h5p/h5p-cli/pull/111))
 - [ ] **H5P CLI:** _[Fix] HFP-4163 Fix H5P core fullscreen button not showing up ([pull request](https://github.com/h5p/h5p-cli/pull/122))
-- [ ] **H5p CLI:** _[Fix] HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))
+- [ ] **H5p CLI:** <strike>_[Fix] HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))</strike> was ignored and re-implemented
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - [x] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
