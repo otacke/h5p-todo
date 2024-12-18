@@ -68,6 +68,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core** _[Fix]_ HFP-3989 Fix programmatically removing a list item ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/255))
 - [ ] **H5P editor core** _[Feature]_ HFP-3989 Use removeItem for removeAllItems (list) ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/256)) 
 - [ ] **H5P editor core** _[Fix]_ HFP-4034 Fix using default value for library widget ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/258))
+- [ ] **H5P editor core** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/310))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
@@ -195,6 +196,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Video:** _[Fix]_ HFP-4037 Fix sanitization of visual parameters ([pul request](https://github.com/h5p/h5p-video/pull/129))
 - [ ] **Video:** _[Feature]_ HFP-3684 Prevent playback rate spoofing ([pull request](https://github.com/h5p/h5p-video/pull/87))
 - [x] **Video** _[Fix]_ HFP-3868 Fix treating extras as mandatory ([pull request](https://github.com/h5p/h5p-video/pull/119))
+- [ ] **Video** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-video/pull/148))
 - [x] **Virtual Tour** _[Fix]_ HFP-3218 Stop setting focus on startup ([pull request](https://github.com/h5p/h5p-three-image/pull/92))
 
 ## Issues for my existing stuff
