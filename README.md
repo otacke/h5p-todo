@@ -74,6 +74,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Make more robust for multi-value rules ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/2))
+- [ ] **ShowWhen:** _[Feature]_ HFP-4196 Pass trough children property of field instance ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/12))
 - [ ] **VerticalTabs:** _[Feature]_ Hide buttons based on min/max setting ([H5P-3599](https://h5ptechnology.atlassian.net/browse/HFP-3599)[pull request](https://github.com/h5p/h5p-editor-vertical-tabs/pull/3))
 - [ ] **WordPress plugin:** _[Feature]_ Set generous HTTP feature policy ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/114))
 - [x] **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
