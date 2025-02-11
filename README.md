@@ -329,8 +329,6 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Nodes can also be outputs (numbers, colors, sounds, ...)
 
 ### WordPress-PlugIn
-
-
 - Add option to override the list of allowed content types in the settings (as in Drupal)
 - Add support for the Gutenberg editor
 - Add "view_h5p_contents" capability: If set, users should at least be able to view the list of H5P contents (including the buttons that should be visible for viewing results and for editing content based on the other capabilities).
@@ -341,7 +339,9 @@ Metadata can already be altered using the alter_params hook, but only for subcon
 - Improve content management capabilities (by replacing the list of contents with a different solution in the official plugin or by replacing it with a custom plugin - possible, done before :-))
   - Better filtering
   - Delete content(s) in list directly
+  - Batch export/import
   - ...
+- Endpoint to display H5P content on a plain page including QR code generation to point to.
 
 #### WP-H5P-Leaderboard
 PlugIn that allows to add a leaderboard to a post based on the scores achieved for a H5P content type.
