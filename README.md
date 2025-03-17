@@ -716,6 +716,10 @@ Server-side tool (with client-side frontend) to modify content type parameters t
 4) write h5p.json and content.json
 5) Return the new file.
 
+### DragNBar/DragNDrop/DragNResize replacement
+There are the DragNBar/DragNDrop/DragNResize libraries that are used in the editor of Course Presentation, Interactive Videos and others. They offer quite some functionality like the toolbar buttons linked to H5P libraries, the context menu, the resize&dragging functionality. However, they are also still relying on jQuery, they are not documented, they could be refactored and some more features would be nice: e.g. grouping of and rotation of elements, callbacks
+Might be time for a re-write.
+
 ### DONE Content checker (H5P Caretaker)
 <strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
