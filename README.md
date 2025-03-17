@@ -621,9 +621,6 @@ Something like a stripped down digital version of a [Boss RC-505](https://www.bo
 ### Piano Question
 New content type, basically a multiple choice question or sequence of questions, but using a piano keyboard as input. In extreme: "Piano Hero" :-D
 
-### Content checker
-Tool to check H5P contents for missing mandatory fields, metadata, etc.
-
 ### Automated user flow test environment
 Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
 
@@ -710,7 +707,7 @@ Potentially to the rescue: H5Pacman, a package manager for H5P content types. Co
 Content type that allows the author to upload an image. For the user, the image is hidden and parts of it will sequentially be uncovered - either on click or timer based. Optionally a correct solution can be defined and scores can be awarded when the correct solution is given, based on how fast the answer was given. Also optionally, the author can define the sequence of image parts that will be revealed, but that would probably require a visual editor and thus more time to develop. Could be a two-step process.
 Could be used for the "spyhole method" where students only see a part of the image and should interpret it, and re-evaluate after they see more of the image. Could also be used as a game.
 
-### Forker ###
+### Forker
 Server-side tool (with client-side frontend) to modify content type parameters to match a forked version. Would need to:
 0) Do a sanitization check, e.g. check if versions to upgrade from is right, etc.
 1) read h5p.json and content.json
@@ -718,6 +715,9 @@ Server-side tool (with client-side frontend) to modify content type parameters t
 3) Run an upgrade-script on content.json if required
 4) write h5p.json and content.json
 5) Return the new file.
+
+### DONE Content checker (H5P Caretaker)
+<strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
 ### DONE via separate content type<strike>3D model support</strike>
 <strike>Add 3D model support to H5P.Image and the core widget using an appropriate library.</strike>
