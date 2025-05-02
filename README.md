@@ -69,6 +69,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core** _[Feature]_ HFP-3989 Use removeItem for removeAllItems (list) ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/256)) 
 - [ ] **H5P editor core** _[Fix]_ HFP-4034 Fix using default value for library widget ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/258))
 - [ ] **H5P editor core** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/310))
+- [ ] **H5P editor core** _[Fix]_ HFP-4252 AV-widget does not allow to add multiple videos ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/330))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
