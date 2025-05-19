@@ -155,7 +155,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Image Choice:** _[Fix]_ HFP-3682 Improve getAnswerGiven ([pull request](https://github.com/h5p/h5p-multi-media-choice/pull/51))
 - [ ] **Image Hotspots:** _[Fix]_ Fix non-HTML5-videos resizing ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/91))
 - [ ] **Image Hotspots:** _[Feature]_ HFP-3873 Add customizing options for popups ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/42))
-- [ ] **Image Hotspots:** _[Fix]_ HFP-4077 Improve CSS specificity ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/115))
+- [x] **Image Hotspots:** _[Fix]_ HFP-4077 Improve CSS specificity ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/115))
 - [ ] **Image Hotspots:** _[Fix]_ HFP-4254 Fix setTitle for image buttons ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/125))
 - [ ] **Image Hotspots:** _[Feature]_ HFP-4256 Allow author to add a custom icon image to each hotspot ([pull request](https://github.com/h5p/h5p-image-hotspots/pull/126))
 - [ ] **Image Hotspots:** _[Feature]_ HFP-4257 Allow author to choose "consecutive numbering" for hotspots ([pull request]())
