@@ -35,7 +35,8 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P CLI:** _[Feature]_ HFP-4063 Add support for user configuration file ([pull request](https://github.com/h5p/h5p-cli/pull/98))
 - [x] **H5P CLI:** _[Fix] HFP-4093 Improve color code detection ([pull request](https://github.com/h5p/h5p-cli/pull/111))
 - [ ] **H5P CLI:** _[Fix] HFP-4163 Fix H5P core fullscreen button not showing up ([pull request](https://github.com/h5p/h5p-cli/pull/122))
-- [ ] **H5p CLI:** <strike>_[Fix] HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))</strike> was ignored and re-implemented
+- [ ] **H5P CLI:** <strike>_[Fix]_ HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))</strike> was ignored and re-implemented
+- [ ] **H5P Components:** _[Fix]_ HFP-4258 Fix runnable configuration ([pull request](https://github.com/otacke/h5p-components/pull/1))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
 - [x] **H5P core:** _[Fix]_ Replace deprecated FILTER_SANITIZE_STRING ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/148))
@@ -71,6 +72,10 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/310))
 - [ ] **H5P editor core** _[Fix]_ HFP-4252 AV-widget does not allow to add multiple videos ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/330))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
+- [ ] **Registry:** _[Fix]_ HFP-4154 Add ARScavenger repositories ([pull request](https://github.com/h5p/h5p-registry/pull/6))
+- [ ] **Registry:** _[Fix]_ HFP-4155 Add KewArCode editor widget ([pul request](https://github.com/h5p/h5p-registry/pull/9))
+- [ ] **Registry:** _[Fix]_ Add H5P.RowColumn ([pull request](https://github.com/h5p/h5p-registry/pull/10))
+- [ ] **Registry:** _[Fix]_ Add H5P.Components ([pull request](https://github.com/h5p/h5p-registry/pull/11))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
