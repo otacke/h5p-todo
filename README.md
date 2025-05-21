@@ -198,6 +198,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Single Choice Set:** _[Fix]_ HFP-4137 Add completion/success flags ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/120))
 - [ ] **Single Choice Set:** _[Fix]_ HFP-4224 Fix cursor after selection answer option ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/129))
 - [ ] **Single Choice Set:** _[Feature]_ HFP-4225 Optionally allow user to navigate backwards ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/130))
+- [ ] **Single Choice Set Textual Editor:** _[Fix]_ HFP-4259 Fix text to task ([pull request](https://github.com/h5p/h5p-editor-single-choice-set-textual-editor/pull/29))
 - [ ] **Speak the Words Set:** _[Feature]_ Implement question type contract ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/22))
 - [ ] **Speak the Words Set:** _[Feature]_ Make includable in other content types ([pull request](https://github.com/h5p/h5p-speak-the-words/pull/26))
 - [x] **Speak the Words Set:** _[Fix]_ Fix missing l10n string for finish button ([pull request](https://github.com/h5p/h5p-speak-the-words-set/pull/50))
