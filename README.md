@@ -76,6 +76,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Registry:** _[Fix]_ HFP-4155 Add KewArCode editor widget ([pul request](https://github.com/h5p/h5p-registry/pull/9))
 - [ ] **Registry:** _[Fix]_ Add H5P.RowColumn ([pull request](https://github.com/h5p/h5p-registry/pull/10))
 - [ ] **Registry:** _[Fix]_ Add H5P.Components ([pull request](https://github.com/h5p/h5p-registry/pull/11))
+- [ ] **Registry:** _[Fix]_ Add DateTime editor widget ([pull request](https://github.com/h5p/h5p-registry/pull/12))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
