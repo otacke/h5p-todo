@@ -72,7 +72,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/310))
 - [ ] **H5P editor core** _[Fix]_ HFP-4252 AV-widget does not allow to add multiple videos ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/330))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
-- [ ] **Registry:** _[Fix]_ HFP-4154 Add ARScavenger repositories ([pull request](https://github.com/h5p/h5p-registry/pull/6))
+- [x] **Registry:** _[Fix]_ HFP-4154 Add ARScavenger repositories ([pull request](https://github.com/h5p/h5p-registry/pull/6))
 - [ ] **Registry:** _[Fix]_ HFP-4155 Add KewArCode editor widget ([pul request](https://github.com/h5p/h5p-registry/pull/9))
 - [ ] **Registry:** _[Fix]_ Add H5P.RowColumn ([pull request](https://github.com/h5p/h5p-registry/pull/10))
 - [ ] **Registry:** _[Fix]_ Add H5P.Components ([pull request](https://github.com/h5p/h5p-registry/pull/11))
