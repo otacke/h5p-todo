@@ -52,7 +52,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P Hub client:** _[Feature]_ Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
 - [ ] **H5P Hub client:** _[Feature]_ Add 'by' prefix for owner in content type details in order to make clear who created the content type ([pull request](https://github.com/h5p/h5p-hub-client/pull/10))
 - [ ] **H5P Hub client:** _[Fix]_ Fix ignoring other library owner in license view ([pull request](https://github.com/h5p/h5p-hub-client/pull/21))
-- [ ] **H5P editor core:** _[Fix]_ Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))
+- [ ] **H5P editor core:** _[Fix]_ <strike>Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))</strike> was ignored for 4 years and then was obsolete
 - [ ] **H5P editor core:** _[Fix]_ Fix CKEditor base path ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/125))
 - [ ] **H5P editor core:** _[Fix]_ Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
 - [ ] **H5P editor core:** _[Fix]_ Fix accessing patch_version_in_folder_name ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/158))
