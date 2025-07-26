@@ -731,6 +731,9 @@ Server-side tool (with client-side frontend) to modify content type parameters t
 There are the DragNBar/DragNDrop/DragNResize libraries that are used in the editor of Course Presentation, Interactive Videos and others. They offer quite some functionality like the toolbar buttons linked to H5P libraries, the context menu, the resize&dragging functionality. However, they are also still relying on jQuery, they are not documented, they could be refactored and some more features would be nice: e.g. grouping of and rotation of elements, callbacks in addition to events, extendable context menu, ...
 Might be time for a re-write.
 
+### QuickGlance
+Simple content type that shows a text or an image (on click/on being attached) and hides it after a pre-defined time span. Could make sense in combination with other content types.
+
 ### DONE Content checker (H5P Caretaker)
 <strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
