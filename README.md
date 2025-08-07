@@ -79,6 +79,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Registry:** _[Fix]_ Add H5P.Components ([pull request](https://github.com/h5p/h5p-registry/pull/11))
 - [x] **Registry:** _[Fix]_ Add DateTime editor widget ([pull request](https://github.com/h5p/h5p-registry/pull/12))
 - [ ] **Report:** _[Feature]_ Support questions where answers are neither right nor wrong (choice interaction) ([pull request](https://github.com/h5p/h5p-php-report/pull/5))
+- [ ] **ColorSelector:** _[Fix]_ HFP-4287 Fix use of spectrum parameter allowEmpty ([pull request](https://github.com/h5p/h5p-editor-color-selector/pull/5))
 - [ ] **ShowWhen:** _[Feature]_ Trigger field below triggered field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/5)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Relay changes from followed field ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/3)) ![merge-conflict](https://img.icons8.com/color/18/conflict.png)
 - [ ] **ShowWhen:** _[Feature]_ Make more robust for multi-value rules ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/2))
