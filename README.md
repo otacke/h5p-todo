@@ -56,7 +56,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core:** _[Fix]_ <strike>Fix resize of CKEditor instance ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/132))</strike> was ignored for 4 years and then was obsolete
 - [ ] **H5P editor core:** _[Fix]_ Fix CKEditor base path ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/125))
 - [ ] **H5P editor core:** _[Fix]_ Fix z-index of add file dialog ([pull-request](https://github.com/h5p/h5p-editor-php-library/pull/120))
-- [ ] **H5P editor core:** _[Fix]_ Fix accessing patch_version_in_folder_name ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/158))
+- [ ] **H5P editor core:** _[Fix]_ HFP-4291 Fix accessing patch_version_in_folder_name ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/158))
 - [x] **H5P editor core:** <strike>_[Feature]_ Add accessibility improvements (Allow to flag video as sign language [pull request](https://github.com/h5p/h5p-editor-php-library/pull/146))</strike> _rejected despite pre-qualification_
 - [ ] **H5P editor core:** _[Feature]_ Add event on list item moved ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/113))
 - [ ] **H5P editor core:** _[Feature]_ Allow to retrieve configuration of list widget ([H5P-3599](https://h5ptechnology.atlassian.net/browse/HFP-3599)[pull request](https://github.com/h5p/h5p-editor-php-library/pull/164))
