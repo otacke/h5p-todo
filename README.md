@@ -736,6 +736,13 @@ Might be time for a re-write.
 ### QuickGlance
 Simple content type that shows a text or an image (on click/on being attached) and hides it after a pre-defined time span. Could make sense in combination with other content types.
 
+### H5P results renderer
+H5P features a PHP based library named [h5p-php-report](https://github.com/h5p/h5p-php-report) that allows to interpret the results of H5P exercises (essentially amended excepts of xAPI statements) and to display them. That library is not maintained well anymore. Also, being PHP based limits its use for ports of H5P, e. g. the node.js port.
+Idea: Create a JavaScript based reinterpretation to be used flexibly by any H5P integration or Learning Record Store or as a service with a standalone solution
+- render H5P's results (return values of getXAPIData()) directly or parameters passed to php-h5p-library
+- add support for xAPI activities that h5p-php-report lacks (e. g. exercises without clearly right or wrong answers, cmp. open [pull-request from 2019](https://github.com/h5p/h5p-php-report/pull/5)
+- amend to offer drill-down reportimg functionality like H5P.com if a set of statements is passed for a specific content/user combination
+
 ### DONE Content checker (H5P Caretaker)
 <strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
