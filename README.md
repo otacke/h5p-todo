@@ -743,6 +743,12 @@ Idea: Create a JavaScript based reinterpretation to be used flexibly by any H5P 
 - add support for xAPI activities that h5p-php-report lacks (e. g. exercises without clearly right or wrong answers, cmp. open [pull-request from 2019](https://github.com/h5p/h5p-php-report/pull/5)
 - amend to offer more versatile/drill-down reporting functionality like H5P.com if a set of statements is passed for a specific content/user combination
 
+### H5P Freehand Exercise (Set)
+- As a user, I want to be able to draw/write freehand.
+- As a user, I want to optionally be able to see what I am supposed to draw/write
+- As an author, I want to be able to define what the user is supposed to draw/write
+- As an author, I want to be able to provide a background that the user is supposed to draw/write on (could be a scale for graph questions)
+
 ### DONE Content checker (H5P Caretaker)
 <strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
