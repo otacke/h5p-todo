@@ -386,10 +386,6 @@ PlugIn that allows to add a leaderboard to a post based on the scores achieved f
   - GUI for common styles like JoubelUI
   - (file) template based fields for content types
 
-#### WP-H5P-Resume
-- Plugin that optionally stores/restores the previous State in/from localStorage
-- Would work for users that are not logged in, too
-
 ### Memory
 - Add videos -- but keep an eye on the editor, should probably be improved UX-wise.
 - Add text
@@ -685,38 +681,6 @@ Classic point-to-point drawing puzzle
 - Optionally assign words (instead of numbers) to points, so students need to construct sentences
 - When a "sequence" is done, do something nice visually 
 
-### H5Pacman
-While the H5P Hub is fine for installing and updating content types, there's room for improvement
-to package management:
-- Different places to do content type management
-  - Installing can be done via the H5P Hub or the H5P library settings page of the H5P integration.
-  - Updating content types can be done via the H5P Hub only.
-  - Deleting content types can be done via the H5P library settings page of the H5P integration only.
-- Bugs (or questionable implementation)
-  - The H5P integration for moodle does not allow to delete libraries.
-  - Circular dependencies are not resolved, so it may never be possible to delete content types, even though they are not used anymore (despite a 3 year old pull request, https://h5ptechnology.atlassian.net/browse/HFP-3065).
-  - Moodle's custom H5P integration in moodle's core allows to delete all libraries regardless of whether they are still required or not.
-- Lack of features
-  - Moodle's custom H5P integration has an auto-update feature that allows to automatically fetch and install content type library updates. Some admins hate (as they don't like to let others' code be deployed automatically), others love it. Either way, no other H5P integration features this.
-  - h5p.org is the only fixed content type source, so it's very inconvenient to keep track of updates to other creators' content types - and hard to discover new content types in the first place.
- 
-Potentially to the rescue: H5Pacman, a package manager for H5P content types. Compare the idea to package managers known in the Linux world.
-- Encapsulated core functionality (in PHP)
-  - Can be reused in different H5P integrations (the latter basically only need to implement the bridge to the database and the file system), so it should be quite simple to create a plugin for the PHP based platforms that offer H5P support (moodle, WordPress, Drupal, EdLib, ILIAS, Stud.IP).
-  - Ports to node.js (or other programming languages) for supporting Lumi are possible, of course.
-- Keep content type management in one place (install, update, delete).
-- Allow to add/remove other package sources than h5p.org and can handle all of them
-  - Simplest case: Use URLs to alternative h5p content type servers
-  - allow to configure auto-update/priority per source, etc.
-  - Requires a content type server that
-    - implements the (very simple) API that h5p.org uses together with the H5P Hub.
-    - supports release management of content types (but could use a simple file system based approach to get started).
-    - would not be "bound" to be created in PHP
-- Allow proper deletion of libraries (if possible only vs. enforced with warning, take care of circular dependencies)
-- Extra functionality
-  - Auto-update
-  - Revert to older conent type versions (can break existing content though!)
-
 ### Spyhole content type
 Content type that allows the author to upload an image. For the user, the image is hidden and parts of it will sequentially be uncovered - either on click or timer based. Optionally a correct solution can be defined and scores can be awarded when the correct solution is given, based on how fast the answer was given. Also optionally, the author can define the sequence of image parts that will be revealed, but that would probably require a visual editor and thus more time to develop. Could be a two-step process.
 Could be used for the "spyhole method" where students only see a part of the image and should interpret it, and re-evaluate after they see more of the image. Could also be used as a game.
@@ -750,7 +714,43 @@ Idea: Create a JavaScript based reinterpretation to be used flexibly by any H5P 
 - As an author, I want to be able to define what the user is supposed to draw/write
 - As an author, I want to be able to provide a background that the user is supposed to draw/write on (could be a scale for graph questions)
 
-### DONE Content checker (H5P Caretaker)
+### DONE <strike>H5Pacman</strike> as Catharsis and partially WP plugin
+<strike>While the H5P Hub is fine for installing and updating content types, there's room for improvement
+to package management:
+- Different places to do content type management
+  - Installing can be done via the H5P Hub or the H5P library settings page of the H5P integration.
+  - Updating content types can be done via the H5P Hub only.
+  - Deleting content types can be done via the H5P library settings page of the H5P integration only.
+- Bugs (or questionable implementation)
+  - The H5P integration for moodle does not allow to delete libraries.
+  - Circular dependencies are not resolved, so it may never be possible to delete content types, even though they are not used anymore (despite a 3 year old pull request, https://h5ptechnology.atlassian.net/browse/HFP-3065).
+  - Moodle's custom H5P integration in moodle's core allows to delete all libraries regardless of whether they are still required or not.
+- Lack of features
+  - Moodle's custom H5P integration has an auto-update feature that allows to automatically fetch and install content type library updates. Some admins hate (as they don't like to let others' code be deployed automatically), others love it. Either way, no other H5P integration features this.
+  - h5p.org is the only fixed content type source, so it's very inconvenient to keep track of updates to other creators' content types - and hard to discover new content types in the first place.</strike>
+ 
+<strike>Potentially to the rescue: H5Pacman, a package manager for H5P content types. Compare the idea to package managers known in the Linux world.
+- Encapsulated core functionality (in PHP)
+  - Can be reused in different H5P integrations (the latter basically only need to implement the bridge to the database and the file system), so it should be quite simple to create a plugin for the PHP based platforms that offer H5P support (moodle, WordPress, Drupal, EdLib, ILIAS, Stud.IP).
+  - Ports to node.js (or other programming languages) for supporting Lumi are possible, of course.
+- Keep content type management in one place (install, update, delete).
+- Allow to add/remove other package sources than h5p.org and can handle all of them
+  - Simplest case: Use URLs to alternative h5p content type servers
+  - allow to configure auto-update/priority per source, etc.
+  - Requires a content type server that
+    - implements the (very simple) API that h5p.org uses together with the H5P Hub.
+    - supports release management of content types (but could use a simple file system based approach to get started).
+    - would not be "bound" to be created in PHP
+- Allow proper deletion of libraries (if possible only vs. enforced with warning, take care of circular dependencies)
+- Extra functionality
+  - Auto-update
+  - Revert to older conent type versions (can break existing content though!)</strike>
+
+### DONE <strike>WP-H5P-Resume</strike>
+<strike>- Plugin that optionally stores/restores the previous State in/from localStorage
+- Would work for users that are not logged in, too</strike>
+
+### DONE <strikg>Content checker (H5P Caretaker)</strike>
 <strike>Tool to check H5P contents for missing mandatory fields, metadata, etc.</strike>
 
 ### DONE via separate content type<strike>3D model support</strike>
