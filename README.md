@@ -180,7 +180,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Interactive Video:** _[Fix]_ Add package-lock.json to .h5pignore ([pull request](https://github.com/h5p/h5p-interactive-video/pull/318))
 - [ ] **Interactive Video:** _[Feature]_ HFP-4219 Add listener to allow "tap to start/pause" on video container ([pull request](https://github.com/h5p/h5p-interactive-video/pull/337))
 - [ ] **Interactive Video:** _[Fix]_ HFP-4221 Fix default text track is not selected properly ([pull request](https://github.com/h5p/h5p-interactive-video/pull/338))
-- [ ] **Interactive Video:** _[Fix]_ HFP-4222 Fix keydown in Freetext interfering with global keys ([pull request](https://github.com/h5p/h5p-interactive-video/pull/339))
+- [x] **Interactive Video:** _[Fix]_ HFP-4222 Fix keydown in Freetext interfering with global keys ([pull request](https://github.com/h5p/h5p-interactive-video/pull/339))
 - [x] **Interactive Video Editor:** _[Fix]_ Fix styling the non-form parts of the H5P Hub ([pull-request](https://github.com/h5p/h5p-editor-interactive-video/pull/72))
 - [x] **IV Hotspot:** _[Fix]_ Fix label HTML encoding ([pull request] https://github.com/h5p/h5p-iv-hotspot/pull/42)
 - [ ] **Link:** _[Fix]_ Fix ampersand & being html encoded ([pull request](https://github.com/h5p/h5p-link/pull/19))
