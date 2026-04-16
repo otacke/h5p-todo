@@ -116,6 +116,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Branching Question** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-branching-question/pull/52))
 - [ ] **Branching Question (Editor)** _[Feature]_ HFP-3831 Add question media ([pull request](https://github.com/h5p/h5p-editor-branching-question/pull/20))
 - [ ] **Branching Scenario** _[Fix]_ Fix label of proceed button ([pull request](https://github.com/h5p/h5p-branching-scenario/pull/150))
+- [ ] **Branching Scenario** _[Fix]_ HFP-4332 Fix as subcontent ([pull request](https://github.com/h5p/h5p-branching-scenario/pull/184), [pull request](https://github.com/h5p/h5p-editor-branching-scenario/pull/73))
 - [x] **Chart:** _[Fix]_ Fix HTML encoding in charts labels ([HFP-2041](https://h5ptechnology.atlassian.net/browse/HFP-2042)) ([pull request](https://github.com/h5p/h5p-chart/pull/34))
 - [ ] **Column:** _[Feature]_ Remove Twitter user feed from content type options ([pull request](https://github.com/h5p/h5p-column/pull/43))
 - [ ] **Column:** _[Fix]_ Set activity started only if Column is main content ([pull request](https://github.com/h5p/h5p-column/pull/50))
