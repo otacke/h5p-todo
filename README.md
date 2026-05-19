@@ -39,6 +39,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P CLI:** <strike>_[Fix]_ HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))</strike> was ignored and re-implemented
 - [x] **H5P CLI:** _[Fix]: HFP-4324 Fix: Ignore optional dependencies when creating content ([pull request](https://github.com/h5p/h5p-cli/pull/169))
 - [ ] **H5P CLI:** _[Fix]: HFP-4347 Fix timing dependent failure of theme controls init ([pull request](https://github.com/h5p/h5p-cli/pull/180))
+- [ ] **H5P CLI:** _[Fix]: HFP-4350 HFP-4350 Add missing custom CSS props for theming ([pull request](https://github.com/h5p/h5p-cli/pull/181))
 - [x] **H5P Components:** _[Fix]_ HFP-4258 Fix runnable configuration ([pull request](https://github.com/otacke/h5p-components/pull/1))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
@@ -50,6 +51,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **H5P core:** _[Feature]_ Add reduced motion mode to confirmation dialog ([pull request](HFP-3815 https://github.com/h5p/h5p-php-library/pull/160))
 - [ ] **H5P core:** _[Chore]_ HFP-3843 Remove obsolete full screen handling ([pull request](https://github.com/h5p/h5p-php-library/pull/162))
 - [ ] **H5P core:** _[Chore]_ Increase intelligibility of ifEmpty function ([pull request](https://github.com/h5p/h5p-php-library/pull/164))
+- [ ] **H5P core:** _[Fix]_ HFP-4349 Add dark contrast CTA variable to theme variables ([pull request](https://github.com/h5p/h5p-php-library/pull/297))
 - [ ] **H5P core/integrations:** _[Feature]_ Save content state in browser local storage ([pull request 1](https://github.com/h5p/h5p-php-library/pull/81)) ([pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/112))
 - [ ] **H5P core/integrations:** _[Fix]_ Fix deletion of view-editor-entangled libraries ([HFP-3065](https://h5ptechnology.atlassian.net/browse/HFP-3065)) ([pull request 1](https://github.com/h5p/h5p-php-library/pull/101), [pull request 2](https://github.com/h5p/h5p-wordpress-plugin/pull/125))
 - [ ] **H5P Hub client:** _[Feature]_ Turn update available hint into a link ([H5P-1982](https://h5ptechnology.atlassian.net/browse/HFP-1982)) ([pull request](https://github.com/h5p/h5p-hub-client/pull/9))
