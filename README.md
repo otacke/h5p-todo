@@ -39,7 +39,8 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P CLI:** <strike>_[Fix]_ HFP-4151 Fix allowed type detection for files ([pull request](https://github.com/h5p/h5p-cli/pull/113))</strike> was ignored and re-implemented
 - [x] **H5P CLI:** _[Fix]: HFP-4324 Fix: Ignore optional dependencies when creating content ([pull request](https://github.com/h5p/h5p-cli/pull/169))
 - [ ] **H5P CLI:** _[Fix]: HFP-4347 Fix timing dependent failure of theme controls init ([pull request](https://github.com/h5p/h5p-cli/pull/180))
-- [ ] **H5P CLI:** _[Fix]: HFP-4350 HFP-4350 Add missing custom CSS props for theming ([pull request](https://github.com/h5p/h5p-cli/pull/181))
+- [ ] **H5P CLI:** _[Fix]: HFP-4350 Add missing custom CSS props for theming ([pull request](https://github.com/h5p/h5p-cli/pull/181))
+- [ ] **H5P CLI:** _[Fix]: HFP-4354 Fix trying to access shortname of unregistered library ([pull_request](https://github.com/h5p/h5p-cli/pull/183))
 - [x] **H5P Components:** _[Fix]_ HFP-4258 Fix runnable configuration ([pull request](https://github.com/otacke/h5p-components/pull/1))
 - [ ] **H5P core:** _[Feature]_ Respect doNotTrack setting ([pull request](https://github.com/h5p/h5p-php-library/pull/98))
 - [ ] **H5P core:** _[Fix]_ Fix uncaught exception when accessing localStorage ([pull request](https://github.com/h5p/h5p-php-library/pull/66))
