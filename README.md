@@ -77,6 +77,8 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **H5P editor core** _[Fix]_ HFP-4034 Fix using default value for library widget ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/258))
 - [x] **H5P editor core** _[Feature]_ HFP-4174 Allow Panopto videos to be used from self-hosted Panopto instanced ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/310))
 - [ ] **H5P editor core** _[Fix]_ HFP-4252 AV-widget does not allow to add multiple videos ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/330))
+- [ ] **H5P Editor core** _[Fix]_ H5P-4357 Fix latent list item removal bug ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/364))
+- [ ] **H5P Editor core** _[Fix]_ HFP-3989 Toggle add/remove list item buttons as needed ([pull request](https://github.com/h5p/h5p-editor-php-library/pull/365))
 - [ ] **H5P Joubel-UI:** _[Fix]_ Make scorebar progress unselectable ([pull request](https://github.com/h5p/h5p-joubel-ui/pull/11))
 - [ ] **CKEditor:** _[Fix]_ HFP-4338 Remove sourceMap option from TerserWebpackPlugin ([pull request](https://github.com/h5p/h5p-ckeditor/pull/33))
 - [x] **Registry:** _[Fix]_ HFP-4154 Add ARScavenger repositories ([pull request](https://github.com/h5p/h5p-registry/pull/6))
