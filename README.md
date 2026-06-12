@@ -167,7 +167,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **Flashcards:** _[Fix]_ HFP-3644 Update usage description in translation files ([pull request](https://github.com/h5p/h5p-flashcards/pull/115))
 - [x] **Goals Assessment Page:** _[Fix]_ Improve accessibility: Add labels to goals list ([pull request](https://github.com/h5p/h5p-goals-assessment-page/pull/41#event-8708714127))
 - [ ] **Goals Page:** _[Feature]_ HFP-3860 Add option for predefined goals([pull request](https://github.com/h5p/h5p-goals-page/pull/47))
-- [ ] **GoToQuestion:** _[Fix]_ HFP-3919 Remove title attribute from button ([pull request](https://github.com/h5p/h5p-go-to-question/pull/40))
+- [ ] <strike>**GoToQuestion:** _[Fix]_ HFP-3919 Remove title attribute from button ([pull request](https://github.com/h5p/h5p-go-to-question/pull/40))</strike>_has become obsolete_
 - [x] **Image:** _[Fix]_ Fix alt and title attribute ([pull request](https://github.com/h5p/h5p-image/pull/55))
 - [ ] **Image:** _[Feature]_ Allow alt tags with up to 1024 characters ([pull request](https://github.com/h5p/h5p-image/pull/58))
 - [x] **Image Choice:** _[Fix]_ HFP-3682 Improve getAnswerGiven ([pull request](https://github.com/h5p/h5p-multi-media-choice/pull/51))
