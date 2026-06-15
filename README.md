@@ -93,6 +93,8 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **ShowWhen:** _[Feature]_ Make more robust for multi-value rules ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/2))
 - [ ] **ShowWhen:** _[Feature]_ HFP-4196 Pass trough children property of field instance ([pull request](https://github.com/h5p/h5p-editor-show-when/pull/12))
 - [ ] **VerticalTabs:** _[Feature]_ Hide buttons based on min/max setting ([H5P-3599](https://h5ptechnology.atlassian.net/browse/HFP-3599)[pull request](https://github.com/h5p/h5p-editor-vertical-tabs/pull/3))
+- [ ] **Moodle plugin:** _[Feature]_ Add support for custom script parameters in alter_scripts hook ([pull request](https://github.com/h5p/moodle-mod_hvp/pull/624))
+- [ ] **Moodle mod plugin:** _[Feature]_ Add modification to use custom script parameters ([pull request](https://github.com/h5p/h5pmods-moodle-plugin/pull/3)]
 - [ ] **WordPress plugin:** _[Feature]_ Set generous HTTP feature policy ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/114))
 - [x] **WordPress plugin:** _[Fix]_ Fix check for "install_recommended_h5p_libraries" capability ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/109))
 - [x] **WordPress plugin:** _[Fix]_ Add overflow-x scrollbar for data views that are too narrow ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/108))
@@ -102,6 +104,8 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [x] **WordPress plugin:** _[Fix]_ H5P-3773 Fix potential memory issue ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/162))
 - [x] **WordPress plugin:** _[Fix]_ Fix sorting contents by author ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/167))
 - [ ] **WordPress plugin:** _[Feature]_ Use language defined in user profile, not general site language ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/181))
+- [ ] **WordPress plugin:** _[Feature]_ Add support for custom script parameters in alter_scripts hook ([pull request](https://github.com/h5p/h5p-wordpress-plugin/pull/214))
+- [ ] **WordPress mod plugin:** _[Feature]_ Add modification to use custom script parameters ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/10)]
 - [x] **WordPress mod plugin:** _[Fix]_ Fix deprecated use of "implode" argument order ([pull request](https://github.com/h5p/h5pmods-wordpress-plugin/pull/6))
 
 ### Pull requests for bugfixes and new features for existing content types
