@@ -209,6 +209,7 @@ I know of some pull requests that now raise merge conflicts as the original code
 - [ ] **Question** _[Fix]_ Fix aria label of image expand/collapse button ([pull request](https://github.com/h5p/h5p-question/pull/27))
 - [x] **Question:** _[Fix]_ HFP-3824 Add fix for dialog on embedded fullscreen ([pull request](https://github.com/h5p/h5p-question/pull/23))
 - [ ] **Question Set:** _[Fix]_ Fix intro image scaling if used in compound content types ([pull request](https://github.com/h5p/h5p-question-set/pull/55))
+- [ ] **Question Set:** _[Fix]_ Fix current question text not passed to navigation component ([pull request](https://github.com/h5p/h5p-question-set/pull/189))
 - [x] **Questionnaire:** _[Fix]_ Exclude package-lock.json from h5p library ([pull](https://github.com/h5p/h5p-questionnaire/pull/65))
 - [ ] **Shape:** _[Fix]_ Add missing dependency to H5PEditor.RadioGroup ([pull request](https://github.com/h5p/h5p-shape/pull/18))
 - [ ] **Single Choice Set:** _[Fix]_ Stop giving away correct answers in page source ([pull request](https://github.com/h5p/h5p-single-choice-set/pull/53))
