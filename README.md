@@ -645,6 +645,12 @@ Something like a stripped down digital version of a [Boss RC-505](https://www.bo
 ### Piano Question
 New content type, basically a multiple choice question or sequence of questions, but using a piano keyboard as input. In extreme: "Piano Hero" :-D
 
+### Feedback
+- Collect feedback from students on learning activities.
+- This could be a thumbs up/thumbs down, a Likert scale or an emoji.
+- Ask about the engagement level and difficulty.
+- Maybe provide a textbox so students can recommend an imporovement.
+
 ### Automated user flow test environment
 Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
 
