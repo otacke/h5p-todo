@@ -650,6 +650,7 @@ New content type, basically a multiple choice question or sequence of questions,
 - This could be a thumbs up/thumbs down, a Likert scale or an emoji.
 - Ask about the engagement level and difficulty.
 - Maybe provide a textbox so students can recommend an imporovement.
+(https://github.com/h5p/h5p-wordpress-plugin/issues/177)
 
 ### Automated user flow test environment
 Should be done by H5P Group, but it's quite simple to set up a basic environment for the H5P CLI tool with Playwright or Selenium or ...
